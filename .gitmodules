@@ -1,0 +1,3 @@
+[submodule "SeleniumWithPython/SeleniumWithPython/PythonFramework"]
+	path = SeleniumWithPython/SeleniumWithPython/PythonFramework
+	url = https://github.com/Manishs327/PythonFramework.git

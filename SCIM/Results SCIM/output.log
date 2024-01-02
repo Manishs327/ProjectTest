@@ -1,0 +1,1027 @@
+2023-09-26 20:51:39,899 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "4de9b0e4fb23401e9d3fe7deef05ec50",
+  "userName" : "idcsusersept121",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT121",
+    "givenName" : "IDCSUSERSEPT121"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT121@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:12:02Z",
+    "lastModified" : "2023-09-26T13:12:02Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/4de9b0e4fb23401e9d3fe7deef05ec50",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 20:51:39,900 - INFO - Request 1 Response Code: 200 
+2023-09-26 20:51:39,900 - INFO - Request 2 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "0cedcc10673944e49ed6d3c14e752a65",
+  "userName" : "idcsusersept122",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT122",
+    "givenName" : "IDCSUSERSEPT122"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT122@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:11:35Z",
+    "lastModified" : "2023-09-26T13:11:35Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/0cedcc10673944e49ed6d3c14e752a65",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 20:51:39,900 - INFO - Request 2 Response Code: 200 
+2023-09-26 20:51:39,900 - INFO - Request 3 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "aacb35a57e2b47a895da563e1e16fe13",
+  "userName" : "idcsusersept123",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT123",
+    "givenName" : "IDCSUSERSEPT123"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT123@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:11:39Z",
+    "lastModified" : "2023-09-26T13:11:39Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/aacb35a57e2b47a895da563e1e16fe13",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 20:51:39,900 - INFO - Request 3 Response Code: 200 
+2023-09-26 20:51:39,900 - INFO - Request 4 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "e9f1341bd3c44721af1f3fa629134712",
+  "userName" : "idcsusersept124",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT124",
+    "givenName" : "IDCSUSERSEPT124"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT124@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:11:54Z",
+    "lastModified" : "2023-09-26T13:11:54Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/e9f1341bd3c44721af1f3fa629134712",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 20:51:39,900 - INFO - Request 4 Response Code: 200 
+2023-09-26 20:51:39,900 - INFO - Request 5 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "961b116c4706450fa23e4507ea0a3c0e",
+  "userName" : "idcsusersept125",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT125",
+    "givenName" : "IDCSUSERSEPT125"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT125@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:11:51Z",
+    "lastModified" : "2023-09-26T13:11:51Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/961b116c4706450fa23e4507ea0a3c0e",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 20:51:39,900 - INFO - Request 5 Response Code: 200 
+2023-09-26 20:51:39,900 - INFO - Request 6 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "4e60b134538147489d0e623eb98b3300",
+  "userName" : "idcsusersept126",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT126",
+    "givenName" : "IDCSUSERSEPT126"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT126@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:11:43Z",
+    "lastModified" : "2023-09-26T13:11:43Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/4e60b134538147489d0e623eb98b3300",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 20:51:39,900 - INFO - Request 6 Response Code: 200 
+2023-09-26 20:51:39,900 - INFO - Request 7 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "692c90689367479c92510a212f84d41c",
+  "userName" : "idcsusersept127",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT127",
+    "givenName" : "IDCSUSERSEPT127"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT127@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:12:01Z",
+    "lastModified" : "2023-09-26T13:12:01Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/692c90689367479c92510a212f84d41c",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 20:51:39,900 - INFO - Request 7 Response Code: 200 
+2023-09-26 20:51:39,901 - INFO - Request 8 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Group not found",
+    "code" : "404"
+  } ]
+} 
+2023-09-26 20:51:39,901 - INFO - Request 8 Response Code: 404 
+2023-09-26 20:51:39,901 - INFO - Request 9 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "2090481dedec4a3388862a8f4646b274",
+  "userName" : "idcsusersept129",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT129",
+    "givenName" : "IDCSUSERSEPT129"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT129@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:11:48Z",
+    "lastModified" : "2023-09-26T13:11:48Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/2090481dedec4a3388862a8f4646b274",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 20:51:39,901 - INFO - Request 9 Response Code: 200 
+2023-09-26 20:51:39,901 - INFO - Request 10 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 10 Response Code: 504 
+2023-09-26 20:51:39,901 - INFO - Request 11 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 11 Response Code: 504 
+2023-09-26 20:51:39,901 - INFO - Request 12 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 12 Response Code: 504 
+2023-09-26 20:51:39,901 - INFO - Request 13 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 13 Response Code: 504 
+2023-09-26 20:51:39,901 - INFO - Request 14 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 14 Response Code: 504 
+2023-09-26 20:51:39,901 - INFO - Request 15 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 15 Response Code: 504 
+2023-09-26 20:51:39,901 - INFO - Request 16 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 16 Response Code: 504 
+2023-09-26 20:51:39,901 - INFO - Request 17 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 17 Response Code: 504 
+2023-09-26 20:51:39,901 - INFO - Request 18 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 18 Response Code: 504 
+2023-09-26 20:51:39,901 - INFO - Request 19 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 19 Response Code: 504 
+2023-09-26 20:51:39,901 - INFO - Request 20 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 20 Response Code: 504 
+2023-09-26 20:51:39,901 - INFO - Request 21 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,901 - INFO - Request 21 Response Code: 504 
+2023-09-26 20:51:39,902 - INFO - Request 22 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,902 - INFO - Request 22 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 23 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 23 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 24 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 24 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 25 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 25 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 26 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 26 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 27 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 27 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 28 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 28 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 29 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 29 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 30 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 30 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 31 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 31 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 32 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 32 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 33 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 33 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 34 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 34 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 35 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 35 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 36 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 36 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 37 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 37 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 38 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 38 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 39 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 39 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 40 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 40 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 41 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 41 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 42 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,903 - INFO - Request 42 Response Code: 504 
+2023-09-26 20:51:39,903 - INFO - Request 43 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 43 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 44 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 44 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 45 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 45 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 46 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 46 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 47 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 47 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 48 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 48 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 49 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 49 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 50 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 50 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 51 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 51 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 52 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 52 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 53 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 53 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 54 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 54 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 55 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 55 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 56 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,904 - INFO - Request 56 Response Code: 504 
+2023-09-26 20:51:39,904 - INFO - Request 57 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 57 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 58 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 58 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 59 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 59 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 60 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 60 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 61 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 61 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 62 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 62 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 63 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 63 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 64 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 64 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 65 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 65 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 66 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 66 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 67 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 67 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 68 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 68 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 69 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 69 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 70 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,905 - INFO - Request 70 Response Code: 504 
+2023-09-26 20:51:39,905 - INFO - Request 71 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,906 - INFO - Request 71 Response Code: 504 
+2023-09-26 20:51:39,906 - INFO - Request 72 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,906 - INFO - Request 72 Response Code: 504 
+2023-09-26 20:51:39,906 - INFO - Request 73 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,906 - INFO - Request 73 Response Code: 504 
+2023-09-26 20:51:39,906 - INFO - Request 74 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 74 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 75 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 75 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 76 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 76 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 77 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 77 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 78 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 78 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 79 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 79 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 80 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 80 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 81 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 81 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 82 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 82 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 83 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 83 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 84 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 84 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 85 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 85 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 86 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,907 - INFO - Request 86 Response Code: 504 
+2023-09-26 20:51:39,907 - INFO - Request 87 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,909 - INFO - Request 87 Response Code: 504 
+2023-09-26 20:51:39,909 - INFO - Request 88 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,909 - INFO - Request 88 Response Code: 504 
+2023-09-26 20:51:39,909 - INFO - Request 89 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,909 - INFO - Request 89 Response Code: 504 
+2023-09-26 20:51:39,909 - INFO - Request 90 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,909 - INFO - Request 90 Response Code: 504 
+2023-09-26 20:51:39,909 - INFO - Request 91 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,909 - INFO - Request 91 Response Code: 504 
+2023-09-26 20:51:39,909 - INFO - Request 92 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,909 - INFO - Request 92 Response Code: 504 
+2023-09-26 20:51:39,909 - INFO - Request 93 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,909 - INFO - Request 93 Response Code: 504 
+2023-09-26 20:51:39,909 - INFO - Request 94 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,909 - INFO - Request 94 Response Code: 504 
+2023-09-26 20:51:39,909 - INFO - Request 95 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,909 - INFO - Request 95 Response Code: 504 
+2023-09-26 20:51:39,909 - INFO - Request 96 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,909 - INFO - Request 96 Response Code: 504 
+2023-09-26 20:51:39,910 - INFO - Request 97 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,910 - INFO - Request 97 Response Code: 504 
+2023-09-26 20:51:39,910 - INFO - Request 98 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,910 - INFO - Request 98 Response Code: 504 
+2023-09-26 20:51:39,910 - INFO - Request 99 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,910 - INFO - Request 99 Response Code: 504 
+2023-09-26 20:51:39,910 - INFO - Request 100 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 20:51:39,910 - INFO - Request 100 Response Code: 504 

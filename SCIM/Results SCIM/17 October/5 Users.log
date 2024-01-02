@@ -1,0 +1,105 @@
+2023-10-17 18:39:12,658 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "ad1d93a8332c41d291f5976a3b71a946",
+  "userName" : "idcsuseroct501",
+  "name" : {
+    "familyName" : "IDCSUSEROCT501",
+    "givenName" : "IDCSUSEROCT501"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT501@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-17T13:09:01Z",
+    "lastModified" : "2023-10-17T13:09:01Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/ad1d93a8332c41d291f5976a3b71a946",
+    "resourceType" : "User"
+  }
+} 
+2023-10-17 18:39:12,658 - INFO - Request 1 Response Code: 200 
+2023-10-17 18:39:12,669 - INFO - Request 2 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "3d538f3b5b884355aa619d53e3fe7134",
+  "userName" : "idcsuseroct502",
+  "name" : {
+    "familyName" : "IDCSUSEROCT502",
+    "givenName" : "IDCSUSEROCT502"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT502@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-17T13:09:09Z",
+    "lastModified" : "2023-10-17T13:09:09Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/3d538f3b5b884355aa619d53e3fe7134",
+    "resourceType" : "User"
+  }
+} 
+2023-10-17 18:39:12,669 - INFO - Request 2 Response Code: 200 
+2023-10-17 18:39:12,669 - INFO - Request 3 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "c0689cf2cac04c5882e581da5c743406",
+  "userName" : "idcsuseroct503",
+  "name" : {
+    "familyName" : "IDCSUSEROCT503",
+    "givenName" : "IDCSUSEROCT503"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT503@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-17T13:09:06Z",
+    "lastModified" : "2023-10-17T13:09:06Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/c0689cf2cac04c5882e581da5c743406",
+    "resourceType" : "User"
+  }
+} 
+2023-10-17 18:39:12,669 - INFO - Request 3 Response Code: 200 
+2023-10-17 18:39:12,669 - INFO - Request 4 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "980f178bd59b498a8f8c61652b607429",
+  "userName" : "idcsuseroct504",
+  "name" : {
+    "familyName" : "IDCSUSEROCT504",
+    "givenName" : "IDCSUSEROCT504"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT504@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-17T13:09:03Z",
+    "lastModified" : "2023-10-17T13:09:03Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/980f178bd59b498a8f8c61652b607429",
+    "resourceType" : "User"
+  }
+} 
+2023-10-17 18:39:12,669 - INFO - Request 4 Response Code: 200 
+2023-10-17 18:39:12,670 - INFO - Request 5 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "65891a3da66b4e238f0cd4306016fb73",
+  "userName" : "idcsuseroct505",
+  "name" : {
+    "familyName" : "IDCSUSEROCT505",
+    "givenName" : "IDCSUSEROCT505"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT505@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-17T13:08:59Z",
+    "lastModified" : "2023-10-17T13:08:59Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/65891a3da66b4e238f0cd4306016fb73",
+    "resourceType" : "User"
+  }
+} 
+2023-10-17 18:39:12,670 - INFO - Request 5 Response Code: 200 

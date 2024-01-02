@@ -1,0 +1,1364 @@
+2023-09-27 16:55:23,917 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "1a59489a155140b7873e16aac7a4dc17",
+  "userName" : "idcsusersept251",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT251",
+    "givenName" : "IDCSUSERSEPT251"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT251@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:18:24Z",
+    "lastModified" : "2023-09-26T13:18:24Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/1a59489a155140b7873e16aac7a4dc17",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,918 - INFO - Request 1 Response Code: 200 
+2023-09-27 16:55:23,918 - INFO - Request 2 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "f210954775a34c43968fc2b35a6705a2",
+  "userName" : "idcsusersept252",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT252",
+    "givenName" : "IDCSUSERSEPT252"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT252@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:18:33Z",
+    "lastModified" : "2023-09-26T13:18:33Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/f210954775a34c43968fc2b35a6705a2",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,918 - INFO - Request 2 Response Code: 200 
+2023-09-27 16:55:23,918 - INFO - Request 3 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Group not found",
+    "code" : "404"
+  } ]
+} 
+2023-09-27 16:55:23,918 - INFO - Request 3 Response Code: 404 
+2023-09-27 16:55:23,919 - INFO - Request 4 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "3eb174b53a8a47c0b3a99198427f1ac0",
+  "userName" : "idcsusersept254",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT254",
+    "givenName" : "IDCSUSERSEPT254"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT254@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:18:36Z",
+    "lastModified" : "2023-09-26T13:18:36Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/3eb174b53a8a47c0b3a99198427f1ac0",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,919 - INFO - Request 4 Response Code: 200 
+2023-09-27 16:55:23,919 - INFO - Request 5 Response: {"'access_token'"} 
+2023-09-27 16:55:23,920 - INFO - Request 6 Response: {"'access_token'"} 
+2023-09-27 16:55:23,920 - INFO - Request 7 Response: {"'access_token'"} 
+2023-09-27 16:55:23,920 - INFO - Request 8 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "912f2e73b7d5400792e2bd46adf6891e",
+  "userName" : "idcsusersept258",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT258",
+    "givenName" : "IDCSUSERSEPT258"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT258@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:18:53Z",
+    "lastModified" : "2023-09-26T13:18:53Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/912f2e73b7d5400792e2bd46adf6891e",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,920 - INFO - Request 8 Response Code: 200 
+2023-09-27 16:55:23,920 - INFO - Request 9 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "0222cf8df41a46ecb2f89df7c3c0f68b",
+  "userName" : "idcsusersept259",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT259",
+    "givenName" : "IDCSUSERSEPT259"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT259@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:18:30Z",
+    "lastModified" : "2023-09-26T13:18:30Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/0222cf8df41a46ecb2f89df7c3c0f68b",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,921 - INFO - Request 9 Response Code: 200 
+2023-09-27 16:55:23,921 - INFO - Request 10 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "12240c1ffdf744f5868c684b84b27faf",
+  "userName" : "idcsusersept2510",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2510",
+    "givenName" : "IDCSUSERSEPT2510"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2510@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:48:48Z",
+    "lastModified" : "2023-09-26T13:48:48Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/12240c1ffdf744f5868c684b84b27faf",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,921 - INFO - Request 10 Response Code: 200 
+2023-09-27 16:55:23,921 - INFO - Request 11 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "560b078d35ff4b40a2156349d05e1926",
+  "userName" : "idcsusersept2511",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2511",
+    "givenName" : "IDCSUSERSEPT2511"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2511@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:46:12Z",
+    "lastModified" : "2023-09-26T13:46:12Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/560b078d35ff4b40a2156349d05e1926",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,921 - INFO - Request 11 Response Code: 200 
+2023-09-27 16:55:23,921 - INFO - Request 12 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Group not found",
+    "code" : "404"
+  } ]
+} 
+2023-09-27 16:55:23,921 - INFO - Request 12 Response Code: 404 
+2023-09-27 16:55:23,921 - INFO - Request 13 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b494c757a12c4efba4b5f1d6e1c8dddb",
+  "userName" : "idcsusersept2513",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2513",
+    "givenName" : "IDCSUSERSEPT2513"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2513@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:49:57Z",
+    "lastModified" : "2023-09-26T13:49:57Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/b494c757a12c4efba4b5f1d6e1c8dddb",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,921 - INFO - Request 13 Response Code: 200 
+2023-09-27 16:55:23,921 - INFO - Request 14 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "3d19a4e4df054dbeaf26b96879d3beee",
+  "userName" : "idcsusersept2514",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2514",
+    "givenName" : "IDCSUSERSEPT2514"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2514@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:50:38Z",
+    "lastModified" : "2023-09-26T13:50:38Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/3d19a4e4df054dbeaf26b96879d3beee",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,921 - INFO - Request 14 Response Code: 200 
+2023-09-27 16:55:23,921 - INFO - Request 15 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "1e1fd4b17fa745f2b46fe7b53435f1f6",
+  "userName" : "idcsusersept2515",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2515",
+    "givenName" : "IDCSUSERSEPT2515"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2515@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:46:37Z",
+    "lastModified" : "2023-09-26T13:46:37Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/1e1fd4b17fa745f2b46fe7b53435f1f6",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,921 - INFO - Request 15 Response Code: 200 
+2023-09-27 16:55:23,921 - INFO - Request 16 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "5b6b133c35ee4e86beb73c7b56fe77f3",
+  "userName" : "idcsusersept2516",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2516",
+    "givenName" : "IDCSUSERSEPT2516"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2516@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:49:21Z",
+    "lastModified" : "2023-09-26T13:49:21Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/5b6b133c35ee4e86beb73c7b56fe77f3",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,921 - INFO - Request 16 Response Code: 200 
+2023-09-27 16:55:23,921 - INFO - Request 17 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "0d5c13a3a3fe47b1b2b8598205bc37e3",
+  "userName" : "idcsusersept2517",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2517",
+    "givenName" : "IDCSUSERSEPT2517"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2517@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:50:41Z",
+    "lastModified" : "2023-09-26T13:50:41Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/0d5c13a3a3fe47b1b2b8598205bc37e3",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,921 - INFO - Request 17 Response Code: 200 
+2023-09-27 16:55:23,921 - INFO - Request 18 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b1ece06773714fff84b38f5ad592aae2",
+  "userName" : "idcsusersept2518",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2518",
+    "givenName" : "IDCSUSERSEPT2518"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2518@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:50:24Z",
+    "lastModified" : "2023-09-26T13:50:24Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/b1ece06773714fff84b38f5ad592aae2",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,923 - INFO - Request 18 Response Code: 200 
+2023-09-27 16:55:23,923 - INFO - Request 19 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "23a9132a57444c6ab53b7413318ef824",
+  "userName" : "idcsusersept2519",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2519",
+    "givenName" : "IDCSUSERSEPT2519"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2519@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:47:08Z",
+    "lastModified" : "2023-09-26T13:47:08Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/23a9132a57444c6ab53b7413318ef824",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,923 - INFO - Request 19 Response Code: 200 
+2023-09-27 16:55:23,924 - INFO - Request 20 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Group not found",
+    "code" : "404"
+  } ]
+} 
+2023-09-27 16:55:23,924 - INFO - Request 20 Response Code: 404 
+2023-09-27 16:55:23,924 - INFO - Request 21 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "23f3d5680c484607816d1c6c718624a0",
+  "userName" : "idcsusersept2521",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2521",
+    "givenName" : "IDCSUSERSEPT2521"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2521@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:48:24Z",
+    "lastModified" : "2023-09-26T13:48:24Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/23f3d5680c484607816d1c6c718624a0",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,924 - INFO - Request 21 Response Code: 200 
+2023-09-27 16:55:23,924 - INFO - Request 22 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "568f83dc3c02464a94ac37a4510c950d",
+  "userName" : "idcsusersept2522",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2522",
+    "givenName" : "IDCSUSERSEPT2522"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2522@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:48:19Z",
+    "lastModified" : "2023-09-26T13:48:19Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/568f83dc3c02464a94ac37a4510c950d",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,924 - INFO - Request 22 Response Code: 200 
+2023-09-27 16:55:23,924 - INFO - Request 23 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "6623e6886cce4736838129d7e17fbfac",
+  "userName" : "idcsusersept2523",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2523",
+    "givenName" : "IDCSUSERSEPT2523"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2523@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:47:26Z",
+    "lastModified" : "2023-09-26T13:47:26Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/6623e6886cce4736838129d7e17fbfac",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,924 - INFO - Request 23 Response Code: 200 
+2023-09-27 16:55:23,924 - INFO - Request 24 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "628bc81bb1c146889ca6bebf1129f4db",
+  "userName" : "idcsusersept2524",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2524",
+    "givenName" : "IDCSUSERSEPT2524"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2524@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:47:31Z",
+    "lastModified" : "2023-09-26T13:47:31Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/628bc81bb1c146889ca6bebf1129f4db",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,924 - INFO - Request 24 Response Code: 200 
+2023-09-27 16:55:23,925 - INFO - Request 25 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "57f24095de6244afbc2d5ca84ff5098f",
+  "userName" : "idcsusersept2525",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2525",
+    "givenName" : "IDCSUSERSEPT2525"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2525@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:49:14Z",
+    "lastModified" : "2023-09-26T13:49:14Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/57f24095de6244afbc2d5ca84ff5098f",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,925 - INFO - Request 25 Response Code: 200 
+2023-09-27 16:55:23,926 - INFO - Request 26 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "a5133e85b40d404cb90837f5cbb60f98",
+  "userName" : "idcsusersept2526",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2526",
+    "givenName" : "IDCSUSERSEPT2526"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2526@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:48:57Z",
+    "lastModified" : "2023-09-26T13:48:57Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/a5133e85b40d404cb90837f5cbb60f98",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,926 - INFO - Request 26 Response Code: 200 
+2023-09-27 16:55:23,926 - INFO - Request 27 Response: {"'access_token'"} 
+2023-09-27 16:55:23,926 - INFO - Request 28 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "30bfc0bae59f44818002f2de78829bdc",
+  "userName" : "idcsusersept2528",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2528",
+    "givenName" : "IDCSUSERSEPT2528"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2528@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:47:48Z",
+    "lastModified" : "2023-09-26T13:47:48Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/30bfc0bae59f44818002f2de78829bdc",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,926 - INFO - Request 28 Response Code: 200 
+2023-09-27 16:55:23,926 - INFO - Request 29 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "d7621928b639416e96599e3070b0baab",
+  "userName" : "idcsusersept2529",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2529",
+    "givenName" : "IDCSUSERSEPT2529"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2529@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:47:41Z",
+    "lastModified" : "2023-09-26T13:47:41Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/d7621928b639416e96599e3070b0baab",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,927 - INFO - Request 29 Response Code: 200 
+2023-09-27 16:55:23,927 - INFO - Request 30 Response: {"'access_token'"} 
+2023-09-27 16:55:23,927 - INFO - Request 31 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "0481f0c877304861b3f733172fec9460",
+  "userName" : "idcsusersept2531",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2531",
+    "givenName" : "IDCSUSERSEPT2531"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2531@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:50:01Z",
+    "lastModified" : "2023-09-26T13:50:01Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/0481f0c877304861b3f733172fec9460",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,927 - INFO - Request 31 Response Code: 200 
+2023-09-27 16:55:23,928 - INFO - Request 32 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "d557476215564cba91dab068ca9e47e9",
+  "userName" : "idcsusersept2532",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2532",
+    "givenName" : "IDCSUSERSEPT2532"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2532@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:48:14Z",
+    "lastModified" : "2023-09-26T13:48:14Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/d557476215564cba91dab068ca9e47e9",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,928 - INFO - Request 32 Response Code: 200 
+2023-09-27 16:55:23,928 - INFO - Request 33 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "a4ee50c95ebb423a93d9da3bf221b6cb",
+  "userName" : "idcsusersept2533",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2533",
+    "givenName" : "IDCSUSERSEPT2533"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2533@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:49:22Z",
+    "lastModified" : "2023-09-26T13:49:22Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/a4ee50c95ebb423a93d9da3bf221b6cb",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,928 - INFO - Request 33 Response Code: 200 
+2023-09-27 16:55:23,929 - INFO - Request 34 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "c602188bdf6545afa7f155fe0e551db7",
+  "userName" : "idcsusersept2534",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2534",
+    "givenName" : "IDCSUSERSEPT2534"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2534@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:50:05Z",
+    "lastModified" : "2023-09-26T13:50:05Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/c602188bdf6545afa7f155fe0e551db7",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,929 - INFO - Request 34 Response Code: 200 
+2023-09-27 16:55:23,929 - INFO - Request 35 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,929 - INFO - Request 35 Response Code: 504 
+2023-09-27 16:55:23,929 - INFO - Request 36 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,930 - INFO - Request 36 Response Code: 504 
+2023-09-27 16:55:23,930 - INFO - Request 37 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,930 - INFO - Request 37 Response Code: 504 
+2023-09-27 16:55:23,930 - INFO - Request 38 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "db8809fafe0a493c86be1a55e41c0e60",
+  "userName" : "idcsusersept2538",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2538",
+    "givenName" : "IDCSUSERSEPT2538"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2538@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:51:39Z",
+    "lastModified" : "2023-09-26T13:51:39Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/db8809fafe0a493c86be1a55e41c0e60",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,930 - INFO - Request 38 Response Code: 200 
+2023-09-27 16:55:23,931 - INFO - Request 39 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "039ff17c31bb48f48c8ce6844cdf447c",
+  "userName" : "idcsusersept2539",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2539",
+    "givenName" : "IDCSUSERSEPT2539"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2539@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:52:04Z",
+    "lastModified" : "2023-09-26T13:52:04Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/039ff17c31bb48f48c8ce6844cdf447c",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,931 - INFO - Request 39 Response Code: 200 
+2023-09-27 16:55:23,931 - INFO - Request 40 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Group not found",
+    "code" : "404"
+  } ]
+} 
+2023-09-27 16:55:23,931 - INFO - Request 40 Response Code: 404 
+2023-09-27 16:55:23,931 - INFO - Request 41 Response: {"'access_token'"} 
+2023-09-27 16:55:23,932 - INFO - Request 42 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "bf5a6b96a64147cc8e35d2911215e30f",
+  "userName" : "idcsusersept2542",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2542",
+    "givenName" : "IDCSUSERSEPT2542"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2542@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:52:43Z",
+    "lastModified" : "2023-09-26T13:52:43Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/bf5a6b96a64147cc8e35d2911215e30f",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,932 - INFO - Request 42 Response Code: 200 
+2023-09-27 16:55:23,932 - INFO - Request 43 Response: {"'access_token'"} 
+2023-09-27 16:55:23,932 - INFO - Request 44 Response: {"'access_token'"} 
+2023-09-27 16:55:23,933 - INFO - Request 45 Response: {"'access_token'"} 
+2023-09-27 16:55:23,933 - INFO - Request 46 Response: {"'access_token'"} 
+2023-09-27 16:55:23,933 - INFO - Request 47 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "442c0495bef04130a4518da730ef2017",
+  "userName" : "idcsusersept2547",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2547",
+    "givenName" : "IDCSUSERSEPT2547"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2547@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:08:59Z",
+    "lastModified" : "2023-09-27T11:08:59Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/442c0495bef04130a4518da730ef2017",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,934 - INFO - Request 47 Response Code: 200 
+2023-09-27 16:55:23,934 - INFO - Request 48 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "aef5da91fb9f4392b4649eaeb66b463f",
+  "userName" : "idcsusersept2548",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2548",
+    "givenName" : "IDCSUSERSEPT2548"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2548@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:11:02Z",
+    "lastModified" : "2023-09-27T11:11:02Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/aef5da91fb9f4392b4649eaeb66b463f",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,934 - INFO - Request 48 Response Code: 200 
+2023-09-27 16:55:23,934 - INFO - Request 49 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,934 - INFO - Request 49 Response Code: 504 
+2023-09-27 16:55:23,935 - INFO - Request 50 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,935 - INFO - Request 50 Response Code: 504 
+2023-09-27 16:55:23,935 - INFO - Request 51 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b1c3c1d68cdf4d64b303d0628e5995cf",
+  "userName" : "idcsusersept2551",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2551",
+    "givenName" : "IDCSUSERSEPT2551"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2551@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:05:44Z",
+    "lastModified" : "2023-09-27T11:05:44Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/b1c3c1d68cdf4d64b303d0628e5995cf",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,935 - INFO - Request 51 Response Code: 200 
+2023-09-27 16:55:23,935 - INFO - Request 52 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Group not found",
+    "code" : "404"
+  } ]
+} 
+2023-09-27 16:55:23,935 - INFO - Request 52 Response Code: 404 
+2023-09-27 16:55:23,936 - INFO - Request 53 Response: {"'access_token'"} 
+2023-09-27 16:55:23,936 - INFO - Request 54 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "ef1a4edc5b5d4e9c9bcffce8b171efe3",
+  "userName" : "idcsusersept2554",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2554",
+    "givenName" : "IDCSUSERSEPT2554"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2554@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:11:19Z",
+    "lastModified" : "2023-09-27T11:11:19Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/ef1a4edc5b5d4e9c9bcffce8b171efe3",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,936 - INFO - Request 54 Response Code: 200 
+2023-09-27 16:55:23,936 - INFO - Request 55 Response: {"'access_token'"} 
+2023-09-27 16:55:23,936 - INFO - Request 56 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b211566726d043e99d56769032b10d5d",
+  "userName" : "idcsusersept2556",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2556",
+    "givenName" : "IDCSUSERSEPT2556"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2556@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:10:42Z",
+    "lastModified" : "2023-09-27T11:10:42Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/b211566726d043e99d56769032b10d5d",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,937 - INFO - Request 56 Response Code: 200 
+2023-09-27 16:55:23,937 - INFO - Request 57 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "7023b41fe2804e4bae5ecaeba2db87f0",
+  "userName" : "idcsusersept2557",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2557",
+    "givenName" : "IDCSUSERSEPT2557"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2557@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:10:53Z",
+    "lastModified" : "2023-09-27T11:10:53Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/7023b41fe2804e4bae5ecaeba2db87f0",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,937 - INFO - Request 57 Response Code: 200 
+2023-09-27 16:55:23,937 - INFO - Request 58 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "1357965bf7a442a6a723adcca4829ce4",
+  "userName" : "idcsusersept2558",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2558",
+    "givenName" : "IDCSUSERSEPT2558"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2558@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:10:02Z",
+    "lastModified" : "2023-09-27T11:10:02Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/1357965bf7a442a6a723adcca4829ce4",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,938 - INFO - Request 58 Response Code: 200 
+2023-09-27 16:55:23,938 - INFO - Request 59 Response: {"'access_token'"} 
+2023-09-27 16:55:23,938 - INFO - Request 60 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,938 - INFO - Request 60 Response Code: 504 
+2023-09-27 16:55:23,938 - INFO - Request 61 Response: {"'access_token'"} 
+2023-09-27 16:55:23,939 - INFO - Request 62 Response: {"'access_token'"} 
+2023-09-27 16:55:23,939 - INFO - Request 63 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b4afed6516874809a05090939583fa3d",
+  "userName" : "idcsusersept2563",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2563",
+    "givenName" : "IDCSUSERSEPT2563"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2563@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:07:30Z",
+    "lastModified" : "2023-09-27T11:07:30Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/b4afed6516874809a05090939583fa3d",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,939 - INFO - Request 63 Response Code: 200 
+2023-09-27 16:55:23,940 - INFO - Request 64 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,940 - INFO - Request 64 Response Code: 504 
+2023-09-27 16:55:23,940 - INFO - Request 65 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,940 - INFO - Request 65 Response Code: 504 
+2023-09-27 16:55:23,941 - INFO - Request 66 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,941 - INFO - Request 66 Response Code: 504 
+2023-09-27 16:55:23,941 - INFO - Request 67 Response: {"'access_token'"} 
+2023-09-27 16:55:23,941 - INFO - Request 68 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,941 - INFO - Request 68 Response Code: 504 
+2023-09-27 16:55:23,942 - INFO - Request 69 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "e0672dd7304047afaf50e1d1b93637db",
+  "userName" : "idcsusersept2569",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2569",
+    "givenName" : "IDCSUSERSEPT2569"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2569@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:10:55Z",
+    "lastModified" : "2023-09-27T11:10:55Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/e0672dd7304047afaf50e1d1b93637db",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,942 - INFO - Request 69 Response Code: 200 
+2023-09-27 16:55:23,942 - INFO - Request 70 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Group not found",
+    "code" : "404"
+  } ]
+} 
+2023-09-27 16:55:23,942 - INFO - Request 70 Response Code: 404 
+2023-09-27 16:55:23,942 - INFO - Request 71 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,943 - INFO - Request 71 Response Code: 504 
+2023-09-27 16:55:23,943 - INFO - Request 72 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,943 - INFO - Request 72 Response Code: 504 
+2023-09-27 16:55:23,943 - INFO - Request 73 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "151ac24aad274adc94f2cf4c3ea919a1",
+  "userName" : "idcsusersept2573",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2573",
+    "givenName" : "IDCSUSERSEPT2573"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2573@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:09:13Z",
+    "lastModified" : "2023-09-27T11:09:13Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/151ac24aad274adc94f2cf4c3ea919a1",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,943 - INFO - Request 73 Response Code: 200 
+2023-09-27 16:55:23,943 - INFO - Request 74 Response: {"'access_token'"} 
+2023-09-27 16:55:23,944 - INFO - Request 75 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,944 - INFO - Request 75 Response Code: 504 
+2023-09-27 16:55:23,944 - INFO - Request 76 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,944 - INFO - Request 76 Response Code: 504 
+2023-09-27 16:55:23,944 - INFO - Request 77 Response: {"'access_token'"} 
+2023-09-27 16:55:23,944 - INFO - Request 78 Response: {"'access_token'"} 
+2023-09-27 16:55:23,944 - INFO - Request 79 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,944 - INFO - Request 79 Response Code: 504 
+2023-09-27 16:55:23,944 - INFO - Request 80 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,945 - INFO - Request 80 Response Code: 504 
+2023-09-27 16:55:23,945 - INFO - Request 81 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "9d97b41150374f9f8c9cd5bc5fcb695e",
+  "userName" : "idcsusersept2581",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2581",
+    "givenName" : "IDCSUSERSEPT2581"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2581@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:08:25Z",
+    "lastModified" : "2023-09-27T11:08:25Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/9d97b41150374f9f8c9cd5bc5fcb695e",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,945 - INFO - Request 81 Response Code: 200 
+2023-09-27 16:55:23,945 - INFO - Request 82 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "e5337bd5612f48fe9163bddd2ec3430b",
+  "userName" : "idcsusersept2582",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2582",
+    "givenName" : "IDCSUSERSEPT2582"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2582@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:08:17Z",
+    "lastModified" : "2023-09-27T11:08:17Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/e5337bd5612f48fe9163bddd2ec3430b",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,945 - INFO - Request 82 Response Code: 200 
+2023-09-27 16:55:23,946 - INFO - Request 83 Response: {"'access_token'"} 
+2023-09-27 16:55:23,946 - INFO - Request 84 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,946 - INFO - Request 84 Response Code: 504 
+2023-09-27 16:55:23,946 - INFO - Request 85 Response: {"'access_token'"} 
+2023-09-27 16:55:23,946 - INFO - Request 86 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,947 - INFO - Request 86 Response Code: 504 
+2023-09-27 16:55:23,947 - INFO - Request 87 Response: {"'access_token'"} 
+2023-09-27 16:55:23,947 - INFO - Request 88 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,947 - INFO - Request 88 Response Code: 504 
+2023-09-27 16:55:23,947 - INFO - Request 89 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,948 - INFO - Request 89 Response Code: 504 
+2023-09-27 16:55:23,948 - INFO - Request 90 Response: {"'access_token'"} 
+2023-09-27 16:55:23,948 - INFO - Request 91 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Group not found",
+    "code" : "404"
+  } ]
+} 
+2023-09-27 16:55:23,948 - INFO - Request 91 Response Code: 404 
+2023-09-27 16:55:23,949 - INFO - Request 92 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,949 - INFO - Request 92 Response Code: 504 
+2023-09-27 16:55:23,949 - INFO - Request 93 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,949 - INFO - Request 93 Response Code: 504 
+2023-09-27 16:55:23,950 - INFO - Request 94 Response: {"'access_token'"} 
+2023-09-27 16:55:23,951 - INFO - Request 95 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Group not found",
+    "code" : "404"
+  } ]
+} 
+2023-09-27 16:55:23,951 - INFO - Request 95 Response Code: 404 
+2023-09-27 16:55:23,951 - INFO - Request 96 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,951 - INFO - Request 96 Response Code: 504 
+2023-09-27 16:55:23,951 - INFO - Request 97 Response: {"'access_token'"} 
+2023-09-27 16:55:23,952 - INFO - Request 98 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,952 - INFO - Request 98 Response Code: 504 
+2023-09-27 16:55:23,952 - INFO - Request 99 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "dd77715d2fb042158e15031d67763003",
+  "userName" : "idcsusersept2599",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT2599",
+    "givenName" : "IDCSUSERSEPT2599"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT2599@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-27T11:11:21Z",
+    "lastModified" : "2023-09-27T11:11:21Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/dd77715d2fb042158e15031d67763003",
+    "resourceType" : "User"
+  }
+} 
+2023-09-27 16:55:23,952 - INFO - Request 99 Response Code: 200 
+2023-09-27 16:55:23,952 - INFO - Request 100 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-27 16:55:23,952 - INFO - Request 100 Response Code: 504 

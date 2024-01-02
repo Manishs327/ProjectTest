@@ -1,0 +1,1280 @@
+2023-10-23 16:45:12,736 - INFO - Request 1 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,737 - INFO - Request 1 Response Code: 404 
+2023-10-23 16:45:12,737 - INFO - Request 2 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "54e63bd8ba9449aa85049e6a9502594a",
+  "userName" : "idcsuseroct552",
+  "name" : {
+    "familyName" : "IDCSUSEROCT552",
+    "givenName" : "IDCSUSEROCT552"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT552@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-10-23T11:12:08Z",
+    "lastModified" : "2023-10-23T11:12:08Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/54e63bd8ba9449aa85049e6a9502594a",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,748 - INFO - Request 2 Response Code: 200 
+2023-10-23 16:45:12,748 - INFO - Request 3 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,748 - INFO - Request 3 Response Code: 404 
+2023-10-23 16:45:12,748 - INFO - Request 4 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,748 - INFO - Request 4 Response Code: 404 
+2023-10-23 16:45:12,748 - INFO - Request 5 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "e49f8261fbd549c68ebfc1af7f0a6ac0",
+  "userName" : "idcsuseroct555",
+  "name" : {
+    "familyName" : "IDCSUSEROCT555",
+    "givenName" : "IDCSUSEROCT555"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT555@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-10-23T11:12:13Z",
+    "lastModified" : "2023-10-23T11:12:13Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/e49f8261fbd549c68ebfc1af7f0a6ac0",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,748 - INFO - Request 5 Response Code: 200 
+2023-10-23 16:45:12,750 - INFO - Request 6 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "655008821b034b528aba27bc93cd7203",
+  "userName" : "idcsuseroct556",
+  "name" : {
+    "familyName" : "IDCSUSEROCT556",
+    "givenName" : "IDCSUSEROCT556"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT556@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:15Z",
+    "lastModified" : "2023-10-23T11:14:15Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/655008821b034b528aba27bc93cd7203",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,750 - INFO - Request 6 Response Code: 200 
+2023-10-23 16:45:12,750 - INFO - Request 7 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "1bb2af4014914984af027b0f44381515",
+  "userName" : "idcsuseroct557",
+  "name" : {
+    "familyName" : "IDCSUSEROCT557",
+    "givenName" : "IDCSUSEROCT557"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT557@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:05Z",
+    "lastModified" : "2023-10-23T11:14:05Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/1bb2af4014914984af027b0f44381515",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,750 - INFO - Request 7 Response Code: 200 
+2023-10-23 16:45:12,750 - INFO - Request 8 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,750 - INFO - Request 8 Response Code: 404 
+2023-10-23 16:45:12,750 - INFO - Request 9 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,750 - INFO - Request 9 Response Code: 404 
+2023-10-23 16:45:12,752 - INFO - Request 10 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "57d580d40649491b947f1bffa45fc311",
+  "userName" : "idcsuseroct5510",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5510",
+    "givenName" : "IDCSUSEROCT5510"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5510@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:43Z",
+    "lastModified" : "2023-10-23T11:14:43Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/57d580d40649491b947f1bffa45fc311",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,752 - INFO - Request 10 Response Code: 200 
+2023-10-23 16:45:12,752 - INFO - Request 11 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,753 - INFO - Request 11 Response Code: 504 
+2023-10-23 16:45:12,753 - INFO - Request 12 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,753 - INFO - Request 12 Response Code: 404 
+2023-10-23 16:45:12,753 - INFO - Request 13 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,754 - INFO - Request 13 Response Code: 404 
+2023-10-23 16:45:12,754 - INFO - Request 14 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,754 - INFO - Request 14 Response Code: 404 
+2023-10-23 16:45:12,754 - INFO - Request 15 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "6442173c5ad9412096a58d965d05623e",
+  "userName" : "idcsuseroct5515",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5515",
+    "givenName" : "IDCSUSEROCT5515"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5515@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:58Z",
+    "lastModified" : "2023-10-23T11:14:58Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/6442173c5ad9412096a58d965d05623e",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,755 - INFO - Request 15 Response Code: 200 
+2023-10-23 16:45:12,755 - INFO - Request 16 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,756 - INFO - Request 16 Response Code: 404 
+2023-10-23 16:45:12,756 - INFO - Request 17 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,756 - INFO - Request 17 Response Code: 404 
+2023-10-23 16:45:12,756 - INFO - Request 18 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "a3da377ee00b4921bdcce9cc597bf522",
+  "userName" : "idcsuseroct5518",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5518",
+    "givenName" : "IDCSUSEROCT5518"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5518@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:26Z",
+    "lastModified" : "2023-10-23T11:14:26Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/a3da377ee00b4921bdcce9cc597bf522",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,756 - INFO - Request 18 Response Code: 200 
+2023-10-23 16:45:12,757 - INFO - Request 19 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,757 - INFO - Request 19 Response Code: 504 
+2023-10-23 16:45:12,757 - INFO - Request 20 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "f08159862fa44da3a90b98d0f7f03d73",
+  "userName" : "idcsuseroct5520",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5520",
+    "givenName" : "IDCSUSEROCT5520"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5520@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:15:04Z",
+    "lastModified" : "2023-10-23T11:15:04Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/f08159862fa44da3a90b98d0f7f03d73",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,757 - INFO - Request 20 Response Code: 200 
+2023-10-23 16:45:12,757 - INFO - Request 21 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "f181c7e7202549549699753ef56c5f5c",
+  "userName" : "idcsuseroct5521",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5521",
+    "givenName" : "IDCSUSEROCT5521"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5521@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:15:02Z",
+    "lastModified" : "2023-10-23T11:15:02Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/f181c7e7202549549699753ef56c5f5c",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,758 - INFO - Request 21 Response Code: 200 
+2023-10-23 16:45:12,758 - INFO - Request 22 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,758 - INFO - Request 22 Response Code: 404 
+2023-10-23 16:45:12,758 - INFO - Request 23 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,758 - INFO - Request 23 Response Code: 404 
+2023-10-23 16:45:12,758 - INFO - Request 24 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,759 - INFO - Request 24 Response Code: 504 
+2023-10-23 16:45:12,759 - INFO - Request 25 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "c45f633cbe22485185611f2e9fc25aa5",
+  "userName" : "idcsuseroct5525",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5525",
+    "givenName" : "IDCSUSEROCT5525"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5525@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:16Z",
+    "lastModified" : "2023-10-23T11:14:16Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/c45f633cbe22485185611f2e9fc25aa5",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,759 - INFO - Request 25 Response Code: 200 
+2023-10-23 16:45:12,759 - INFO - Request 26 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,759 - INFO - Request 26 Response Code: 504 
+2023-10-23 16:45:12,759 - INFO - Request 27 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,760 - INFO - Request 27 Response Code: 504 
+2023-10-23 16:45:12,760 - INFO - Request 28 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,760 - INFO - Request 28 Response Code: 404 
+2023-10-23 16:45:12,760 - INFO - Request 29 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,761 - INFO - Request 29 Response Code: 404 
+2023-10-23 16:45:12,761 - INFO - Request 30 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "1ec010e26dce4108b3b09dc4f5d1b7b5",
+  "userName" : "idcsuseroct5530",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5530",
+    "givenName" : "IDCSUSEROCT5530"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5530@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:33Z",
+    "lastModified" : "2023-10-23T11:14:33Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/1ec010e26dce4108b3b09dc4f5d1b7b5",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,761 - INFO - Request 30 Response Code: 200 
+2023-10-23 16:45:12,761 - INFO - Request 31 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,762 - INFO - Request 31 Response Code: 504 
+2023-10-23 16:45:12,762 - INFO - Request 32 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "9aaa3754f25a4cb19c4e71b4f28dee23",
+  "userName" : "idcsuseroct5532",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5532",
+    "givenName" : "IDCSUSEROCT5532"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5532@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:13Z",
+    "lastModified" : "2023-10-23T11:14:13Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/9aaa3754f25a4cb19c4e71b4f28dee23",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,762 - INFO - Request 32 Response Code: 200 
+2023-10-23 16:45:12,762 - INFO - Request 33 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "65fe6cfdd60f46f484f7cf669703ba8c",
+  "userName" : "idcsuseroct5533",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5533",
+    "givenName" : "IDCSUSEROCT5533"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5533@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:39Z",
+    "lastModified" : "2023-10-23T11:14:39Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/65fe6cfdd60f46f484f7cf669703ba8c",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,762 - INFO - Request 33 Response Code: 200 
+2023-10-23 16:45:12,762 - INFO - Request 34 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,762 - INFO - Request 34 Response Code: 504 
+2023-10-23 16:45:12,762 - INFO - Request 35 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,763 - INFO - Request 35 Response Code: 504 
+2023-10-23 16:45:12,764 - INFO - Request 36 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,764 - INFO - Request 36 Response Code: 404 
+2023-10-23 16:45:12,764 - INFO - Request 37 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,764 - INFO - Request 37 Response Code: 404 
+2023-10-23 16:45:12,765 - INFO - Request 38 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "38d964a46afb457481cb6950d0fefbd0",
+  "userName" : "idcsuseroct5538",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5538",
+    "givenName" : "IDCSUSEROCT5538"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5538@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:27Z",
+    "lastModified" : "2023-10-23T11:14:27Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/38d964a46afb457481cb6950d0fefbd0",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,765 - INFO - Request 38 Response Code: 200 
+2023-10-23 16:45:12,765 - INFO - Request 39 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,765 - INFO - Request 39 Response Code: 404 
+2023-10-23 16:45:12,765 - INFO - Request 40 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,765 - INFO - Request 40 Response Code: 504 
+2023-10-23 16:45:12,766 - INFO - Request 41 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,766 - INFO - Request 41 Response Code: 504 
+2023-10-23 16:45:12,766 - INFO - Request 42 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,766 - INFO - Request 42 Response Code: 504 
+2023-10-23 16:45:12,766 - INFO - Request 43 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,766 - INFO - Request 43 Response Code: 504 
+2023-10-23 16:45:12,767 - INFO - Request 44 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,767 - INFO - Request 44 Response Code: 404 
+2023-10-23 16:45:12,767 - INFO - Request 45 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "9e40fae494ce417c945d09708ab942a9",
+  "userName" : "idcsuseroct5545",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5545",
+    "givenName" : "IDCSUSEROCT5545"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5545@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:49Z",
+    "lastModified" : "2023-10-23T11:14:49Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/9e40fae494ce417c945d09708ab942a9",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,768 - INFO - Request 45 Response Code: 200 
+2023-10-23 16:45:12,768 - INFO - Request 46 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "052c2d21f0684400aca9cbe4bea131cb",
+  "userName" : "idcsuseroct5546",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5546",
+    "givenName" : "IDCSUSEROCT5546"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5546@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:17Z",
+    "lastModified" : "2023-10-23T11:14:17Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/052c2d21f0684400aca9cbe4bea131cb",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,769 - INFO - Request 46 Response Code: 200 
+2023-10-23 16:45:12,769 - INFO - Request 47 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,769 - INFO - Request 47 Response Code: 504 
+2023-10-23 16:45:12,769 - INFO - Request 48 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,770 - INFO - Request 48 Response Code: 504 
+2023-10-23 16:45:12,770 - INFO - Request 49 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "04b65c9df1854112b6854e965c753d28",
+  "userName" : "idcsuseroct5549",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5549",
+    "givenName" : "IDCSUSEROCT5549"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5549@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:37Z",
+    "lastModified" : "2023-10-23T11:14:37Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/04b65c9df1854112b6854e965c753d28",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,770 - INFO - Request 49 Response Code: 200 
+2023-10-23 16:45:12,770 - INFO - Request 50 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,771 - INFO - Request 50 Response Code: 404 
+2023-10-23 16:45:12,771 - INFO - Request 51 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,771 - INFO - Request 51 Response Code: 504 
+2023-10-23 16:45:12,771 - INFO - Request 52 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,771 - INFO - Request 52 Response Code: 504 
+2023-10-23 16:45:12,771 - INFO - Request 53 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "afac2f1d1a82423e832d856787f43b51",
+  "userName" : "idcsuseroct5553",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5553",
+    "givenName" : "IDCSUSEROCT5553"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5553@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:53Z",
+    "lastModified" : "2023-10-23T11:14:53Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/afac2f1d1a82423e832d856787f43b51",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,772 - INFO - Request 53 Response Code: 200 
+2023-10-23 16:45:12,772 - INFO - Request 54 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,772 - INFO - Request 54 Response Code: 504 
+2023-10-23 16:45:12,772 - INFO - Request 55 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,772 - INFO - Request 55 Response Code: 404 
+2023-10-23 16:45:12,773 - INFO - Request 56 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,773 - INFO - Request 56 Response Code: 504 
+2023-10-23 16:45:12,773 - INFO - Request 57 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,773 - INFO - Request 57 Response Code: 504 
+2023-10-23 16:45:12,774 - INFO - Request 58 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,774 - INFO - Request 58 Response Code: 504 
+2023-10-23 16:45:12,774 - INFO - Request 59 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,774 - INFO - Request 59 Response Code: 404 
+2023-10-23 16:45:12,774 - INFO - Request 60 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,775 - INFO - Request 60 Response Code: 404 
+2023-10-23 16:45:12,775 - INFO - Request 61 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,775 - INFO - Request 61 Response Code: 504 
+2023-10-23 16:45:12,775 - INFO - Request 62 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,775 - INFO - Request 62 Response Code: 404 
+2023-10-23 16:45:12,775 - INFO - Request 63 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,776 - INFO - Request 63 Response Code: 504 
+2023-10-23 16:45:12,776 - INFO - Request 64 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "2815d64f96a84f008b7eb4e9e70a562e",
+  "userName" : "idcsuseroct5564",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5564",
+    "givenName" : "IDCSUSEROCT5564"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5564@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:28Z",
+    "lastModified" : "2023-10-23T11:14:28Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/2815d64f96a84f008b7eb4e9e70a562e",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,776 - INFO - Request 64 Response Code: 200 
+2023-10-23 16:45:12,776 - INFO - Request 65 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,776 - INFO - Request 65 Response Code: 404 
+2023-10-23 16:45:12,776 - INFO - Request 66 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,777 - INFO - Request 66 Response Code: 404 
+2023-10-23 16:45:12,777 - INFO - Request 67 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b657c6636ea748a0b286dafea5a405b7",
+  "userName" : "idcsuseroct5567",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5567",
+    "givenName" : "IDCSUSEROCT5567"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5567@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:09Z",
+    "lastModified" : "2023-10-23T11:14:09Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/b657c6636ea748a0b286dafea5a405b7",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,777 - INFO - Request 67 Response Code: 200 
+2023-10-23 16:45:12,777 - INFO - Request 68 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "d76ba663cc534c8d8a6d3c38aa462b40",
+  "userName" : "idcsuseroct5568",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5568",
+    "givenName" : "IDCSUSEROCT5568"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5568@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:35Z",
+    "lastModified" : "2023-10-23T11:14:35Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/d76ba663cc534c8d8a6d3c38aa462b40",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,777 - INFO - Request 68 Response Code: 200 
+2023-10-23 16:45:12,778 - INFO - Request 69 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "297b45beefd44ee984bc0d180c171767",
+  "userName" : "idcsuseroct5569",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5569",
+    "givenName" : "IDCSUSEROCT5569"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5569@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:15:07Z",
+    "lastModified" : "2023-10-23T11:15:07Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/297b45beefd44ee984bc0d180c171767",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,778 - INFO - Request 69 Response Code: 200 
+2023-10-23 16:45:12,778 - INFO - Request 70 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,778 - INFO - Request 70 Response Code: 504 
+2023-10-23 16:45:12,779 - INFO - Request 71 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,779 - INFO - Request 71 Response Code: 504 
+2023-10-23 16:45:12,779 - INFO - Request 72 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "09f70dc5455042c390072a6414a69421",
+  "userName" : "idcsuseroct5572",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5572",
+    "givenName" : "IDCSUSEROCT5572"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5572@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:30Z",
+    "lastModified" : "2023-10-23T11:14:30Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/09f70dc5455042c390072a6414a69421",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,779 - INFO - Request 72 Response Code: 200 
+2023-10-23 16:45:12,779 - INFO - Request 73 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b866469c012c4f73b609840580c89814",
+  "userName" : "idcsuseroct5573",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5573",
+    "givenName" : "IDCSUSEROCT5573"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5573@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:46Z",
+    "lastModified" : "2023-10-23T11:14:46Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/b866469c012c4f73b609840580c89814",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,780 - INFO - Request 73 Response Code: 200 
+2023-10-23 16:45:12,780 - INFO - Request 74 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,780 - INFO - Request 74 Response Code: 404 
+2023-10-23 16:45:12,780 - INFO - Request 75 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,780 - INFO - Request 75 Response Code: 504 
+2023-10-23 16:45:12,781 - INFO - Request 76 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,781 - INFO - Request 76 Response Code: 404 
+2023-10-23 16:45:12,781 - INFO - Request 77 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,781 - INFO - Request 77 Response Code: 504 
+2023-10-23 16:45:12,781 - INFO - Request 78 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,781 - INFO - Request 78 Response Code: 404 
+2023-10-23 16:45:12,782 - INFO - Request 79 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,782 - INFO - Request 79 Response Code: 504 
+2023-10-23 16:45:12,782 - INFO - Request 80 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,782 - INFO - Request 80 Response Code: 404 
+2023-10-23 16:45:12,782 - INFO - Request 81 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,783 - INFO - Request 81 Response Code: 404 
+2023-10-23 16:45:12,783 - INFO - Request 82 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,783 - INFO - Request 82 Response Code: 404 
+2023-10-23 16:45:12,783 - INFO - Request 83 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,783 - INFO - Request 83 Response Code: 504 
+2023-10-23 16:45:12,784 - INFO - Request 84 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,784 - INFO - Request 84 Response Code: 504 
+2023-10-23 16:45:12,784 - INFO - Request 85 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,784 - INFO - Request 85 Response Code: 504 
+2023-10-23 16:45:12,784 - INFO - Request 86 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "18d6007a752c4758a2788b581bbcd52d",
+  "userName" : "idcsuseroct5586",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5586",
+    "givenName" : "IDCSUSEROCT5586"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5586@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:48Z",
+    "lastModified" : "2023-10-23T11:14:48Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/18d6007a752c4758a2788b581bbcd52d",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,785 - INFO - Request 86 Response Code: 200 
+2023-10-23 16:45:12,785 - INFO - Request 87 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "f0ffe4a8328f42898752abbdfc4186f2",
+  "userName" : "idcsuseroct5587",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5587",
+    "givenName" : "IDCSUSEROCT5587"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5587@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:32Z",
+    "lastModified" : "2023-10-23T11:14:32Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/f0ffe4a8328f42898752abbdfc4186f2",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,785 - INFO - Request 87 Response Code: 200 
+2023-10-23 16:45:12,785 - INFO - Request 88 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,785 - INFO - Request 88 Response Code: 504 
+2023-10-23 16:45:12,786 - INFO - Request 89 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,786 - INFO - Request 89 Response Code: 504 
+2023-10-23 16:45:12,786 - INFO - Request 90 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "680f7885f34743a6909c78fef94d52b0",
+  "userName" : "idcsuseroct5590",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5590",
+    "givenName" : "IDCSUSEROCT5590"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5590@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:19Z",
+    "lastModified" : "2023-10-23T11:14:19Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/680f7885f34743a6909c78fef94d52b0",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,786 - INFO - Request 90 Response Code: 200 
+2023-10-23 16:45:12,787 - INFO - Request 91 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,787 - INFO - Request 91 Response Code: 504 
+2023-10-23 16:45:12,788 - INFO - Request 92 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,788 - INFO - Request 92 Response Code: 504 
+2023-10-23 16:45:12,788 - INFO - Request 93 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "7dc21febf12443df82e22c3f51b1d863",
+  "userName" : "idcsuseroct5593",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5593",
+    "givenName" : "IDCSUSEROCT5593"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5593@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:54Z",
+    "lastModified" : "2023-10-23T11:14:54Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/7dc21febf12443df82e22c3f51b1d863",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,788 - INFO - Request 93 Response Code: 200 
+2023-10-23 16:45:12,788 - INFO - Request 94 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "f4b379bf738848b3b7d14822fcc3444f",
+  "userName" : "idcsuseroct5594",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5594",
+    "givenName" : "IDCSUSEROCT5594"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5594@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:44Z",
+    "lastModified" : "2023-10-23T11:14:44Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/f4b379bf738848b3b7d14822fcc3444f",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,788 - INFO - Request 94 Response Code: 200 
+2023-10-23 16:45:12,788 - INFO - Request 95 Response: <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /scimgateway/v1/migtenantqa1/migtenantqa1.clinicalone-CNE/Users/ was not found on this server.</p>
+</body></html>
+ 
+2023-10-23 16:45:12,789 - INFO - Request 95 Response Code: 404 
+2023-10-23 16:45:12,789 - INFO - Request 96 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,789 - INFO - Request 96 Response Code: 504 
+2023-10-23 16:45:12,789 - INFO - Request 97 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,789 - INFO - Request 97 Response Code: 504 
+2023-10-23 16:45:12,789 - INFO - Request 98 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "8b25b721e6004f6fb8c0afb45ad5fac5",
+  "userName" : "idcsuseroct5598",
+  "name" : {
+    "familyName" : "IDCSUSEROCT5598",
+    "givenName" : "IDCSUSEROCT5598"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT5598@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:51Z",
+    "lastModified" : "2023-10-23T11:14:51Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/8b25b721e6004f6fb8c0afb45ad5fac5",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,790 - INFO - Request 98 Response Code: 200 
+2023-10-23 16:45:12,790 - INFO - Request 99 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-23 16:45:12,790 - INFO - Request 99 Response Code: 504 
+2023-10-23 16:45:12,790 - INFO - Request 100 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "a1063bd448b9476da202a92e289f7623",
+  "userName" : "idcsuseroct55100",
+  "name" : {
+    "familyName" : "IDCSUSEROCT55100",
+    "givenName" : "IDCSUSEROCT55100"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSEROCT55100@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "meta" : {
+    "created" : "2023-10-23T11:14:11Z",
+    "lastModified" : "2023-10-23T11:14:11Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/a1063bd448b9476da202a92e289f7623",
+    "resourceType" : "User"
+  }
+} 
+2023-10-23 16:45:12,790 - INFO - Request 100 Response Code: 200 

@@ -1,0 +1,5208 @@
+2023-10-11 17:24:43,274 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/115ac6cf4b914ba6af3a8d1bb48b65a7",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,274 - INFO - Request 1 Response Code: 200 
+2023-10-11 17:24:43,274 - INFO - Request 2 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,274 - INFO - Request 2 Response Code: 504 
+2023-10-11 17:24:43,274 - INFO - Request 3 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4092747, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,275 - INFO - Request 3 Response Code: 200 
+2023-10-11 17:24:43,275 - INFO - Request 4 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,275 - INFO - Request 4 Response Code: 504 
+2023-10-11 17:24:43,275 - INFO - Request 5 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,275 - INFO - Request 5 Response Code: 504 
+2023-10-11 17:24:43,276 - INFO - Request 6 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/3838ec8d025e4300bf6e605d994c9589",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,276 - INFO - Request 6 Response Code: 200 
+2023-10-11 17:24:43,276 - INFO - Request 7 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,276 - INFO - Request 7 Response Code: 504 
+2023-10-11 17:24:43,277 - INFO - Request 8 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/3444b13daffb4c818ec64ab6e1f3f7d0",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,277 - INFO - Request 8 Response Code: 200 
+2023-10-11 17:24:43,277 - INFO - Request 9 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/e295bd733a8a4fdeb497063464fa0eb4",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,277 - INFO - Request 9 Response Code: 200 
+2023-10-11 17:24:43,277 - INFO - Request 10 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4092717, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,278 - INFO - Request 10 Response Code: 200 
+2023-10-11 17:24:43,278 - INFO - Request 11 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,278 - INFO - Request 11 Response Code: 504 
+2023-10-11 17:24:43,278 - INFO - Request 12 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,279 - INFO - Request 12 Response Code: 504 
+2023-10-11 17:24:43,279 - INFO - Request 13 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d045d374de0e42c79d4b7c771bfbe2fc",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,279 - INFO - Request 13 Response Code: 200 
+2023-10-11 17:24:43,279 - INFO - Request 14 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f0ff3a4cd8104e6da8070268a46d3c2f",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,280 - INFO - Request 14 Response Code: 200 
+2023-10-11 17:24:43,280 - INFO - Request 15 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8ebf8e7cf3554369b2740dcaf168fcfb",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,280 - INFO - Request 15 Response Code: 200 
+2023-10-11 17:24:43,280 - INFO - Request 16 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d3ba2b9253274ecc992c4a1151ae7889",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,280 - INFO - Request 16 Response Code: 200 
+2023-10-11 17:24:43,281 - INFO - Request 17 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c269988ca46a423bbfeff83982089398",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,281 - INFO - Request 17 Response Code: 200 
+2023-10-11 17:24:43,281 - INFO - Request 18 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/6ab3808c83194f32bbbc35ef25f20c1f",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,281 - INFO - Request 18 Response Code: 200 
+2023-10-11 17:24:43,282 - INFO - Request 19 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,282 - INFO - Request 19 Response Code: 504 
+2023-10-11 17:24:43,282 - INFO - Request 20 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,282 - INFO - Request 20 Response Code: 504 
+2023-10-11 17:24:43,283 - INFO - Request 21 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,283 - INFO - Request 21 Response Code: 504 
+2023-10-11 17:24:43,283 - INFO - Request 22 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,283 - INFO - Request 22 Response Code: 504 
+2023-10-11 17:24:43,284 - INFO - Request 23 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/11ae85e15d7f48a086f2e560ab280780",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,284 - INFO - Request 23 Response Code: 200 
+2023-10-11 17:24:43,284 - INFO - Request 24 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4092778, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,284 - INFO - Request 24 Response Code: 200 
+2023-10-11 17:24:43,285 - INFO - Request 25 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,285 - INFO - Request 25 Response Code: 504 
+2023-10-11 17:24:43,285 - INFO - Request 26 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,285 - INFO - Request 26 Response Code: 504 
+2023-10-11 17:24:43,285 - INFO - Request 27 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,286 - INFO - Request 27 Response Code: 504 
+2023-10-11 17:24:43,286 - INFO - Request 28 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,286 - INFO - Request 28 Response Code: 504 
+2023-10-11 17:24:43,286 - INFO - Request 29 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,287 - INFO - Request 29 Response Code: 504 
+2023-10-11 17:24:43,287 - INFO - Request 30 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,287 - INFO - Request 30 Response Code: 504 
+2023-10-11 17:24:43,287 - INFO - Request 31 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,287 - INFO - Request 31 Response Code: 504 
+2023-10-11 17:24:43,288 - INFO - Request 32 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,288 - INFO - Request 32 Response Code: 504 
+2023-10-11 17:24:43,288 - INFO - Request 33 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,288 - INFO - Request 33 Response Code: 504 
+2023-10-11 17:24:43,289 - INFO - Request 34 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,289 - INFO - Request 34 Response Code: 504 
+2023-10-11 17:24:43,289 - INFO - Request 35 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,289 - INFO - Request 35 Response Code: 504 
+2023-10-11 17:24:43,290 - INFO - Request 36 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,290 - INFO - Request 36 Response Code: 504 
+2023-10-11 17:24:43,290 - INFO - Request 37 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,290 - INFO - Request 37 Response Code: 504 
+2023-10-11 17:24:43,290 - INFO - Request 38 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,291 - INFO - Request 38 Response Code: 504 
+2023-10-11 17:24:43,291 - INFO - Request 39 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,291 - INFO - Request 39 Response Code: 504 
+2023-10-11 17:24:43,291 - INFO - Request 40 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,292 - INFO - Request 40 Response Code: 504 
+2023-10-11 17:24:43,292 - INFO - Request 41 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,292 - INFO - Request 41 Response Code: 504 
+2023-10-11 17:24:43,292 - INFO - Request 42 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,292 - INFO - Request 42 Response Code: 504 
+2023-10-11 17:24:43,293 - INFO - Request 43 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,293 - INFO - Request 43 Response Code: 504 
+2023-10-11 17:24:43,293 - INFO - Request 44 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,293 - INFO - Request 44 Response Code: 504 
+2023-10-11 17:24:43,294 - INFO - Request 45 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,294 - INFO - Request 45 Response Code: 504 
+2023-10-11 17:24:43,294 - INFO - Request 46 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,294 - INFO - Request 46 Response Code: 504 
+2023-10-11 17:24:43,295 - INFO - Request 47 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,295 - INFO - Request 47 Response Code: 504 
+2023-10-11 17:24:43,295 - INFO - Request 48 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,295 - INFO - Request 48 Response Code: 504 
+2023-10-11 17:24:43,295 - INFO - Request 49 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,296 - INFO - Request 49 Response Code: 504 
+2023-10-11 17:24:43,296 - INFO - Request 50 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,296 - INFO - Request 50 Response Code: 504 
+2023-10-11 17:24:43,296 - INFO - Request 51 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,297 - INFO - Request 51 Response Code: 504 
+2023-10-11 17:24:43,297 - INFO - Request 52 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,297 - INFO - Request 52 Response Code: 504 
+2023-10-11 17:24:43,297 - INFO - Request 53 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,298 - INFO - Request 53 Response Code: 504 
+2023-10-11 17:24:43,298 - INFO - Request 54 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,298 - INFO - Request 54 Response Code: 504 
+2023-10-11 17:24:43,298 - INFO - Request 55 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,299 - INFO - Request 55 Response Code: 504 
+2023-10-11 17:24:43,299 - INFO - Request 56 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,299 - INFO - Request 56 Response Code: 504 
+2023-10-11 17:24:43,299 - INFO - Request 57 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,299 - INFO - Request 57 Response Code: 504 
+2023-10-11 17:24:43,300 - INFO - Request 58 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,300 - INFO - Request 58 Response Code: 504 
+2023-10-11 17:24:43,300 - INFO - Request 59 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/fae5ef8d99944536bc911b002eefc92c",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,300 - INFO - Request 59 Response Code: 200 
+2023-10-11 17:24:43,301 - INFO - Request 60 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,301 - INFO - Request 60 Response Code: 504 
+2023-10-11 17:24:43,301 - INFO - Request 61 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,301 - INFO - Request 61 Response Code: 504 
+2023-10-11 17:24:43,301 - INFO - Request 62 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/26f4383ab12041c69b2af349e4aa6e9a",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,302 - INFO - Request 62 Response Code: 200 
+2023-10-11 17:24:43,302 - INFO - Request 63 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4092810, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,302 - INFO - Request 63 Response Code: 200 
+2023-10-11 17:24:43,303 - INFO - Request 64 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,303 - INFO - Request 64 Response Code: 504 
+2023-10-11 17:24:43,303 - INFO - Request 65 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d955ae5d3a234a15ad140754cdd761a0",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,303 - INFO - Request 65 Response Code: 200 
+2023-10-11 17:24:43,303 - INFO - Request 66 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/171e743faa7840678cbd56f580c37f96",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,304 - INFO - Request 66 Response Code: 200 
+2023-10-11 17:24:43,304 - INFO - Request 67 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/62167cad9be5464ab3e592fae83b8e52",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,304 - INFO - Request 67 Response Code: 200 
+2023-10-11 17:24:43,304 - INFO - Request 68 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,305 - INFO - Request 68 Response Code: 504 
+2023-10-11 17:24:43,305 - INFO - Request 69 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/fe6bd72f47d743eab20869da7c7b3dd2",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,305 - INFO - Request 69 Response Code: 200 
+2023-10-11 17:24:43,305 - INFO - Request 70 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,305 - INFO - Request 70 Response Code: 504 
+2023-10-11 17:24:43,306 - INFO - Request 71 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/99f83b1116794c779e940780fb591759",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,306 - INFO - Request 71 Response Code: 200 
+2023-10-11 17:24:43,306 - INFO - Request 72 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,306 - INFO - Request 72 Response Code: 504 
+2023-10-11 17:24:43,307 - INFO - Request 73 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,307 - INFO - Request 73 Response Code: 504 
+2023-10-11 17:24:43,307 - INFO - Request 74 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/e926a143d1874c50a4ea67df357213f9",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,307 - INFO - Request 74 Response Code: 200 
+2023-10-11 17:24:43,308 - INFO - Request 75 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/4b5d19cd26fd488baf49086ecd35e4b3",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,308 - INFO - Request 75 Response Code: 200 
+2023-10-11 17:24:43,308 - INFO - Request 76 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/2be6b5de0ee24d64886d3b76731521c3",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,308 - INFO - Request 76 Response Code: 200 
+2023-10-11 17:24:43,308 - INFO - Request 77 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,309 - INFO - Request 77 Response Code: 504 
+2023-10-11 17:24:43,309 - INFO - Request 78 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/5a8db30d9a7642de9c69d3d71f4092a9",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,309 - INFO - Request 78 Response Code: 200 
+2023-10-11 17:24:43,309 - INFO - Request 79 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,310 - INFO - Request 79 Response Code: 504 
+2023-10-11 17:24:43,310 - INFO - Request 80 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,310 - INFO - Request 80 Response Code: 504 
+2023-10-11 17:24:43,310 - INFO - Request 81 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,310 - INFO - Request 81 Response Code: 504 
+2023-10-11 17:24:43,311 - INFO - Request 82 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/157073ad1beb4bae89e689178e723135",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,311 - INFO - Request 82 Response Code: 200 
+2023-10-11 17:24:43,311 - INFO - Request 83 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,311 - INFO - Request 83 Response Code: 504 
+2023-10-11 17:24:43,312 - INFO - Request 84 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,312 - INFO - Request 84 Response Code: 504 
+2023-10-11 17:24:43,312 - INFO - Request 85 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,312 - INFO - Request 85 Response Code: 504 
+2023-10-11 17:24:43,313 - INFO - Request 86 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,313 - INFO - Request 86 Response Code: 504 
+2023-10-11 17:24:43,313 - INFO - Request 87 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/120d863fa7a94e2bb5946fcd4778ea82",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,313 - INFO - Request 87 Response Code: 200 
+2023-10-11 17:24:43,313 - INFO - Request 88 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4092846, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,314 - INFO - Request 88 Response Code: 200 
+2023-10-11 17:24:43,314 - INFO - Request 89 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,314 - INFO - Request 89 Response Code: 504 
+2023-10-11 17:24:43,314 - INFO - Request 90 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,315 - INFO - Request 90 Response Code: 504 
+2023-10-11 17:24:43,315 - INFO - Request 91 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,315 - INFO - Request 91 Response Code: 504 
+2023-10-11 17:24:43,315 - INFO - Request 92 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-11 17:24:43,315 - INFO - Request 92 Response Code: 504 
+2023-10-11 17:24:43,316 - INFO - Request 93 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/28982c86116a420c856d8caa1173909f",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,316 - INFO - Request 93 Response Code: 200 
+2023-10-11 17:24:43,316 - INFO - Request 94 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4092832, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,316 - INFO - Request 94 Response Code: 200 
+2023-10-11 17:24:43,317 - INFO - Request 95 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/81121e57678341d99108331d9a469efa",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,317 - INFO - Request 95 Response Code: 200 
+2023-10-11 17:24:43,317 - INFO - Request 96 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b8e974d320e54ee7beb0a40c8c7cccc3",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,317 - INFO - Request 96 Response Code: 200 
+2023-10-11 17:24:43,318 - INFO - Request 97 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/68f7ba700c0a4de5b311a1bdfa188e3c",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,318 - INFO - Request 97 Response Code: 200 
+2023-10-11 17:24:43,318 - INFO - Request 98 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0b4e3762cd054509858fbf10e8a7eecd",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,318 - INFO - Request 98 Response Code: 200 
+2023-10-11 17:24:43,319 - INFO - Request 99 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/01c5eb97b2ea4849a2351757c50a64ba",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,319 - INFO - Request 99 Response Code: 200 
+2023-10-11 17:24:43,319 - INFO - Request 100 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/59210cae3ac64507bfe872e45408b915",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-11 17:24:43,319 - INFO - Request 100 Response Code: 200 
+2023-10-12 16:16:57,894 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,904 - INFO - Request 1 Response Code: 200 
+2023-10-12 16:16:57,904 - INFO - Request 2 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,904 - INFO - Request 2 Response Code: 200 
+2023-10-12 16:16:57,905 - INFO - Request 3 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,905 - INFO - Request 3 Response Code: 200 
+2023-10-12 16:16:57,905 - INFO - Request 4 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,905 - INFO - Request 4 Response Code: 200 
+2023-10-12 16:16:57,905 - INFO - Request 5 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,905 - INFO - Request 5 Response Code: 200 
+2023-10-12 16:16:57,905 - INFO - Request 6 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,905 - INFO - Request 6 Response Code: 200 
+2023-10-12 16:16:57,905 - INFO - Request 7 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,905 - INFO - Request 7 Response Code: 200 
+2023-10-12 16:16:57,905 - INFO - Request 8 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,906 - INFO - Request 8 Response Code: 200 
+2023-10-12 16:16:57,906 - INFO - Request 9 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,906 - INFO - Request 9 Response Code: 200 
+2023-10-12 16:16:57,906 - INFO - Request 10 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095016, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,906 - INFO - Request 10 Response Code: 200 
+2023-10-12 16:16:57,906 - INFO - Request 11 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/e028fa223df34dbd83c79b77ae73caf9",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,906 - INFO - Request 11 Response Code: 200 
+2023-10-12 16:16:57,906 - INFO - Request 12 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c5285edb727942a092c9f97ceb9121fb",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,906 - INFO - Request 12 Response Code: 200 
+2023-10-12 16:16:57,906 - INFO - Request 13 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/696ec9f6a7af4b9ab8c0b122df6d5797",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,906 - INFO - Request 13 Response Code: 200 
+2023-10-12 16:16:57,906 - INFO - Request 14 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/bfa6eb1995eb4f0d86a1e310a45610a5",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,906 - INFO - Request 14 Response Code: 200 
+2023-10-12 16:16:57,907 - INFO - Request 15 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,907 - INFO - Request 15 Response Code: 504 
+2023-10-12 16:16:57,907 - INFO - Request 16 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,907 - INFO - Request 16 Response Code: 504 
+2023-10-12 16:16:57,907 - INFO - Request 17 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,907 - INFO - Request 17 Response Code: 504 
+2023-10-12 16:16:57,907 - INFO - Request 18 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0a4292ef3afd4097a3357b1f97edc3e4",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,907 - INFO - Request 18 Response Code: 200 
+2023-10-12 16:16:57,907 - INFO - Request 19 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,907 - INFO - Request 19 Response Code: 504 
+2023-10-12 16:16:57,907 - INFO - Request 20 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,907 - INFO - Request 20 Response Code: 504 
+2023-10-12 16:16:57,907 - INFO - Request 21 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,908 - INFO - Request 21 Response Code: 504 
+2023-10-12 16:16:57,908 - INFO - Request 22 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/5c79618b12d54320b40a86de9136190d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,908 - INFO - Request 22 Response Code: 200 
+2023-10-12 16:16:57,908 - INFO - Request 23 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/00eb0affa9144bbd9ff1fe2c88e12e49",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,908 - INFO - Request 23 Response Code: 200 
+2023-10-12 16:16:57,908 - INFO - Request 24 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095022, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,908 - INFO - Request 24 Response Code: 200 
+2023-10-12 16:16:57,908 - INFO - Request 25 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d1fc6931523b40cb81b20d5ff6dde1a8",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,908 - INFO - Request 25 Response Code: 200 
+2023-10-12 16:16:57,908 - INFO - Request 26 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/34382c43d8664d9495e290de2ea4438d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,908 - INFO - Request 26 Response Code: 200 
+2023-10-12 16:16:57,908 - INFO - Request 27 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4094936, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,908 - INFO - Request 27 Response Code: 200 
+2023-10-12 16:16:57,908 - INFO - Request 28 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/de6e86a130144142bc278918306bfa64",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,909 - INFO - Request 28 Response Code: 200 
+2023-10-12 16:16:57,909 - INFO - Request 29 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f3df3fd3090142b5abc940c9db9f797e",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,909 - INFO - Request 29 Response Code: 200 
+2023-10-12 16:16:57,909 - INFO - Request 30 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/6abcf4512b4a488084d4f3cd1ac7e84b",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,909 - INFO - Request 30 Response Code: 200 
+2023-10-12 16:16:57,909 - INFO - Request 31 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,909 - INFO - Request 31 Response Code: 504 
+2023-10-12 16:16:57,909 - INFO - Request 32 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,909 - INFO - Request 32 Response Code: 504 
+2023-10-12 16:16:57,909 - INFO - Request 33 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095026, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,909 - INFO - Request 33 Response Code: 200 
+2023-10-12 16:16:57,909 - INFO - Request 34 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/203d30913e1c470e9a8d33b144943ee9",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,909 - INFO - Request 34 Response Code: 200 
+2023-10-12 16:16:57,909 - INFO - Request 35 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0a731b9a1d0845d780f46e8d978f67e8",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,910 - INFO - Request 35 Response Code: 200 
+2023-10-12 16:16:57,910 - INFO - Request 36 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8bea02ca8d374820bc0b4a268bfbf893",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,910 - INFO - Request 36 Response Code: 200 
+2023-10-12 16:16:57,910 - INFO - Request 37 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b70166d4de8a47f0bd67764b61b03828",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,910 - INFO - Request 37 Response Code: 200 
+2023-10-12 16:16:57,910 - INFO - Request 38 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095031, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,910 - INFO - Request 38 Response Code: 200 
+2023-10-12 16:16:57,910 - INFO - Request 39 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/17ad7ac57bee41eda51e843baa4e924f",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,910 - INFO - Request 39 Response Code: 200 
+2023-10-12 16:16:57,910 - INFO - Request 40 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/619e139f36c04ea8afaa9b25faa1bbe8",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,910 - INFO - Request 40 Response Code: 200 
+2023-10-12 16:16:57,910 - INFO - Request 41 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/1a256f0827154b8f909914758338bc21",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,910 - INFO - Request 41 Response Code: 200 
+2023-10-12 16:16:57,910 - INFO - Request 42 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/6fced0f2a916469b89d0cc49694b3a21",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,911 - INFO - Request 42 Response Code: 200 
+2023-10-12 16:16:57,911 - INFO - Request 43 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095033, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,911 - INFO - Request 43 Response Code: 200 
+2023-10-12 16:16:57,911 - INFO - Request 44 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/786d78a9f4f240eab67d5370334d595e",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,911 - INFO - Request 44 Response Code: 200 
+2023-10-12 16:16:57,911 - INFO - Request 45 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/5584bd1bddb74d79b14ec525dbcab4f2",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,911 - INFO - Request 45 Response Code: 200 
+2023-10-12 16:16:57,911 - INFO - Request 46 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ca083415b34d4463a14e7d046907e043",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,911 - INFO - Request 46 Response Code: 200 
+2023-10-12 16:16:57,911 - INFO - Request 47 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,911 - INFO - Request 47 Response Code: 504 
+2023-10-12 16:16:57,911 - INFO - Request 48 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,911 - INFO - Request 48 Response Code: 504 
+2023-10-12 16:16:57,911 - INFO - Request 49 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,911 - INFO - Request 49 Response Code: 504 
+2023-10-12 16:16:57,911 - INFO - Request 50 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d94f5b3c493f4bc5be41f13d2c205ccc",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,912 - INFO - Request 50 Response Code: 200 
+2023-10-12 16:16:57,912 - INFO - Request 51 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,912 - INFO - Request 51 Response Code: 504 
+2023-10-12 16:16:57,912 - INFO - Request 52 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/1dbe98980b314285a1bcbbf9bfff4fcc",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,912 - INFO - Request 52 Response Code: 200 
+2023-10-12 16:16:57,912 - INFO - Request 53 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095049, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,912 - INFO - Request 53 Response Code: 200 
+2023-10-12 16:16:57,912 - INFO - Request 54 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/080cd923d14b4777ba4f3581d1f7e460",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,912 - INFO - Request 54 Response Code: 200 
+2023-10-12 16:16:57,912 - INFO - Request 55 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,912 - INFO - Request 55 Response Code: 504 
+2023-10-12 16:16:57,912 - INFO - Request 56 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,913 - INFO - Request 56 Response Code: 504 
+2023-10-12 16:16:57,913 - INFO - Request 57 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,913 - INFO - Request 57 Response Code: 504 
+2023-10-12 16:16:57,913 - INFO - Request 58 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/89433cd314a94cdfa37a558383c7d2b3",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,913 - INFO - Request 58 Response Code: 200 
+2023-10-12 16:16:57,913 - INFO - Request 59 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f64e16c1e0f942cd8429e2f12355bca1",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,913 - INFO - Request 59 Response Code: 200 
+2023-10-12 16:16:57,913 - INFO - Request 60 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,913 - INFO - Request 60 Response Code: 504 
+2023-10-12 16:16:57,913 - INFO - Request 61 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/11596291c4fe4c9382c39695ce696fa7",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,913 - INFO - Request 61 Response Code: 200 
+2023-10-12 16:16:57,913 - INFO - Request 62 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095053, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,913 - INFO - Request 62 Response Code: 200 
+2023-10-12 16:16:57,913 - INFO - Request 63 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/59bac972e0434b6c8a92159875c6fc6a",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,914 - INFO - Request 63 Response Code: 200 
+2023-10-12 16:16:57,914 - INFO - Request 64 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,914 - INFO - Request 64 Response Code: 504 
+2023-10-12 16:16:57,914 - INFO - Request 65 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/4900f292b7214728abc6d01394327bec",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,914 - INFO - Request 65 Response Code: 200 
+2023-10-12 16:16:57,914 - INFO - Request 66 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,914 - INFO - Request 66 Response Code: 504 
+2023-10-12 16:16:57,914 - INFO - Request 67 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b50133437b104720bc81e0bcc2507c67",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,914 - INFO - Request 67 Response Code: 200 
+2023-10-12 16:16:57,914 - INFO - Request 68 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/2a388ea373de437c87aa260b5b0076c4",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,914 - INFO - Request 68 Response Code: 200 
+2023-10-12 16:16:57,914 - INFO - Request 69 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,914 - INFO - Request 69 Response Code: 504 
+2023-10-12 16:16:57,915 - INFO - Request 70 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 16:16:57,915 - INFO - Request 70 Response Code: 504 
+2023-10-12 16:16:57,915 - INFO - Request 71 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8e35a5376651436eaa073294a6a7eb11",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,915 - INFO - Request 71 Response Code: 200 
+2023-10-12 16:16:57,915 - INFO - Request 72 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/131f034874bb4f0cbe96ce00f20b7528",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,915 - INFO - Request 72 Response Code: 200 
+2023-10-12 16:16:57,915 - INFO - Request 73 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/59c7034c01784a238729dbf94d03681e",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,915 - INFO - Request 73 Response Code: 200 
+2023-10-12 16:16:57,915 - INFO - Request 74 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/bf1ae7c9709a4c5a96d1150e7b535e94",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,915 - INFO - Request 74 Response Code: 200 
+2023-10-12 16:16:57,915 - INFO - Request 75 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/790d24a8be744c9b8e2f77a7727047af",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,915 - INFO - Request 75 Response Code: 200 
+2023-10-12 16:16:57,915 - INFO - Request 76 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095072, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,915 - INFO - Request 76 Response Code: 200 
+2023-10-12 16:16:57,916 - INFO - Request 77 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c5b4af0a673a4b0a9545498faec4f787",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,916 - INFO - Request 77 Response Code: 200 
+2023-10-12 16:16:57,916 - INFO - Request 78 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/82fc0f06035f45ec9102f0c192056dd6",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,916 - INFO - Request 78 Response Code: 200 
+2023-10-12 16:16:57,916 - INFO - Request 79 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/82d97d7358104d6d842e3a0ecad2518f",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,916 - INFO - Request 79 Response Code: 200 
+2023-10-12 16:16:57,916 - INFO - Request 80 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/dd44fdb07b204f41b5e54d8e8a6d505f",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,916 - INFO - Request 80 Response Code: 200 
+2023-10-12 16:16:57,916 - INFO - Request 81 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/6847d314cc3d41d293d1828b7f96ded5",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,916 - INFO - Request 81 Response Code: 200 
+2023-10-12 16:16:57,916 - INFO - Request 82 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/acfb47aceb9e4eb9b20c2da67e3a6e2b",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,916 - INFO - Request 82 Response Code: 200 
+2023-10-12 16:16:57,916 - INFO - Request 83 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095084, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,917 - INFO - Request 83 Response Code: 200 
+2023-10-12 16:16:57,917 - INFO - Request 84 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095076, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,917 - INFO - Request 84 Response Code: 200 
+2023-10-12 16:16:57,917 - INFO - Request 85 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f71d2044575e4cd987efdd8477525e98",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,917 - INFO - Request 85 Response Code: 200 
+2023-10-12 16:16:57,917 - INFO - Request 86 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/957f40f83cbd4906bca4887cd1184232",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,917 - INFO - Request 86 Response Code: 200 
+2023-10-12 16:16:57,917 - INFO - Request 87 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095086, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,917 - INFO - Request 87 Response Code: 200 
+2023-10-12 16:16:57,917 - INFO - Request 88 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/44be097f8ce84e1bab9f0398c00f95dd",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,917 - INFO - Request 88 Response Code: 200 
+2023-10-12 16:16:57,917 - INFO - Request 89 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b9241dad3c9a4943a3626bd5ca14f06a",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,917 - INFO - Request 89 Response Code: 200 
+2023-10-12 16:16:57,918 - INFO - Request 90 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/5c9d1bdfbdac42a3ba544157476062d5",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,918 - INFO - Request 90 Response Code: 200 
+2023-10-12 16:16:57,918 - INFO - Request 91 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a5aa6cd63be4403db707c140250f2523",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,918 - INFO - Request 91 Response Code: 200 
+2023-10-12 16:16:57,918 - INFO - Request 92 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/411d6e41a08747c09e71041e4eaeedaa",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,918 - INFO - Request 92 Response Code: 200 
+2023-10-12 16:16:57,918 - INFO - Request 93 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c9efca14eb1a47e58670006c1e802b79",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,918 - INFO - Request 93 Response Code: 200 
+2023-10-12 16:16:57,918 - INFO - Request 94 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/52ce98d5faa64ff9b633bdd98de36bfc",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,918 - INFO - Request 94 Response Code: 200 
+2023-10-12 16:16:57,918 - INFO - Request 95 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/92dbcce692d247e6988023d481797f92",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,918 - INFO - Request 95 Response Code: 200 
+2023-10-12 16:16:57,918 - INFO - Request 96 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b2386a8c6c5f42188b8a9a454631a87f",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,918 - INFO - Request 96 Response Code: 200 
+2023-10-12 16:16:57,919 - INFO - Request 97 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d7ac165f8366404cba2d73f47d3e4462",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,919 - INFO - Request 97 Response Code: 200 
+2023-10-12 16:16:57,919 - INFO - Request 98 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/11dc1b48347e49aa9799454d4ce932ba",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,919 - INFO - Request 98 Response Code: 200 
+2023-10-12 16:16:57,919 - INFO - Request 99 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/64207a2c9e0c48409ae67bf779b424b1",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,919 - INFO - Request 99 Response Code: 200 
+2023-10-12 16:16:57,919 - INFO - Request 100 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/daa71fbddff048d7a466c8353cc082d0",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 16:16:57,919 - INFO - Request 100 Response Code: 200 
+2023-10-12 18:46:42,080 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,080 - INFO - Request 1 Response Code: 200 
+2023-10-12 18:46:42,080 - INFO - Request 2 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,080 - INFO - Request 2 Response Code: 200 
+2023-10-12 18:46:42,081 - INFO - Request 3 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,081 - INFO - Request 3 Response Code: 200 
+2023-10-12 18:46:42,081 - INFO - Request 4 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,081 - INFO - Request 4 Response Code: 200 
+2023-10-12 18:46:42,081 - INFO - Request 5 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,081 - INFO - Request 5 Response Code: 200 
+2023-10-12 18:46:42,081 - INFO - Request 6 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,081 - INFO - Request 6 Response Code: 200 
+2023-10-12 18:46:42,081 - INFO - Request 7 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,082 - INFO - Request 7 Response Code: 200 
+2023-10-12 18:46:42,082 - INFO - Request 8 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,082 - INFO - Request 8 Response Code: 200 
+2023-10-12 18:46:42,082 - INFO - Request 9 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,082 - INFO - Request 9 Response Code: 200 
+2023-10-12 18:46:42,083 - INFO - Request 10 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,083 - INFO - Request 10 Response Code: 504 
+2023-10-12 18:46:42,083 - INFO - Request 11 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,083 - INFO - Request 11 Response Code: 504 
+2023-10-12 18:46:42,084 - INFO - Request 12 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,084 - INFO - Request 12 Response Code: 504 
+2023-10-12 18:46:42,084 - INFO - Request 13 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,085 - INFO - Request 13 Response Code: 504 
+2023-10-12 18:46:42,085 - INFO - Request 14 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,085 - INFO - Request 14 Response Code: 504 
+2023-10-12 18:46:42,085 - INFO - Request 15 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,085 - INFO - Request 15 Response Code: 504 
+2023-10-12 18:46:42,086 - INFO - Request 16 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,086 - INFO - Request 16 Response Code: 504 
+2023-10-12 18:46:42,086 - INFO - Request 17 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,087 - INFO - Request 17 Response Code: 504 
+2023-10-12 18:46:42,087 - INFO - Request 18 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,087 - INFO - Request 18 Response Code: 504 
+2023-10-12 18:46:42,087 - INFO - Request 19 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,088 - INFO - Request 19 Response Code: 504 
+2023-10-12 18:46:42,088 - INFO - Request 20 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,088 - INFO - Request 20 Response Code: 504 
+2023-10-12 18:46:42,089 - INFO - Request 21 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,089 - INFO - Request 21 Response Code: 504 
+2023-10-12 18:46:42,089 - INFO - Request 22 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,089 - INFO - Request 22 Response Code: 504 
+2023-10-12 18:46:42,089 - INFO - Request 23 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,089 - INFO - Request 23 Response Code: 504 
+2023-10-12 18:46:42,089 - INFO - Request 24 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,090 - INFO - Request 24 Response Code: 504 
+2023-10-12 18:46:42,090 - INFO - Request 25 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,090 - INFO - Request 25 Response Code: 504 
+2023-10-12 18:46:42,091 - INFO - Request 26 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,091 - INFO - Request 26 Response Code: 504 
+2023-10-12 18:46:42,091 - INFO - Request 27 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,091 - INFO - Request 27 Response Code: 504 
+2023-10-12 18:46:42,091 - INFO - Request 28 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,092 - INFO - Request 28 Response Code: 504 
+2023-10-12 18:46:42,092 - INFO - Request 29 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,092 - INFO - Request 29 Response Code: 504 
+2023-10-12 18:46:42,092 - INFO - Request 30 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,093 - INFO - Request 30 Response Code: 504 
+2023-10-12 18:46:42,093 - INFO - Request 31 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,093 - INFO - Request 31 Response Code: 504 
+2023-10-12 18:46:42,093 - INFO - Request 32 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,094 - INFO - Request 32 Response Code: 504 
+2023-10-12 18:46:42,094 - INFO - Request 33 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,094 - INFO - Request 33 Response Code: 504 
+2023-10-12 18:46:42,094 - INFO - Request 34 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,094 - INFO - Request 34 Response Code: 504 
+2023-10-12 18:46:42,094 - INFO - Request 35 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,094 - INFO - Request 35 Response Code: 504 
+2023-10-12 18:46:42,094 - INFO - Request 36 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,094 - INFO - Request 36 Response Code: 504 
+2023-10-12 18:46:42,094 - INFO - Request 37 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,094 - INFO - Request 37 Response Code: 504 
+2023-10-12 18:46:42,094 - INFO - Request 38 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/895f54bd84d6488fa687ca83e580f1d4",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,094 - INFO - Request 38 Response Code: 200 
+2023-10-12 18:46:42,094 - INFO - Request 39 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,094 - INFO - Request 39 Response Code: 504 
+2023-10-12 18:46:42,094 - INFO - Request 40 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,094 - INFO - Request 40 Response Code: 504 
+2023-10-12 18:46:42,094 - INFO - Request 41 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,095 - INFO - Request 41 Response Code: 504 
+2023-10-12 18:46:42,095 - INFO - Request 42 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/105158139e4f4d1bb56303965c807bba",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,095 - INFO - Request 42 Response Code: 200 
+2023-10-12 18:46:42,095 - INFO - Request 43 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,095 - INFO - Request 43 Response Code: 504 
+2023-10-12 18:46:42,095 - INFO - Request 44 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,095 - INFO - Request 44 Response Code: 504 
+2023-10-12 18:46:42,095 - INFO - Request 45 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,095 - INFO - Request 45 Response Code: 504 
+2023-10-12 18:46:42,095 - INFO - Request 46 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,095 - INFO - Request 46 Response Code: 504 
+2023-10-12 18:46:42,095 - INFO - Request 47 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/cee20f9e9cbb4eb0b3dc30ca56dc3821",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,096 - INFO - Request 47 Response Code: 200 
+2023-10-12 18:46:42,096 - INFO - Request 48 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,096 - INFO - Request 48 Response Code: 504 
+2023-10-12 18:46:42,096 - INFO - Request 49 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,096 - INFO - Request 49 Response Code: 504 
+2023-10-12 18:46:42,096 - INFO - Request 50 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,096 - INFO - Request 50 Response Code: 504 
+2023-10-12 18:46:42,096 - INFO - Request 51 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,096 - INFO - Request 51 Response Code: 504 
+2023-10-12 18:46:42,096 - INFO - Request 52 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,097 - INFO - Request 52 Response Code: 504 
+2023-10-12 18:46:42,097 - INFO - Request 53 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/18836912ce5642098b05a1aaf155411d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,097 - INFO - Request 53 Response Code: 200 
+2023-10-12 18:46:42,098 - INFO - Request 54 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0bc2d7e116bd42b2a7efa8037e515ecf",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,098 - INFO - Request 54 Response Code: 200 
+2023-10-12 18:46:42,098 - INFO - Request 55 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/750dc016defd4f8b86aa0bdc30e54a41",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,098 - INFO - Request 55 Response Code: 200 
+2023-10-12 18:46:42,099 - INFO - Request 56 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,099 - INFO - Request 56 Response Code: 504 
+2023-10-12 18:46:42,099 - INFO - Request 57 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,099 - INFO - Request 57 Response Code: 504 
+2023-10-12 18:46:42,099 - INFO - Request 58 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,100 - INFO - Request 58 Response Code: 504 
+2023-10-12 18:46:42,100 - INFO - Request 59 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,100 - INFO - Request 59 Response Code: 504 
+2023-10-12 18:46:42,100 - INFO - Request 60 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,100 - INFO - Request 60 Response Code: 504 
+2023-10-12 18:46:42,100 - INFO - Request 61 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/6936a6a424fe47b8a115d1db616c5f2c",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,101 - INFO - Request 61 Response Code: 200 
+2023-10-12 18:46:42,101 - INFO - Request 62 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,101 - INFO - Request 62 Response Code: 504 
+2023-10-12 18:46:42,101 - INFO - Request 63 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ac960dfd84c641dd83b5890974cce749",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,101 - INFO - Request 63 Response Code: 200 
+2023-10-12 18:46:42,102 - INFO - Request 64 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,102 - INFO - Request 64 Response Code: 504 
+2023-10-12 18:46:42,102 - INFO - Request 65 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c06e2ec78f3a4d7ca5ebf07cef3d3976",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,102 - INFO - Request 65 Response Code: 200 
+2023-10-12 18:46:42,102 - INFO - Request 66 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/75867f05db8e4b6d8c01dbd9e09b232d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,103 - INFO - Request 66 Response Code: 200 
+2023-10-12 18:46:42,103 - INFO - Request 67 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/53be3cb81cf44bfa832ec5028f542025",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,103 - INFO - Request 67 Response Code: 200 
+2023-10-12 18:46:42,103 - INFO - Request 68 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,103 - INFO - Request 68 Response Code: 504 
+2023-10-12 18:46:42,103 - INFO - Request 69 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,104 - INFO - Request 69 Response Code: 504 
+2023-10-12 18:46:42,104 - INFO - Request 70 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/808559c09ea84bb68935f04fe6f466f3",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,104 - INFO - Request 70 Response Code: 200 
+2023-10-12 18:46:42,104 - INFO - Request 71 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b7d4e4f1ba714d67a8b64241d2619567",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,104 - INFO - Request 71 Response Code: 200 
+2023-10-12 18:46:42,104 - INFO - Request 72 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,104 - INFO - Request 72 Response Code: 504 
+2023-10-12 18:46:42,105 - INFO - Request 73 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,105 - INFO - Request 73 Response Code: 504 
+2023-10-12 18:46:42,105 - INFO - Request 74 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,106 - INFO - Request 74 Response Code: 504 
+2023-10-12 18:46:42,106 - INFO - Request 75 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,106 - INFO - Request 75 Response Code: 504 
+2023-10-12 18:46:42,106 - INFO - Request 76 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/7cf3730cb07544cabb92342e833992eb",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,107 - INFO - Request 76 Response Code: 200 
+2023-10-12 18:46:42,107 - INFO - Request 77 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/fb06f5e0a885409680c2330cdfc9bb9a",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,107 - INFO - Request 77 Response Code: 200 
+2023-10-12 18:46:42,107 - INFO - Request 78 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,108 - INFO - Request 78 Response Code: 504 
+2023-10-12 18:46:42,108 - INFO - Request 79 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095244, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,108 - INFO - Request 79 Response Code: 200 
+2023-10-12 18:46:42,109 - INFO - Request 80 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/6f5a959aa86c4d629139f5f2ec7af50b",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,110 - INFO - Request 80 Response Code: 200 
+2023-10-12 18:46:42,110 - INFO - Request 81 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,110 - INFO - Request 81 Response Code: 504 
+2023-10-12 18:46:42,110 - INFO - Request 82 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/58a2e90faf8a450c9fa793a16a919729",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,110 - INFO - Request 82 Response Code: 200 
+2023-10-12 18:46:42,110 - INFO - Request 83 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,110 - INFO - Request 83 Response Code: 504 
+2023-10-12 18:46:42,110 - INFO - Request 84 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/4109d21d5c6a48a4a7268f83e90082b5",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,110 - INFO - Request 84 Response Code: 200 
+2023-10-12 18:46:42,110 - INFO - Request 85 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,110 - INFO - Request 85 Response Code: 504 
+2023-10-12 18:46:42,110 - INFO - Request 86 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,110 - INFO - Request 86 Response Code: 504 
+2023-10-12 18:46:42,110 - INFO - Request 87 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/7e0b04de62b0478aa7a68715f9888636",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,110 - INFO - Request 87 Response Code: 200 
+2023-10-12 18:46:42,110 - INFO - Request 88 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,110 - INFO - Request 88 Response Code: 504 
+2023-10-12 18:46:42,110 - INFO - Request 89 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,110 - INFO - Request 89 Response Code: 504 
+2023-10-12 18:46:42,111 - INFO - Request 90 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,111 - INFO - Request 90 Response Code: 504 
+2023-10-12 18:46:42,111 - INFO - Request 91 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,111 - INFO - Request 91 Response Code: 504 
+2023-10-12 18:46:42,111 - INFO - Request 92 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/3a7924b6b4f7470fa6af502790ce4387",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,111 - INFO - Request 92 Response Code: 200 
+2023-10-12 18:46:42,111 - INFO - Request 93 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b488c539176844a4a61dd5279499e490",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,111 - INFO - Request 93 Response Code: 200 
+2023-10-12 18:46:42,111 - INFO - Request 94 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,111 - INFO - Request 94 Response Code: 504 
+2023-10-12 18:46:42,111 - INFO - Request 95 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/63bcfd496fe143ee9e42ad5e686a0b79",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,111 - INFO - Request 95 Response Code: 200 
+2023-10-12 18:46:42,111 - INFO - Request 96 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095275, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,111 - INFO - Request 96 Response Code: 200 
+2023-10-12 18:46:42,111 - INFO - Request 97 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,111 - INFO - Request 97 Response Code: 504 
+2023-10-12 18:46:42,112 - INFO - Request 98 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/86c09f831ac64e41b6c6a82521a029e0",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,112 - INFO - Request 98 Response Code: 200 
+2023-10-12 18:46:42,112 - INFO - Request 99 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/7438b8005abe4b93a32d0d4bad337569",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 18:46:42,112 - INFO - Request 99 Response Code: 200 
+2023-10-12 18:46:42,112 - INFO - Request 100 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 18:46:42,112 - INFO - Request 100 Response Code: 504 
+2023-10-12 19:10:38,278 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,278 - INFO - Request 1 Response Code: 200 
+2023-10-12 19:10:38,278 - INFO - Request 2 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,278 - INFO - Request 2 Response Code: 200 
+2023-10-12 19:10:38,278 - INFO - Request 3 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,279 - INFO - Request 3 Response Code: 200 
+2023-10-12 19:10:38,279 - INFO - Request 4 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,279 - INFO - Request 4 Response Code: 200 
+2023-10-12 19:10:38,279 - INFO - Request 5 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,279 - INFO - Request 5 Response Code: 200 
+2023-10-12 19:10:38,279 - INFO - Request 6 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,279 - INFO - Request 6 Response Code: 200 
+2023-10-12 19:10:38,279 - INFO - Request 7 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,279 - INFO - Request 7 Response Code: 200 
+2023-10-12 19:10:38,279 - INFO - Request 8 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,279 - INFO - Request 8 Response Code: 200 
+2023-10-12 19:10:38,279 - INFO - Request 9 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,279 - INFO - Request 9 Response Code: 200 
+2023-10-12 19:10:38,279 - INFO - Request 10 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,279 - INFO - Request 10 Response Code: 504 
+2023-10-12 19:10:38,279 - INFO - Request 11 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/7544776b9c8f4c758dba2cfd452ab9f3",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,279 - INFO - Request 11 Response Code: 200 
+2023-10-12 19:10:38,280 - INFO - Request 12 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,280 - INFO - Request 12 Response Code: 504 
+2023-10-12 19:10:38,280 - INFO - Request 13 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/04f941c1c24f4e63adb1535e3c77d474",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,280 - INFO - Request 13 Response Code: 200 
+2023-10-12 19:10:38,280 - INFO - Request 14 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/6fbea373f98d4bee9ce44b42445140fd",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,280 - INFO - Request 14 Response Code: 200 
+2023-10-12 19:10:38,280 - INFO - Request 15 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,280 - INFO - Request 15 Response Code: 504 
+2023-10-12 19:10:38,280 - INFO - Request 16 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,280 - INFO - Request 16 Response Code: 504 
+2023-10-12 19:10:38,280 - INFO - Request 17 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a3aafe6cfca44a95aa26387150429a8d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,280 - INFO - Request 17 Response Code: 200 
+2023-10-12 19:10:38,280 - INFO - Request 18 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,280 - INFO - Request 18 Response Code: 504 
+2023-10-12 19:10:38,280 - INFO - Request 19 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,280 - INFO - Request 19 Response Code: 504 
+2023-10-12 19:10:38,280 - INFO - Request 20 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4095315, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-12 19:10:38,280 - INFO - Request 20 Response Code: 200 
+2023-10-12 19:10:38,281 - INFO - Request 21 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,281 - INFO - Request 21 Response Code: 504 
+2023-10-12 19:10:38,281 - INFO - Request 22 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,281 - INFO - Request 22 Response Code: 504 
+2023-10-12 19:10:38,281 - INFO - Request 23 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,281 - INFO - Request 23 Response Code: 504 
+2023-10-12 19:10:38,281 - INFO - Request 24 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,281 - INFO - Request 24 Response Code: 504 
+2023-10-12 19:10:38,281 - INFO - Request 25 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,281 - INFO - Request 25 Response Code: 504 
+2023-10-12 19:10:38,281 - INFO - Request 26 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,281 - INFO - Request 26 Response Code: 504 
+2023-10-12 19:10:38,281 - INFO - Request 27 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,281 - INFO - Request 27 Response Code: 504 
+2023-10-12 19:10:38,281 - INFO - Request 28 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,281 - INFO - Request 28 Response Code: 504 
+2023-10-12 19:10:38,281 - INFO - Request 29 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,281 - INFO - Request 29 Response Code: 504 
+2023-10-12 19:10:38,281 - INFO - Request 30 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,281 - INFO - Request 30 Response Code: 504 
+2023-10-12 19:10:38,282 - INFO - Request 31 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,282 - INFO - Request 31 Response Code: 504 
+2023-10-12 19:10:38,282 - INFO - Request 32 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,282 - INFO - Request 32 Response Code: 504 
+2023-10-12 19:10:38,282 - INFO - Request 33 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,282 - INFO - Request 33 Response Code: 504 
+2023-10-12 19:10:38,282 - INFO - Request 34 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,282 - INFO - Request 34 Response Code: 504 
+2023-10-12 19:10:38,282 - INFO - Request 35 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,282 - INFO - Request 35 Response Code: 504 
+2023-10-12 19:10:38,282 - INFO - Request 36 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,282 - INFO - Request 36 Response Code: 504 
+2023-10-12 19:10:38,282 - INFO - Request 37 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,282 - INFO - Request 37 Response Code: 504 
+2023-10-12 19:10:38,282 - INFO - Request 38 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,282 - INFO - Request 38 Response Code: 504 
+2023-10-12 19:10:38,282 - INFO - Request 39 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,282 - INFO - Request 39 Response Code: 504 
+2023-10-12 19:10:38,282 - INFO - Request 40 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,283 - INFO - Request 40 Response Code: 504 
+2023-10-12 19:10:38,283 - INFO - Request 41 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,283 - INFO - Request 41 Response Code: 504 
+2023-10-12 19:10:38,283 - INFO - Request 42 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,283 - INFO - Request 42 Response Code: 504 
+2023-10-12 19:10:38,283 - INFO - Request 43 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,283 - INFO - Request 43 Response Code: 504 
+2023-10-12 19:10:38,283 - INFO - Request 44 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,283 - INFO - Request 44 Response Code: 504 
+2023-10-12 19:10:38,283 - INFO - Request 45 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,283 - INFO - Request 45 Response Code: 504 
+2023-10-12 19:10:38,283 - INFO - Request 46 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,283 - INFO - Request 46 Response Code: 504 
+2023-10-12 19:10:38,283 - INFO - Request 47 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,283 - INFO - Request 47 Response Code: 504 
+2023-10-12 19:10:38,283 - INFO - Request 48 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,283 - INFO - Request 48 Response Code: 504 
+2023-10-12 19:10:38,283 - INFO - Request 49 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,283 - INFO - Request 49 Response Code: 504 
+2023-10-12 19:10:38,283 - INFO - Request 50 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,284 - INFO - Request 50 Response Code: 504 
+2023-10-12 19:10:38,284 - INFO - Request 51 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,284 - INFO - Request 51 Response Code: 504 
+2023-10-12 19:10:38,284 - INFO - Request 52 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,284 - INFO - Request 52 Response Code: 504 
+2023-10-12 19:10:38,284 - INFO - Request 53 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,284 - INFO - Request 53 Response Code: 504 
+2023-10-12 19:10:38,284 - INFO - Request 54 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,284 - INFO - Request 54 Response Code: 504 
+2023-10-12 19:10:38,284 - INFO - Request 55 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,284 - INFO - Request 55 Response Code: 504 
+2023-10-12 19:10:38,284 - INFO - Request 56 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,284 - INFO - Request 56 Response Code: 504 
+2023-10-12 19:10:38,284 - INFO - Request 57 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,284 - INFO - Request 57 Response Code: 504 
+2023-10-12 19:10:38,284 - INFO - Request 58 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,284 - INFO - Request 58 Response Code: 504 
+2023-10-12 19:10:38,284 - INFO - Request 59 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,284 - INFO - Request 59 Response Code: 504 
+2023-10-12 19:10:38,285 - INFO - Request 60 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,285 - INFO - Request 60 Response Code: 504 
+2023-10-12 19:10:38,285 - INFO - Request 61 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,285 - INFO - Request 61 Response Code: 504 
+2023-10-12 19:10:38,285 - INFO - Request 62 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,285 - INFO - Request 62 Response Code: 504 
+2023-10-12 19:10:38,285 - INFO - Request 63 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,285 - INFO - Request 63 Response Code: 504 
+2023-10-12 19:10:38,285 - INFO - Request 64 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,285 - INFO - Request 64 Response Code: 504 
+2023-10-12 19:10:38,285 - INFO - Request 65 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,285 - INFO - Request 65 Response Code: 504 
+2023-10-12 19:10:38,285 - INFO - Request 66 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,285 - INFO - Request 66 Response Code: 504 
+2023-10-12 19:10:38,285 - INFO - Request 67 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,285 - INFO - Request 67 Response Code: 504 
+2023-10-12 19:10:38,286 - INFO - Request 68 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,286 - INFO - Request 68 Response Code: 504 
+2023-10-12 19:10:38,286 - INFO - Request 69 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,286 - INFO - Request 69 Response Code: 504 
+2023-10-12 19:10:38,286 - INFO - Request 70 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,286 - INFO - Request 70 Response Code: 504 
+2023-10-12 19:10:38,286 - INFO - Request 71 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,286 - INFO - Request 71 Response Code: 504 
+2023-10-12 19:10:38,286 - INFO - Request 72 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,286 - INFO - Request 72 Response Code: 504 
+2023-10-12 19:10:38,286 - INFO - Request 73 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,286 - INFO - Request 73 Response Code: 504 
+2023-10-12 19:10:38,286 - INFO - Request 74 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,286 - INFO - Request 74 Response Code: 504 
+2023-10-12 19:10:38,286 - INFO - Request 75 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,286 - INFO - Request 75 Response Code: 504 
+2023-10-12 19:10:38,286 - INFO - Request 76 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,287 - INFO - Request 76 Response Code: 504 
+2023-10-12 19:10:38,287 - INFO - Request 77 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,287 - INFO - Request 77 Response Code: 504 
+2023-10-12 19:10:38,287 - INFO - Request 78 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,287 - INFO - Request 78 Response Code: 504 
+2023-10-12 19:10:38,287 - INFO - Request 79 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,287 - INFO - Request 79 Response Code: 504 
+2023-10-12 19:10:38,287 - INFO - Request 80 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,288 - INFO - Request 80 Response Code: 504 
+2023-10-12 19:10:38,288 - INFO - Request 81 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,288 - INFO - Request 81 Response Code: 504 
+2023-10-12 19:10:38,288 - INFO - Request 82 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,288 - INFO - Request 82 Response Code: 504 
+2023-10-12 19:10:38,288 - INFO - Request 83 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,288 - INFO - Request 83 Response Code: 504 
+2023-10-12 19:10:38,288 - INFO - Request 84 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,288 - INFO - Request 84 Response Code: 504 
+2023-10-12 19:10:38,288 - INFO - Request 85 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,288 - INFO - Request 85 Response Code: 504 
+2023-10-12 19:10:38,288 - INFO - Request 86 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,288 - INFO - Request 86 Response Code: 504 
+2023-10-12 19:10:38,288 - INFO - Request 87 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,288 - INFO - Request 87 Response Code: 504 
+2023-10-12 19:10:38,289 - INFO - Request 88 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,289 - INFO - Request 88 Response Code: 504 
+2023-10-12 19:10:38,289 - INFO - Request 89 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,289 - INFO - Request 89 Response Code: 504 
+2023-10-12 19:10:38,289 - INFO - Request 90 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,289 - INFO - Request 90 Response Code: 504 
+2023-10-12 19:10:38,289 - INFO - Request 91 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,289 - INFO - Request 91 Response Code: 504 
+2023-10-12 19:10:38,289 - INFO - Request 92 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,289 - INFO - Request 92 Response Code: 504 
+2023-10-12 19:10:38,289 - INFO - Request 93 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,289 - INFO - Request 93 Response Code: 504 
+2023-10-12 19:10:38,289 - INFO - Request 94 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,289 - INFO - Request 94 Response Code: 504 
+2023-10-12 19:10:38,289 - INFO - Request 95 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,289 - INFO - Request 95 Response Code: 504 
+2023-10-12 19:10:38,289 - INFO - Request 96 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,289 - INFO - Request 96 Response Code: 504 
+2023-10-12 19:10:38,289 - INFO - Request 97 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,290 - INFO - Request 97 Response Code: 504 
+2023-10-12 19:10:38,290 - INFO - Request 98 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,290 - INFO - Request 98 Response Code: 504 
+2023-10-12 19:10:38,290 - INFO - Request 99 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,290 - INFO - Request 99 Response Code: 504 
+2023-10-12 19:10:38,290 - INFO - Request 100 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-12 19:10:38,290 - INFO - Request 100 Response Code: 504 
+2023-10-13 12:29:20,413 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-13 12:29:20,448 - INFO - Request 1 Response Code: 200 
+2023-10-13 12:29:20,448 - INFO - Request 2 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-13 12:29:20,449 - INFO - Request 2 Response Code: 200 
+2023-10-13 12:29:20,449 - INFO - Request 3 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-13 12:29:20,449 - INFO - Request 3 Response Code: 200 
+2023-10-13 12:29:20,449 - INFO - Request 4 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-13 12:29:20,450 - INFO - Request 4 Response Code: 200 
+2023-10-13 12:29:20,450 - INFO - Request 5 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-13 12:29:20,450 - INFO - Request 5 Response Code: 200 
+2023-10-13 12:29:20,450 - INFO - Request 6 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-13 12:29:20,450 - INFO - Request 6 Response Code: 200 
+2023-10-13 12:29:20,450 - INFO - Request 7 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-13 12:29:20,451 - INFO - Request 7 Response Code: 200 
+2023-10-13 12:29:20,451 - INFO - Request 8 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-13 12:29:20,451 - INFO - Request 8 Response Code: 200 
+2023-10-13 12:29:20,451 - INFO - Request 9 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "An externalId already exists with the specified value",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-13 12:29:20,451 - INFO - Request 9 Response Code: 200 
+2023-10-13 12:29:20,452 - INFO - Request 10 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,452 - INFO - Request 10 Response Code: 504 
+2023-10-13 12:29:20,452 - INFO - Request 11 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f289b80bb74f4dbdb2c7649b8b8e7a6c",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-13 12:29:20,452 - INFO - Request 11 Response Code: 200 
+2023-10-13 12:29:20,452 - INFO - Request 12 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,452 - INFO - Request 12 Response Code: 504 
+2023-10-13 12:29:20,452 - INFO - Request 13 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,453 - INFO - Request 13 Response Code: 504 
+2023-10-13 12:29:20,453 - INFO - Request 14 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/3f80b2281c2147b083e543ce55698192",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-10-13 12:29:20,453 - INFO - Request 14 Response Code: 200 
+2023-10-13 12:29:20,453 - INFO - Request 15 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,453 - INFO - Request 15 Response Code: 504 
+2023-10-13 12:29:20,453 - INFO - Request 16 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,453 - INFO - Request 16 Response Code: 504 
+2023-10-13 12:29:20,454 - INFO - Request 17 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,454 - INFO - Request 17 Response Code: 504 
+2023-10-13 12:29:20,454 - INFO - Request 18 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,454 - INFO - Request 18 Response Code: 504 
+2023-10-13 12:29:20,454 - INFO - Request 19 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,454 - INFO - Request 19 Response Code: 504 
+2023-10-13 12:29:20,454 - INFO - Request 20 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,454 - INFO - Request 20 Response Code: 504 
+2023-10-13 12:29:20,454 - INFO - Request 21 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,454 - INFO - Request 21 Response Code: 504 
+2023-10-13 12:29:20,455 - INFO - Request 22 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,455 - INFO - Request 22 Response Code: 504 
+2023-10-13 12:29:20,455 - INFO - Request 23 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,455 - INFO - Request 23 Response Code: 504 
+2023-10-13 12:29:20,455 - INFO - Request 24 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,455 - INFO - Request 24 Response Code: 504 
+2023-10-13 12:29:20,455 - INFO - Request 25 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,455 - INFO - Request 25 Response Code: 504 
+2023-10-13 12:29:20,455 - INFO - Request 26 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,456 - INFO - Request 26 Response Code: 504 
+2023-10-13 12:29:20,456 - INFO - Request 27 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,456 - INFO - Request 27 Response Code: 504 
+2023-10-13 12:29:20,456 - INFO - Request 28 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,456 - INFO - Request 28 Response Code: 504 
+2023-10-13 12:29:20,456 - INFO - Request 29 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,456 - INFO - Request 29 Response Code: 504 
+2023-10-13 12:29:20,456 - INFO - Request 30 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,456 - INFO - Request 30 Response Code: 504 
+2023-10-13 12:29:20,456 - INFO - Request 31 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,456 - INFO - Request 31 Response Code: 504 
+2023-10-13 12:29:20,456 - INFO - Request 32 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,456 - INFO - Request 32 Response Code: 504 
+2023-10-13 12:29:20,457 - INFO - Request 33 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,457 - INFO - Request 33 Response Code: 504 
+2023-10-13 12:29:20,457 - INFO - Request 34 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,457 - INFO - Request 34 Response Code: 504 
+2023-10-13 12:29:20,457 - INFO - Request 35 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,457 - INFO - Request 35 Response Code: 504 
+2023-10-13 12:29:20,457 - INFO - Request 36 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,457 - INFO - Request 36 Response Code: 504 
+2023-10-13 12:29:20,457 - INFO - Request 37 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,457 - INFO - Request 37 Response Code: 504 
+2023-10-13 12:29:20,457 - INFO - Request 38 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,457 - INFO - Request 38 Response Code: 504 
+2023-10-13 12:29:20,457 - INFO - Request 39 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,458 - INFO - Request 39 Response Code: 504 
+2023-10-13 12:29:20,458 - INFO - Request 40 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,458 - INFO - Request 40 Response Code: 504 
+2023-10-13 12:29:20,458 - INFO - Request 41 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,458 - INFO - Request 41 Response Code: 504 
+2023-10-13 12:29:20,458 - INFO - Request 42 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,458 - INFO - Request 42 Response Code: 504 
+2023-10-13 12:29:20,458 - INFO - Request 43 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,458 - INFO - Request 43 Response Code: 504 
+2023-10-13 12:29:20,458 - INFO - Request 44 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,458 - INFO - Request 44 Response Code: 504 
+2023-10-13 12:29:20,458 - INFO - Request 45 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,458 - INFO - Request 45 Response Code: 504 
+2023-10-13 12:29:20,458 - INFO - Request 46 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,458 - INFO - Request 46 Response Code: 504 
+2023-10-13 12:29:20,459 - INFO - Request 47 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,459 - INFO - Request 47 Response Code: 504 
+2023-10-13 12:29:20,459 - INFO - Request 48 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,459 - INFO - Request 48 Response Code: 504 
+2023-10-13 12:29:20,459 - INFO - Request 49 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,459 - INFO - Request 49 Response Code: 504 
+2023-10-13 12:29:20,459 - INFO - Request 50 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,459 - INFO - Request 50 Response Code: 504 
+2023-10-13 12:29:20,459 - INFO - Request 51 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,459 - INFO - Request 51 Response Code: 504 
+2023-10-13 12:29:20,459 - INFO - Request 52 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,459 - INFO - Request 52 Response Code: 504 
+2023-10-13 12:29:20,459 - INFO - Request 53 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,459 - INFO - Request 53 Response Code: 504 
+2023-10-13 12:29:20,459 - INFO - Request 54 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,459 - INFO - Request 54 Response Code: 504 
+2023-10-13 12:29:20,459 - INFO - Request 55 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,459 - INFO - Request 55 Response Code: 504 
+2023-10-13 12:29:20,459 - INFO - Request 56 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,459 - INFO - Request 56 Response Code: 504 
+2023-10-13 12:29:20,460 - INFO - Request 57 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,460 - INFO - Request 57 Response Code: 504 
+2023-10-13 12:29:20,460 - INFO - Request 58 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,460 - INFO - Request 58 Response Code: 504 
+2023-10-13 12:29:20,460 - INFO - Request 59 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,460 - INFO - Request 59 Response Code: 504 
+2023-10-13 12:29:20,460 - INFO - Request 60 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,460 - INFO - Request 60 Response Code: 504 
+2023-10-13 12:29:20,460 - INFO - Request 61 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,460 - INFO - Request 61 Response Code: 504 
+2023-10-13 12:29:20,460 - INFO - Request 62 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,460 - INFO - Request 62 Response Code: 504 
+2023-10-13 12:29:20,460 - INFO - Request 63 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,460 - INFO - Request 63 Response Code: 504 
+2023-10-13 12:29:20,460 - INFO - Request 64 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,460 - INFO - Request 64 Response Code: 504 
+2023-10-13 12:29:20,460 - INFO - Request 65 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,460 - INFO - Request 65 Response Code: 504 
+2023-10-13 12:29:20,461 - INFO - Request 66 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,461 - INFO - Request 66 Response Code: 504 
+2023-10-13 12:29:20,461 - INFO - Request 67 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,461 - INFO - Request 67 Response Code: 504 
+2023-10-13 12:29:20,461 - INFO - Request 68 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,461 - INFO - Request 68 Response Code: 504 
+2023-10-13 12:29:20,461 - INFO - Request 69 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,461 - INFO - Request 69 Response Code: 504 
+2023-10-13 12:29:20,461 - INFO - Request 70 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,461 - INFO - Request 70 Response Code: 504 
+2023-10-13 12:29:20,461 - INFO - Request 71 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,461 - INFO - Request 71 Response Code: 504 
+2023-10-13 12:29:20,461 - INFO - Request 72 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,461 - INFO - Request 72 Response Code: 504 
+2023-10-13 12:29:20,461 - INFO - Request 73 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,461 - INFO - Request 73 Response Code: 504 
+2023-10-13 12:29:20,461 - INFO - Request 74 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,461 - INFO - Request 74 Response Code: 504 
+2023-10-13 12:29:20,461 - INFO - Request 75 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,461 - INFO - Request 75 Response Code: 504 
+2023-10-13 12:29:20,461 - INFO - Request 76 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,462 - INFO - Request 76 Response Code: 504 
+2023-10-13 12:29:20,462 - INFO - Request 77 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,462 - INFO - Request 77 Response Code: 504 
+2023-10-13 12:29:20,462 - INFO - Request 78 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,462 - INFO - Request 78 Response Code: 504 
+2023-10-13 12:29:20,462 - INFO - Request 79 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,462 - INFO - Request 79 Response Code: 504 
+2023-10-13 12:29:20,462 - INFO - Request 80 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,462 - INFO - Request 80 Response Code: 504 
+2023-10-13 12:29:20,462 - INFO - Request 81 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,462 - INFO - Request 81 Response Code: 504 
+2023-10-13 12:29:20,463 - INFO - Request 82 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,463 - INFO - Request 82 Response Code: 504 
+2023-10-13 12:29:20,463 - INFO - Request 83 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,463 - INFO - Request 83 Response Code: 504 
+2023-10-13 12:29:20,463 - INFO - Request 84 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,463 - INFO - Request 84 Response Code: 504 
+2023-10-13 12:29:20,463 - INFO - Request 85 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,463 - INFO - Request 85 Response Code: 504 
+2023-10-13 12:29:20,463 - INFO - Request 86 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,463 - INFO - Request 86 Response Code: 504 
+2023-10-13 12:29:20,463 - INFO - Request 87 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,463 - INFO - Request 87 Response Code: 504 
+2023-10-13 12:29:20,463 - INFO - Request 88 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,463 - INFO - Request 88 Response Code: 504 
+2023-10-13 12:29:20,463 - INFO - Request 89 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,464 - INFO - Request 89 Response Code: 504 
+2023-10-13 12:29:20,464 - INFO - Request 90 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,464 - INFO - Request 90 Response Code: 504 
+2023-10-13 12:29:20,464 - INFO - Request 91 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,464 - INFO - Request 91 Response Code: 504 
+2023-10-13 12:29:20,464 - INFO - Request 92 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,464 - INFO - Request 92 Response Code: 504 
+2023-10-13 12:29:20,464 - INFO - Request 93 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,464 - INFO - Request 93 Response Code: 504 
+2023-10-13 12:29:20,464 - INFO - Request 94 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,464 - INFO - Request 94 Response Code: 504 
+2023-10-13 12:29:20,464 - INFO - Request 95 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,464 - INFO - Request 95 Response Code: 504 
+2023-10-13 12:29:20,464 - INFO - Request 96 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,464 - INFO - Request 96 Response Code: 504 
+2023-10-13 12:29:20,465 - INFO - Request 97 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,465 - INFO - Request 97 Response Code: 504 
+2023-10-13 12:29:20,465 - INFO - Request 98 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,465 - INFO - Request 98 Response Code: 504 
+2023-10-13 12:29:20,465 - INFO - Request 99 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,465 - INFO - Request 99 Response Code: 504 
+2023-10-13 12:29:20,465 - INFO - Request 100 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-10-13 12:29:20,465 - INFO - Request 100 Response Code: 504 

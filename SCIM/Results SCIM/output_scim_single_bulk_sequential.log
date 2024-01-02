@@ -1,0 +1,1300 @@
+2023-09-25 15:58:20,539 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/45ec1ff83587470a978d6b7c4ca31e6f",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 15:58:20,539 - INFO - Request 1 Response Code: 200 
+2023-09-25 15:58:31,406 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/aafbfb7367264a51aea3feaed0ab16be",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 15:58:31,410 - INFO - Request 1 Response Code: 200 
+2023-09-25 15:58:42,584 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f5f6b0c942d040d9a1ce6d38114100bb",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 15:58:42,584 - INFO - Request 1 Response Code: 200 
+2023-09-25 15:58:53,660 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/74a205dbbbaa4a958ca3373033b4e1fe",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 15:58:53,661 - INFO - Request 1 Response Code: 200 
+2023-09-25 15:59:17,795 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b8c4380a4be344878ebdcd21f206080c",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 15:59:17,795 - INFO - Request 1 Response Code: 200 
+2023-09-25 15:59:34,381 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b87834c5eef6462e9c36401b43882f20",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 15:59:34,381 - INFO - Request 1 Response Code: 200 
+2023-09-25 15:59:46,309 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/fec07c1d49c74e65ad2ad7b78c41e6eb",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 15:59:46,310 - INFO - Request 1 Response Code: 200 
+2023-09-25 15:59:59,361 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/fee04ac646c44029a60f3a6e122018a0",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 15:59:59,361 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:00:16,372 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/6260a92ab3934a3ca5f7f85b8e662901",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:00:16,372 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:00:32,240 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/115c144bb1264f1089efcc8adb9f8f3e",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:00:32,240 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:00:45,334 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/057c191531bc4027919b140bdd72344b",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:00:45,334 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:00:58,939 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/38d7d6d5fb544b0b953f0d7e56a2236f",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:00:58,939 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:01:17,500 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/1ac947b4b5bd4c97b93f49459a089668",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:01:17,500 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:01:28,538 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0720f5f64ae442faa005b2f8ad2b01e2",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:01:28,538 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:01:39,851 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8a3e532d496f486b981641807f3779d3",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:01:39,852 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:01:55,335 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/012b05ae55a04a00ac5ef690d343a8b1",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:01:55,335 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:02:08,031 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/88d8c27e556649ebb4d6a7fb91c92c0e",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:02:08,031 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:02:21,297 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/9723963a0ecc418985d40bc3463d28ba",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:02:21,297 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:02:32,518 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/18204841912c45a385f7c0053bf78d9a",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:02:32,518 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:02:45,592 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/45e6f1a1fb7044519e288f1c33c9e04b",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:02:45,592 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:03:00,143 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c07d79a50ca345f6842b90515b4c164d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:03:00,145 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:03:12,913 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/e329f9e62f9d4b8992ccd87551e3b339",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:03:12,913 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:03:24,580 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/721c789c085b4a1c9e42d47837c3a48b",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:03:24,580 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:03:38,352 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f3779d98c4384759bc4a168240035851",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:03:38,352 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:03:53,626 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ab5f1a76dd1c456a89f2bb9df6737efd",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:03:53,626 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:04:18,217 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/73c86fe2ee204bd0b42297c9100223af",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:04:18,217 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:04:32,700 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a1c1d5481aa6466e8f326e07fb7b431a",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:04:32,700 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:04:54,751 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/932fb01cff244520ade1f29b480ae9a4",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:04:54,751 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:05:22,782 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/9b912897512b41e7aabf220fdb92f456",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:05:22,782 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:05:44,405 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/860992c9575544b0a0e310838ca4b250",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:05:44,406 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:06:01,761 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/56e45f535a714a8fa7c8ad604e9dda40",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:06:01,762 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:06:22,397 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d29af666c16a4751a526f61d93fb9d6c",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:06:22,397 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:06:37,182 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a18573910da24e4182a58641f9f5c1f3",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:06:37,182 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:06:54,857 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/54125e2376e14f74b2f5e960b6e7585c",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:06:54,857 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:07:16,475 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ae51408aae764c07b119167dafb7a0dc",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:07:16,475 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:07:37,242 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/7e8eccb66b5d456a84d6a4c0216a4b2b",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:07:37,243 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:07:54,007 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/fd1bb335c95141f598bb008e4bf48a0d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:07:54,007 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:08:14,020 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/af04e44e65784a5c8c95408c7ba41aa2",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:08:14,020 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:08:29,774 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/33466d05bd5441f6b049aedfcda0f9b0",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:08:29,774 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:08:46,702 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/5d40987758ba4117a19c86f7aaa116bd",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:08:46,702 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:09:04,044 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/2247fc5972e0430485cc093a61f3619e",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:09:04,044 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:09:23,536 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d3d1daf4913d451791caaca1635696d0",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:09:23,537 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:09:39,841 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a90eb2d05afa499aa9e736496a2ef21c",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:09:39,842 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:09:58,477 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c3d18cad606c418aaa6ca5334a4cf983",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:09:58,477 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:10:24,842 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/dfea0aed0d4c4cff95d596485742b36c",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:10:24,843 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:10:47,051 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/4fb33bffbe254e8ab9bd38381ce22b63",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:10:47,051 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:11:02,603 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/98b9a0fd7a6945d79fa7136768119067",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:11:02,604 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:11:20,212 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8777af6333e446aea8ea89febfb60ed5",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:11:20,212 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:11:32,813 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/46438dfc5bba479b9318459105e7687d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:11:32,814 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:11:44,702 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f3427d29e12e4ae78471dadbf4b80926",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:11:44,703 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:11:59,319 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/2272362118d745a590ffca626e9e58a4",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:11:59,319 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:12:13,552 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/35a0ec937385405f92baf67b6a8588b7",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:12:13,552 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:12:27,435 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/bf024d3e8dc44eafb5022941d11eedc2",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:12:27,435 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:12:38,374 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/4e9a350df4ad4353844272388866d7d9",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:12:38,375 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:12:52,637 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/1efb9e6ee53f49c2acd27640c8a407c8",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:12:52,637 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:13:08,189 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0c7bad00a6ed4305a477e96bb92baa5d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:13:08,189 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:13:22,512 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8366efde7c624699a6f8d71cc727d91e",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:13:22,513 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:13:33,810 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/067a6f6fb5534d08bb339a29c9ba92ab",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:13:33,811 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:13:44,467 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/4ccb3b9190f342648eb467c93c346554",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:13:44,469 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:13:59,938 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/985f25f1096047eda09e58ea63c5c2ea",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:13:59,938 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:14:13,578 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ef3cc977b25f4a4fb63ecc2f163e9974",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:14:13,578 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:14:25,471 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/81e6feaffc244b3188aad66747559645",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:14:25,471 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:14:36,615 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/9c4059c42443440fb0bf7e6a8d47ab8d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:14:36,615 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:14:48,337 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/04c371342cf741dbb29035663160e5ba",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:14:48,337 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:15:01,563 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/71005708a78f4b68a7e4892c8d875802",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:15:01,563 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:15:24,542 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/7a06c41d569f4fd4b112f7d48f0c9101",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:15:24,543 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:15:39,407 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/40ede4bb18324c03a0f12099ee4ae727",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:15:39,408 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:15:53,752 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/532cae0c12a34dc4a96c127844257a49",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:15:53,752 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:16:06,743 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/2593cb997c4e4fdea16f4f47dea87e97",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:16:06,744 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:16:20,791 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/383dee6e61944306b197a5d9c8d3b2bf",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:16:20,791 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:16:32,444 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/9f2541717c12425cae3e539741e69431",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:16:32,444 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:16:43,369 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/44f687330a22475b80ef55c0ad28e5a2",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:16:43,369 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:16:57,296 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/17d323d27d754ed98615dd1de7475c2b",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:16:57,297 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:17:10,458 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0b2adecc7cda4576b7c8432065e2c040",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:17:10,458 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:17:23,903 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/5f4924ebb24d4fb6b5492a0946dec3fb",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:17:23,903 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:17:35,209 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a609ed92e2ee4448aa9b35978631fc02",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:17:35,209 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:17:46,711 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0f40a2d6eff84f4ca11dde5c2911f2f1",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:17:46,711 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:18:00,804 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/9cf3acd40d0b4bbbbff7bf50dcc39ab1",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:18:00,804 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:18:16,861 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/602fd44bf8ae4c3b89721b4468c73b38",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:18:16,861 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:18:31,751 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c04249822c5c4a0c98430322b860bc84",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:18:31,752 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:18:46,447 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c137e45b92094faebb05f35a60fde478",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:18:46,448 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:19:01,568 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/671d9cbe06474bdd811d1bc559d1602c",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:19:01,568 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:19:19,448 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/92972fa34e6a4482be94af5be98bdeb0",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:19:19,449 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:19:32,948 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8a83449d28de4fa99bccd9b9e8f6851e",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:19:32,948 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:19:46,455 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/13ed3d9d80974c2492f7e0bc7aeded51",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:19:46,455 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:20:01,082 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b8bad7766dbb4fc899fefc6decb6f646",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:20:01,082 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:20:19,458 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d111fca4d08e4546bd73d9384461764b",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:20:19,458 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:20:35,317 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a8b012aaa332480baaefefae29bc9e81",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:20:35,317 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:20:48,208 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/6c3e2466abc04e068954696f2366bb6a",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:20:48,209 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:21:06,352 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/1fc47451a7344b238f641d63d752ab8f",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:21:06,353 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:21:26,042 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0dad6f933a25432bb17917a9645df5b5",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:21:26,042 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:21:41,778 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d6b49852057b4e2caaac7f361ffb1ba4",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:21:41,778 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:21:56,407 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/7b70fd43dd8d4cb69e892cb032370dd8",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:21:56,407 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:22:09,542 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/78c8369eb06244ebbae5d5de3b089d03",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:22:09,542 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:22:25,807 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/18319fd23aa54cea88d7d78f79d72d7e",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:22:25,808 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:22:38,954 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a3af6b6e905f42ffa1fe8833966e40c9",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:22:38,954 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:22:56,350 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a2b02b7a282144f996d2cbcdbf59bbab",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:22:56,350 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:23:11,829 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/131ae769715b4229952a57a129c10461",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:23:11,830 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:23:26,470 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/22735f45504643ae9ebfb030a30e4e9d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:23:26,471 - INFO - Request 1 Response Code: 200 
+2023-09-25 16:23:41,431 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/de2ee0f2921c4af895a0b8184f750b17",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-25 16:23:41,431 - INFO - Request 1 Response Code: 200 

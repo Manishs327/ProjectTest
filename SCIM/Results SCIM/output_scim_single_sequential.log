@@ -1,0 +1,2323 @@
+2023-09-25 15:01:56,302 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "7ca3a1b01cf8489db4058d3e7aa32f40",
+  "externalId" : "SCIMIDCSUSER_31sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_31",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_31",
+    "givenName" : "SCIMIDCSUSER_31"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_31@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:31:55Z",
+    "lastModified" : "2023-09-25T09:31:55Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/7ca3a1b01cf8489db4058d3e7aa32f40",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:01:56,303 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:03:16,703 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "fd516795dbab4f598e54bc02c1ca0878",
+  "externalId" : "SCIMIDCSUSER_41sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_41",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_41",
+    "givenName" : "SCIMIDCSUSER_41"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_41@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:33:16Z",
+    "lastModified" : "2023-09-25T09:33:16Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/fd516795dbab4f598e54bc02c1ca0878",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:03:16,704 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:03:27,967 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "dc29a90904264e4bbb0b8bd8a794a448",
+  "externalId" : "SCIMIDCSUSER_42sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_42",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_42",
+    "givenName" : "SCIMIDCSUSER_42"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_42@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:33:27Z",
+    "lastModified" : "2023-09-25T09:33:27Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/dc29a90904264e4bbb0b8bd8a794a448",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:03:27,967 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:03:41,678 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "ec8b4e44ef3f4269a8b801211b81f47b",
+  "externalId" : "SCIMIDCSUSER_43sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_43",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_43",
+    "givenName" : "SCIMIDCSUSER_43"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_43@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:33:41Z",
+    "lastModified" : "2023-09-25T09:33:41Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ec8b4e44ef3f4269a8b801211b81f47b",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:03:41,678 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:03:55,618 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "df963afc62b849f9ba4a5c9731ee8e3a",
+  "externalId" : "SCIMIDCSUSER_44sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_44",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_44",
+    "givenName" : "SCIMIDCSUSER_44"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_44@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:33:55Z",
+    "lastModified" : "2023-09-25T09:33:55Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/df963afc62b849f9ba4a5c9731ee8e3a",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:03:55,618 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:04:08,133 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "1a60643a20434e2f85c2dc34ea1f554e",
+  "externalId" : "SCIMIDCSUSER_45sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_45",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_45",
+    "givenName" : "SCIMIDCSUSER_45"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_45@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:34:07Z",
+    "lastModified" : "2023-09-25T09:34:07Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/1a60643a20434e2f85c2dc34ea1f554e",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:04:08,133 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:04:22,956 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "77591b66c829438590ebb47c1aba2694",
+  "externalId" : "SCIMIDCSUSER_46sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_46",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_46",
+    "givenName" : "SCIMIDCSUSER_46"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_46@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:34:22Z",
+    "lastModified" : "2023-09-25T09:34:22Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/77591b66c829438590ebb47c1aba2694",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:04:22,956 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:04:37,387 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b94ca5f481584d91b08129ebcccd081c",
+  "externalId" : "SCIMIDCSUSER_47sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_47",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_47",
+    "givenName" : "SCIMIDCSUSER_47"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_47@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:34:36Z",
+    "lastModified" : "2023-09-25T09:34:36Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b94ca5f481584d91b08129ebcccd081c",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:04:37,387 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:04:53,346 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "ad44b58ad27f48f4b510158f5efcbb9c",
+  "externalId" : "SCIMIDCSUSER_48sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_48",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_48",
+    "givenName" : "SCIMIDCSUSER_48"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_48@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:34:52Z",
+    "lastModified" : "2023-09-25T09:34:52Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ad44b58ad27f48f4b510158f5efcbb9c",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:04:53,346 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:05:08,852 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "70af2a0cd3ed42d89dd2ca526b809878",
+  "externalId" : "SCIMIDCSUSER_49sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_49",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_49",
+    "givenName" : "SCIMIDCSUSER_49"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_49@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:35:08Z",
+    "lastModified" : "2023-09-25T09:35:08Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/70af2a0cd3ed42d89dd2ca526b809878",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:05:08,853 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:05:29,808 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "afdffcc86a71468592d343e2f0e6316a",
+  "externalId" : "SCIMIDCSUSER_410sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_410",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_410",
+    "givenName" : "SCIMIDCSUSER_410"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_410@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:35:29Z",
+    "lastModified" : "2023-09-25T09:35:29Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/afdffcc86a71468592d343e2f0e6316a",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:05:29,808 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:05:43,674 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "2894d456a4a74f1dbbb6565830f3ff94",
+  "externalId" : "SCIMIDCSUSER_411sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_411",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_411",
+    "givenName" : "SCIMIDCSUSER_411"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_411@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:35:43Z",
+    "lastModified" : "2023-09-25T09:35:43Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/2894d456a4a74f1dbbb6565830f3ff94",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:05:43,675 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:05:57,554 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "da13beed1c6c42c9a5931d76e95b97a1",
+  "externalId" : "SCIMIDCSUSER_412sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_412",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_412",
+    "givenName" : "SCIMIDCSUSER_412"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_412@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:35:57Z",
+    "lastModified" : "2023-09-25T09:35:57Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/da13beed1c6c42c9a5931d76e95b97a1",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:05:57,554 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:06:14,057 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "f967798d0fef400eafa9df92254cbe6c",
+  "externalId" : "SCIMIDCSUSER_413sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_413",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_413",
+    "givenName" : "SCIMIDCSUSER_413"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_413@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:36:13Z",
+    "lastModified" : "2023-09-25T09:36:13Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f967798d0fef400eafa9df92254cbe6c",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:06:14,057 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:06:27,634 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "2a04bf677fbd491c819e3f5ee002acd2",
+  "externalId" : "SCIMIDCSUSER_414sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_414",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_414",
+    "givenName" : "SCIMIDCSUSER_414"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_414@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:36:27Z",
+    "lastModified" : "2023-09-25T09:36:27Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/2a04bf677fbd491c819e3f5ee002acd2",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:06:27,634 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:06:40,005 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "3fc16b0e758f4517894ac4ba107f6f0e",
+  "externalId" : "SCIMIDCSUSER_415sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_415",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_415",
+    "givenName" : "SCIMIDCSUSER_415"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_415@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:36:39Z",
+    "lastModified" : "2023-09-25T09:36:39Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/3fc16b0e758f4517894ac4ba107f6f0e",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:06:40,006 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:06:53,818 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "ae4e57ec41d04611816cb4b5b84ef004",
+  "externalId" : "SCIMIDCSUSER_416sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_416",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_416",
+    "givenName" : "SCIMIDCSUSER_416"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_416@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:36:53Z",
+    "lastModified" : "2023-09-25T09:36:53Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ae4e57ec41d04611816cb4b5b84ef004",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:06:53,818 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:07:11,438 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "0b59f53450894e9da5e608329f04654d",
+  "externalId" : "SCIMIDCSUSER_417sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_417",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_417",
+    "givenName" : "SCIMIDCSUSER_417"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_417@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:37:10Z",
+    "lastModified" : "2023-09-25T09:37:10Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0b59f53450894e9da5e608329f04654d",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:07:11,438 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:07:27,767 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "a3daf3cba0f04647ba9d61cf2b4bb762",
+  "externalId" : "SCIMIDCSUSER_418sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_418",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_418",
+    "givenName" : "SCIMIDCSUSER_418"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_418@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:37:27Z",
+    "lastModified" : "2023-09-25T09:37:27Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a3daf3cba0f04647ba9d61cf2b4bb762",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:07:27,767 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:07:43,077 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "8344bb30e7a84a9cb1659d20bee83830",
+  "externalId" : "SCIMIDCSUSER_419sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_419",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_419",
+    "givenName" : "SCIMIDCSUSER_419"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_419@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:37:42Z",
+    "lastModified" : "2023-09-25T09:37:42Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8344bb30e7a84a9cb1659d20bee83830",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:07:43,077 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:07:57,981 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "8cd58498746b4df7a8c77ec4839fc153",
+  "externalId" : "SCIMIDCSUSER_420sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_420",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_420",
+    "givenName" : "SCIMIDCSUSER_420"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_420@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:37:57Z",
+    "lastModified" : "2023-09-25T09:37:57Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8cd58498746b4df7a8c77ec4839fc153",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:07:57,981 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:08:14,759 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b68b67f5330b4e1a9b04a7d9db0f3f93",
+  "externalId" : "SCIMIDCSUSER_421sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_421",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_421",
+    "givenName" : "SCIMIDCSUSER_421"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_421@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:38:14Z",
+    "lastModified" : "2023-09-25T09:38:14Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b68b67f5330b4e1a9b04a7d9db0f3f93",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:08:14,759 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:08:29,866 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "ee43412dbb684d398a2ece285aabae7f",
+  "externalId" : "SCIMIDCSUSER_422sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_422",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_422",
+    "givenName" : "SCIMIDCSUSER_422"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_422@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:38:29Z",
+    "lastModified" : "2023-09-25T09:38:29Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ee43412dbb684d398a2ece285aabae7f",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:08:29,866 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:08:45,203 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "f56d2d7c037a406ab173dc098a5b00a6",
+  "externalId" : "SCIMIDCSUSER_423sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_423",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_423",
+    "givenName" : "SCIMIDCSUSER_423"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_423@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:38:44Z",
+    "lastModified" : "2023-09-25T09:38:44Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f56d2d7c037a406ab173dc098a5b00a6",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:08:45,204 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:08:59,381 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "26581be116c24a0683b741fe6071f698",
+  "externalId" : "SCIMIDCSUSER_424sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_424",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_424",
+    "givenName" : "SCIMIDCSUSER_424"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_424@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:38:58Z",
+    "lastModified" : "2023-09-25T09:38:58Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/26581be116c24a0683b741fe6071f698",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:08:59,381 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:09:19,602 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "47ed4f9d9f394d149d14718fd2ff3151",
+  "externalId" : "SCIMIDCSUSER_425sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_425",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_425",
+    "givenName" : "SCIMIDCSUSER_425"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_425@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:39:19Z",
+    "lastModified" : "2023-09-25T09:39:19Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/47ed4f9d9f394d149d14718fd2ff3151",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:09:19,602 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:09:32,155 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "d636b2a796ef407d8063ff78f869d466",
+  "externalId" : "SCIMIDCSUSER_426sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_426",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_426",
+    "givenName" : "SCIMIDCSUSER_426"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_426@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:39:31Z",
+    "lastModified" : "2023-09-25T09:39:31Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d636b2a796ef407d8063ff78f869d466",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:09:32,155 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:09:45,785 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "586cb3b879d044e79392d2e66e37d558",
+  "externalId" : "SCIMIDCSUSER_427sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_427",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_427",
+    "givenName" : "SCIMIDCSUSER_427"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_427@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:39:45Z",
+    "lastModified" : "2023-09-25T09:39:45Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/586cb3b879d044e79392d2e66e37d558",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:09:45,785 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:09:59,975 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "d9cdf8186bc949e7bb08b46724a2898e",
+  "externalId" : "SCIMIDCSUSER_428sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_428",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_428",
+    "givenName" : "SCIMIDCSUSER_428"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_428@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:39:59Z",
+    "lastModified" : "2023-09-25T09:39:59Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d9cdf8186bc949e7bb08b46724a2898e",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:09:59,975 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:10:21,379 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "04fccd7ecb34484997e9529952e624ae",
+  "externalId" : "SCIMIDCSUSER_429sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_429",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_429",
+    "givenName" : "SCIMIDCSUSER_429"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_429@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:40:20Z",
+    "lastModified" : "2023-09-25T09:40:20Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/04fccd7ecb34484997e9529952e624ae",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:10:21,379 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:10:34,386 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "dac4ebc36f67437db92e4b32ddc2f31d",
+  "externalId" : "SCIMIDCSUSER_430sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_430",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_430",
+    "givenName" : "SCIMIDCSUSER_430"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_430@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:40:33Z",
+    "lastModified" : "2023-09-25T09:40:33Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/dac4ebc36f67437db92e4b32ddc2f31d",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:10:34,386 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:10:51,285 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "bcaa7cfebe494cfeaff3926eed6ac980",
+  "externalId" : "SCIMIDCSUSER_431sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_431",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_431",
+    "givenName" : "SCIMIDCSUSER_431"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_431@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:40:50Z",
+    "lastModified" : "2023-09-25T09:40:50Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/bcaa7cfebe494cfeaff3926eed6ac980",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:10:51,285 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:11:04,057 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "e98934b8a0c440d6a33fffcba739f72e",
+  "externalId" : "SCIMIDCSUSER_432sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_432",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_432",
+    "givenName" : "SCIMIDCSUSER_432"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_432@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:41:03Z",
+    "lastModified" : "2023-09-25T09:41:03Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/e98934b8a0c440d6a33fffcba739f72e",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:11:04,057 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:11:18,412 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "a0b603bdb0f449eb8ed5b98a75f74759",
+  "externalId" : "SCIMIDCSUSER_433sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_433",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_433",
+    "givenName" : "SCIMIDCSUSER_433"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_433@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:41:16Z",
+    "lastModified" : "2023-09-25T09:41:16Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a0b603bdb0f449eb8ed5b98a75f74759",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:11:18,412 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:11:29,966 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "df1a1944413c4e6ea2c276fe05a67d2f",
+  "externalId" : "SCIMIDCSUSER_434sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_434",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_434",
+    "givenName" : "SCIMIDCSUSER_434"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_434@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:41:29Z",
+    "lastModified" : "2023-09-25T09:41:29Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/df1a1944413c4e6ea2c276fe05a67d2f",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:11:29,966 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:11:39,191 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "4671f440ac35446ebd4718acead48a12",
+  "externalId" : "SCIMIDCSUSER_435sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_435",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_435",
+    "givenName" : "SCIMIDCSUSER_435"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_435@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:41:38Z",
+    "lastModified" : "2023-09-25T09:41:38Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/4671f440ac35446ebd4718acead48a12",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:11:39,191 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:11:52,309 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "9c6691bc14f348eb8b4ceaabc506a6f2",
+  "externalId" : "SCIMIDCSUSER_436sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_436",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_436",
+    "givenName" : "SCIMIDCSUSER_436"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_436@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:41:50Z",
+    "lastModified" : "2023-09-25T09:41:50Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/9c6691bc14f348eb8b4ceaabc506a6f2",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:11:52,310 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:12:05,744 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "abec7e5a5fdb4fa5a10adc818935a7a3",
+  "externalId" : "SCIMIDCSUSER_437sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_437",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_437",
+    "givenName" : "SCIMIDCSUSER_437"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_437@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:42:05Z",
+    "lastModified" : "2023-09-25T09:42:05Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/abec7e5a5fdb4fa5a10adc818935a7a3",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:12:05,745 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:12:18,432 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "16d16297637a4f2a8389c76de83ad66a",
+  "externalId" : "SCIMIDCSUSER_438sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_438",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_438",
+    "givenName" : "SCIMIDCSUSER_438"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_438@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:42:16Z",
+    "lastModified" : "2023-09-25T09:42:16Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/16d16297637a4f2a8389c76de83ad66a",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:12:18,433 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:12:27,680 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "ece955544a044f78ba627070fe53d464",
+  "externalId" : "SCIMIDCSUSER_439sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_439",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_439",
+    "givenName" : "SCIMIDCSUSER_439"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_439@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:42:27Z",
+    "lastModified" : "2023-09-25T09:42:27Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ece955544a044f78ba627070fe53d464",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:12:27,680 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:12:36,727 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "c689cf5c08494f198b807d277462ce6f",
+  "externalId" : "SCIMIDCSUSER_440sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_440",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_440",
+    "givenName" : "SCIMIDCSUSER_440"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_440@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:42:36Z",
+    "lastModified" : "2023-09-25T09:42:36Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c689cf5c08494f198b807d277462ce6f",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:12:36,727 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:12:47,310 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "c602ec65db624716a6700f4e41a55d6f",
+  "externalId" : "SCIMIDCSUSER_441sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_441",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_441",
+    "givenName" : "SCIMIDCSUSER_441"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_441@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:42:45Z",
+    "lastModified" : "2023-09-25T09:42:45Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c602ec65db624716a6700f4e41a55d6f",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:12:47,310 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:12:58,693 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "fa0bdf9ab2084208bacd4393ec48c844",
+  "externalId" : "SCIMIDCSUSER_442sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_442",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_442",
+    "givenName" : "SCIMIDCSUSER_442"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_442@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:42:58Z",
+    "lastModified" : "2023-09-25T09:42:58Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/fa0bdf9ab2084208bacd4393ec48c844",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:12:58,694 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:13:11,560 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "466e3020f33a4932a4f0d8f73ae7db60",
+  "externalId" : "SCIMIDCSUSER_443sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_443",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_443",
+    "givenName" : "SCIMIDCSUSER_443"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_443@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:43:11Z",
+    "lastModified" : "2023-09-25T09:43:11Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/466e3020f33a4932a4f0d8f73ae7db60",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:13:11,560 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:13:21,341 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "ae7c880096bf4dcb8db2cb28d4bed194",
+  "externalId" : "SCIMIDCSUSER_444sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_444",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_444",
+    "givenName" : "SCIMIDCSUSER_444"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_444@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:43:20Z",
+    "lastModified" : "2023-09-25T09:43:20Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ae7c880096bf4dcb8db2cb28d4bed194",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:13:21,341 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:13:31,105 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "e92c195ff0ca491f9bd7f750ce0454b4",
+  "externalId" : "SCIMIDCSUSER_445sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_445",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_445",
+    "givenName" : "SCIMIDCSUSER_445"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_445@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:43:30Z",
+    "lastModified" : "2023-09-25T09:43:30Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/e92c195ff0ca491f9bd7f750ce0454b4",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:13:31,105 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:13:40,194 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "54eb143ed3664c11af2f4fcd021f0973",
+  "externalId" : "SCIMIDCSUSER_446sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_446",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_446",
+    "givenName" : "SCIMIDCSUSER_446"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_446@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:43:39Z",
+    "lastModified" : "2023-09-25T09:43:39Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/54eb143ed3664c11af2f4fcd021f0973",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:13:40,195 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:13:50,405 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "bae6e297b7f14431acb5a295771abd87",
+  "externalId" : "SCIMIDCSUSER_447sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_447",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_447",
+    "givenName" : "SCIMIDCSUSER_447"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_447@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:43:49Z",
+    "lastModified" : "2023-09-25T09:43:49Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/bae6e297b7f14431acb5a295771abd87",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:13:50,405 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:13:59,933 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "826c5419d4224f60a04942270ec29acd",
+  "externalId" : "SCIMIDCSUSER_448sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_448",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_448",
+    "givenName" : "SCIMIDCSUSER_448"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_448@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:43:59Z",
+    "lastModified" : "2023-09-25T09:43:59Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/826c5419d4224f60a04942270ec29acd",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:13:59,933 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:14:12,482 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "7bceeb8316004a5d813ebc901988d034",
+  "externalId" : "SCIMIDCSUSER_449sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_449",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_449",
+    "givenName" : "SCIMIDCSUSER_449"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_449@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:44:12Z",
+    "lastModified" : "2023-09-25T09:44:12Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/7bceeb8316004a5d813ebc901988d034",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:14:12,482 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:14:22,270 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "706c49bfeb0143a6834b70991c3c727e",
+  "externalId" : "SCIMIDCSUSER_450sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_450",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_450",
+    "givenName" : "SCIMIDCSUSER_450"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_450@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:44:21Z",
+    "lastModified" : "2023-09-25T09:44:21Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/706c49bfeb0143a6834b70991c3c727e",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:14:22,270 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:14:31,555 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "17f1e9339a764c00b5789255e9003dbd",
+  "externalId" : "SCIMIDCSUSER_451sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_451",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_451",
+    "givenName" : "SCIMIDCSUSER_451"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_451@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:44:31Z",
+    "lastModified" : "2023-09-25T09:44:31Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/17f1e9339a764c00b5789255e9003dbd",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:14:31,556 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:14:41,379 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "d28eb07d11854bc5a48d0a22bdf40d76",
+  "externalId" : "SCIMIDCSUSER_452sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_452",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_452",
+    "givenName" : "SCIMIDCSUSER_452"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_452@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:44:40Z",
+    "lastModified" : "2023-09-25T09:44:40Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d28eb07d11854bc5a48d0a22bdf40d76",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:14:41,380 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:14:55,562 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "80baffdd55f043e6bafa3154f56e1cd6",
+  "externalId" : "SCIMIDCSUSER_453sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_453",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_453",
+    "givenName" : "SCIMIDCSUSER_453"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_453@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:44:53Z",
+    "lastModified" : "2023-09-25T09:44:53Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/80baffdd55f043e6bafa3154f56e1cd6",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:14:55,562 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:15:07,510 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "9218c94b55b240fbb85d18f0c074e944",
+  "externalId" : "SCIMIDCSUSER_454sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_454",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_454",
+    "givenName" : "SCIMIDCSUSER_454"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_454@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:45:06Z",
+    "lastModified" : "2023-09-25T09:45:06Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/9218c94b55b240fbb85d18f0c074e944",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:15:07,510 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:15:26,133 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "4c1fe620cb3c4712b4fcbd1220974a78",
+  "externalId" : "SCIMIDCSUSER_455sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_455",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_455",
+    "givenName" : "SCIMIDCSUSER_455"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_455@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:45:25Z",
+    "lastModified" : "2023-09-25T09:45:25Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/4c1fe620cb3c4712b4fcbd1220974a78",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:15:26,134 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:15:42,410 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "97e7f81bbdb64f2e97f5991e05384204",
+  "externalId" : "SCIMIDCSUSER_456sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_456",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_456",
+    "givenName" : "SCIMIDCSUSER_456"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_456@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:45:41Z",
+    "lastModified" : "2023-09-25T09:45:41Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/97e7f81bbdb64f2e97f5991e05384204",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:15:42,410 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:15:55,455 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "12148600bca94eafa999b98fd265d9d3",
+  "externalId" : "SCIMIDCSUSER_457sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_457",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_457",
+    "givenName" : "SCIMIDCSUSER_457"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_457@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:45:54Z",
+    "lastModified" : "2023-09-25T09:45:54Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/12148600bca94eafa999b98fd265d9d3",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:15:55,455 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:16:07,218 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "e6b30bb222244ed493595bc77204848c",
+  "externalId" : "SCIMIDCSUSER_458sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_458",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_458",
+    "givenName" : "SCIMIDCSUSER_458"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_458@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:46:06Z",
+    "lastModified" : "2023-09-25T09:46:06Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/e6b30bb222244ed493595bc77204848c",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:16:07,218 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:16:19,605 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "cc429c891ff542f589361b99d558cfef",
+  "externalId" : "SCIMIDCSUSER_459sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_459",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_459",
+    "givenName" : "SCIMIDCSUSER_459"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_459@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:46:19Z",
+    "lastModified" : "2023-09-25T09:46:19Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/cc429c891ff542f589361b99d558cfef",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:16:19,605 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:16:29,946 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b38cc14ce3f74e8d987cf4b69b619e95",
+  "externalId" : "SCIMIDCSUSER_460sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_460",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_460",
+    "givenName" : "SCIMIDCSUSER_460"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_460@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:46:29Z",
+    "lastModified" : "2023-09-25T09:46:29Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b38cc14ce3f74e8d987cf4b69b619e95",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:16:29,946 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:16:40,075 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "1c67e126617e40fa96d5fe0630602446",
+  "externalId" : "SCIMIDCSUSER_461sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_461",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_461",
+    "givenName" : "SCIMIDCSUSER_461"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_461@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:46:39Z",
+    "lastModified" : "2023-09-25T09:46:39Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/1c67e126617e40fa96d5fe0630602446",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:16:40,075 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:16:50,808 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "cf25294a818f444ab206201e8f149966",
+  "externalId" : "SCIMIDCSUSER_462sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_462",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_462",
+    "givenName" : "SCIMIDCSUSER_462"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_462@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:46:50Z",
+    "lastModified" : "2023-09-25T09:46:50Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/cf25294a818f444ab206201e8f149966",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:16:50,808 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:17:03,049 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "ed5af2a3135843778c88462f4ecfe116",
+  "externalId" : "SCIMIDCSUSER_463sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_463",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_463",
+    "givenName" : "SCIMIDCSUSER_463"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_463@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:47:02Z",
+    "lastModified" : "2023-09-25T09:47:02Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ed5af2a3135843778c88462f4ecfe116",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:17:03,050 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:17:15,250 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "bc895154753b4f969e951924beadddc8",
+  "externalId" : "SCIMIDCSUSER_464sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_464",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_464",
+    "givenName" : "SCIMIDCSUSER_464"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_464@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:47:14Z",
+    "lastModified" : "2023-09-25T09:47:14Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/bc895154753b4f969e951924beadddc8",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:17:15,251 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:17:25,750 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "15aa4b8e585d45cb9d1b620a21676aa4",
+  "externalId" : "SCIMIDCSUSER_465sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_465",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_465",
+    "givenName" : "SCIMIDCSUSER_465"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_465@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:47:25Z",
+    "lastModified" : "2023-09-25T09:47:25Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/15aa4b8e585d45cb9d1b620a21676aa4",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:17:25,751 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:17:36,965 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "c78919c2b7d84b7380fdb73626dadffc",
+  "externalId" : "SCIMIDCSUSER_466sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_466",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_466",
+    "givenName" : "SCIMIDCSUSER_466"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_466@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:47:36Z",
+    "lastModified" : "2023-09-25T09:47:36Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c78919c2b7d84b7380fdb73626dadffc",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:17:36,967 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:17:47,577 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "bda45be3131d421a9320f50b2cc2c312",
+  "externalId" : "SCIMIDCSUSER_467sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_467",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_467",
+    "givenName" : "SCIMIDCSUSER_467"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_467@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:47:47Z",
+    "lastModified" : "2023-09-25T09:47:47Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/bda45be3131d421a9320f50b2cc2c312",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:17:47,577 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:17:59,105 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "dc61e9b086b9450a900750058c23ccd9",
+  "externalId" : "SCIMIDCSUSER_468sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_468",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_468",
+    "givenName" : "SCIMIDCSUSER_468"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_468@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:47:58Z",
+    "lastModified" : "2023-09-25T09:47:58Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/dc61e9b086b9450a900750058c23ccd9",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:17:59,105 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:18:14,075 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "efc59980037c420c8b72ef56ecde4b9d",
+  "externalId" : "SCIMIDCSUSER_469sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_469",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_469",
+    "givenName" : "SCIMIDCSUSER_469"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_469@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:48:13Z",
+    "lastModified" : "2023-09-25T09:48:13Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/efc59980037c420c8b72ef56ecde4b9d",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:18:14,075 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:18:29,532 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "94ff46d4ff9e47b1a50c30655dc8b471",
+  "externalId" : "SCIMIDCSUSER_470sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_470",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_470",
+    "givenName" : "SCIMIDCSUSER_470"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_470@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:48:28Z",
+    "lastModified" : "2023-09-25T09:48:28Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/94ff46d4ff9e47b1a50c30655dc8b471",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:18:29,532 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:18:41,141 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "54d7dfb092214ae3876d5b4d27eaf094",
+  "externalId" : "SCIMIDCSUSER_471sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_471",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_471",
+    "givenName" : "SCIMIDCSUSER_471"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_471@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:48:40Z",
+    "lastModified" : "2023-09-25T09:48:40Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/54d7dfb092214ae3876d5b4d27eaf094",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:18:41,141 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:18:53,985 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "39742cbe6731427b83b06acb2323ea4a",
+  "externalId" : "SCIMIDCSUSER_472sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_472",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_472",
+    "givenName" : "SCIMIDCSUSER_472"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_472@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:48:53Z",
+    "lastModified" : "2023-09-25T09:48:53Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/39742cbe6731427b83b06acb2323ea4a",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:18:53,986 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:19:05,648 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "8f2da651667d47b494a0098361778e6a",
+  "externalId" : "SCIMIDCSUSER_473sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_473",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_473",
+    "givenName" : "SCIMIDCSUSER_473"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_473@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:49:05Z",
+    "lastModified" : "2023-09-25T09:49:05Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8f2da651667d47b494a0098361778e6a",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:19:05,648 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:19:19,125 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "91dcf27840c74b90aa992b66f7cfe39d",
+  "externalId" : "SCIMIDCSUSER_474sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_474",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_474",
+    "givenName" : "SCIMIDCSUSER_474"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_474@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:49:18Z",
+    "lastModified" : "2023-09-25T09:49:18Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/91dcf27840c74b90aa992b66f7cfe39d",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:19:19,125 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:19:28,779 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "2e3629c0c9c940149b213e91c0bba4dd",
+  "externalId" : "SCIMIDCSUSER_475sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_475",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_475",
+    "givenName" : "SCIMIDCSUSER_475"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_475@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:49:28Z",
+    "lastModified" : "2023-09-25T09:49:28Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/2e3629c0c9c940149b213e91c0bba4dd",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:19:28,779 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:19:38,545 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "38bd368b8d5c49c8809a36cac43eaa39",
+  "externalId" : "SCIMIDCSUSER_476sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_476",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_476",
+    "givenName" : "SCIMIDCSUSER_476"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_476@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:49:38Z",
+    "lastModified" : "2023-09-25T09:49:38Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/38bd368b8d5c49c8809a36cac43eaa39",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:19:38,545 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:19:47,553 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "394b7fac372140b3a4bcd9bc0da99c8d",
+  "externalId" : "SCIMIDCSUSER_477sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_477",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_477",
+    "givenName" : "SCIMIDCSUSER_477"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_477@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:49:47Z",
+    "lastModified" : "2023-09-25T09:49:47Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/394b7fac372140b3a4bcd9bc0da99c8d",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:19:47,553 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:20:00,441 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "87f751d744f640629e9d86533ad524c1",
+  "externalId" : "SCIMIDCSUSER_478sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_478",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_478",
+    "givenName" : "SCIMIDCSUSER_478"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_478@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:49:59Z",
+    "lastModified" : "2023-09-25T09:49:59Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/87f751d744f640629e9d86533ad524c1",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:20:00,442 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:20:15,445 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "6eb6aae0f5e34eb5b527aa66ee68366f",
+  "externalId" : "SCIMIDCSUSER_479sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_479",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_479",
+    "givenName" : "SCIMIDCSUSER_479"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_479@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:50:14Z",
+    "lastModified" : "2023-09-25T09:50:14Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/6eb6aae0f5e34eb5b527aa66ee68366f",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:20:15,445 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:20:28,402 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "16dbf54e6b1a4345b5541b5f6fe054f3",
+  "externalId" : "SCIMIDCSUSER_480sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_480",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_480",
+    "givenName" : "SCIMIDCSUSER_480"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_480@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:50:27Z",
+    "lastModified" : "2023-09-25T09:50:27Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/16dbf54e6b1a4345b5541b5f6fe054f3",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:20:28,402 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:20:40,171 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "aed4a627643541f5bf57726adb9dbce4",
+  "externalId" : "SCIMIDCSUSER_481sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_481",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_481",
+    "givenName" : "SCIMIDCSUSER_481"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_481@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:50:39Z",
+    "lastModified" : "2023-09-25T09:50:39Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/aed4a627643541f5bf57726adb9dbce4",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:20:40,171 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:20:49,856 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "c905ec1b586b46e28ab879acd3f2d4c6",
+  "externalId" : "SCIMIDCSUSER_482sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_482",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_482",
+    "givenName" : "SCIMIDCSUSER_482"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_482@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:50:49Z",
+    "lastModified" : "2023-09-25T09:50:49Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c905ec1b586b46e28ab879acd3f2d4c6",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:20:49,856 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:21:00,896 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "0ab08cbdf3d44ff38712d76d06d88db4",
+  "externalId" : "SCIMIDCSUSER_483sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_483",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_483",
+    "givenName" : "SCIMIDCSUSER_483"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_483@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:51:00Z",
+    "lastModified" : "2023-09-25T09:51:00Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0ab08cbdf3d44ff38712d76d06d88db4",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:21:00,896 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:21:13,906 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "3cda84e100bf4db8978a8a2a94111c65",
+  "externalId" : "SCIMIDCSUSER_484sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_484",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_484",
+    "givenName" : "SCIMIDCSUSER_484"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_484@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:51:13Z",
+    "lastModified" : "2023-09-25T09:51:13Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/3cda84e100bf4db8978a8a2a94111c65",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:21:13,906 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:21:25,227 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "418ce09e3628496f8fa3f7ed42825ce1",
+  "externalId" : "SCIMIDCSUSER_485sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_485",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_485",
+    "givenName" : "SCIMIDCSUSER_485"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_485@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:51:24Z",
+    "lastModified" : "2023-09-25T09:51:24Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/418ce09e3628496f8fa3f7ed42825ce1",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:21:25,227 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:21:35,298 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "fcc10034270d4fd1b07b4ea0f308784f",
+  "externalId" : "SCIMIDCSUSER_486sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_486",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_486",
+    "givenName" : "SCIMIDCSUSER_486"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_486@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:51:34Z",
+    "lastModified" : "2023-09-25T09:51:34Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/fcc10034270d4fd1b07b4ea0f308784f",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:21:35,298 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:21:45,730 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "49477731ba78473394fe1716eb599d57",
+  "externalId" : "SCIMIDCSUSER_487sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_487",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_487",
+    "givenName" : "SCIMIDCSUSER_487"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_487@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:51:45Z",
+    "lastModified" : "2023-09-25T09:51:45Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/49477731ba78473394fe1716eb599d57",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:21:45,730 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:21:57,689 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "8a1dd5462e1945b1a42b128f6607cc19",
+  "externalId" : "SCIMIDCSUSER_488sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_488",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_488",
+    "givenName" : "SCIMIDCSUSER_488"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_488@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:51:57Z",
+    "lastModified" : "2023-09-25T09:51:57Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8a1dd5462e1945b1a42b128f6607cc19",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:21:57,689 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:22:11,250 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "25c39143ffbe4dff93fe8b492a225786",
+  "externalId" : "SCIMIDCSUSER_489sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_489",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_489",
+    "givenName" : "SCIMIDCSUSER_489"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_489@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:52:10Z",
+    "lastModified" : "2023-09-25T09:52:10Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/25c39143ffbe4dff93fe8b492a225786",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:22:11,250 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:22:22,921 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "fdfdcfcf24bf4ca6a2551d17bcb3faa6",
+  "externalId" : "SCIMIDCSUSER_490sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_490",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_490",
+    "givenName" : "SCIMIDCSUSER_490"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_490@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:52:22Z",
+    "lastModified" : "2023-09-25T09:52:22Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/fdfdcfcf24bf4ca6a2551d17bcb3faa6",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:22:22,921 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:22:34,569 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b025cf98eddf40c7aed4ce319d6f235a",
+  "externalId" : "SCIMIDCSUSER_491sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_491",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_491",
+    "givenName" : "SCIMIDCSUSER_491"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_491@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:52:34Z",
+    "lastModified" : "2023-09-25T09:52:34Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b025cf98eddf40c7aed4ce319d6f235a",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:22:34,569 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:22:44,970 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "bd84f7eb5f2944f488680479c16ddd07",
+  "externalId" : "SCIMIDCSUSER_492sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_492",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_492",
+    "givenName" : "SCIMIDCSUSER_492"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_492@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:52:44Z",
+    "lastModified" : "2023-09-25T09:52:44Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/bd84f7eb5f2944f488680479c16ddd07",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:22:44,970 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:22:56,869 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "8b6ce4ecfdc149fdbd45e2638fa50d32",
+  "externalId" : "SCIMIDCSUSER_493sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_493",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_493",
+    "givenName" : "SCIMIDCSUSER_493"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_493@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:52:56Z",
+    "lastModified" : "2023-09-25T09:52:56Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8b6ce4ecfdc149fdbd45e2638fa50d32",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:22:56,869 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:23:08,568 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "2f06dc2da09e47aea12fbf20b0ce821a",
+  "externalId" : "SCIMIDCSUSER_494sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_494",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_494",
+    "givenName" : "SCIMIDCSUSER_494"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_494@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:53:08Z",
+    "lastModified" : "2023-09-25T09:53:08Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/2f06dc2da09e47aea12fbf20b0ce821a",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:23:08,568 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:23:20,180 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "cf5bce7a83fc4c8f924742e24f8ede83",
+  "externalId" : "SCIMIDCSUSER_495sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_495",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_495",
+    "givenName" : "SCIMIDCSUSER_495"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_495@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:53:19Z",
+    "lastModified" : "2023-09-25T09:53:19Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/cf5bce7a83fc4c8f924742e24f8ede83",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:23:20,180 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:23:30,828 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b21c8c6b11f1481fb7e58be3bc344a79",
+  "externalId" : "SCIMIDCSUSER_496sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_496",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_496",
+    "givenName" : "SCIMIDCSUSER_496"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_496@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:53:30Z",
+    "lastModified" : "2023-09-25T09:53:30Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b21c8c6b11f1481fb7e58be3bc344a79",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:23:30,828 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:23:40,820 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "7394ec28246e4feead40d9212c06fcf4",
+  "externalId" : "SCIMIDCSUSER_497sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_497",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_497",
+    "givenName" : "SCIMIDCSUSER_497"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_497@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:53:40Z",
+    "lastModified" : "2023-09-25T09:53:40Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/7394ec28246e4feead40d9212c06fcf4",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:23:40,820 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:23:56,133 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "45d120f1e1924c92a8ad11735709e0e1",
+  "externalId" : "SCIMIDCSUSER_498sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_498",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_498",
+    "givenName" : "SCIMIDCSUSER_498"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_498@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:53:55Z",
+    "lastModified" : "2023-09-25T09:53:55Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/45d120f1e1924c92a8ad11735709e0e1",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:23:56,133 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:24:10,463 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "d9e2f13143824661b5bbfec553fe2f96",
+  "externalId" : "SCIMIDCSUSER_499sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_499",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_499",
+    "givenName" : "SCIMIDCSUSER_499"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_499@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:54:10Z",
+    "lastModified" : "2023-09-25T09:54:10Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d9e2f13143824661b5bbfec553fe2f96",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:24:10,463 - INFO - Request 1 Response Code: 201 
+2023-09-25 15:24:21,566 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "50350ba915024966911bce01bc22f071",
+  "externalId" : "SCIMIDCSUSER_4100sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_4100",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_4100",
+    "givenName" : "SCIMIDCSUSER_4100"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_4100@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-25T09:54:21Z",
+    "lastModified" : "2023-09-25T09:54:21Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/50350ba915024966911bce01bc22f071",
+    "resourceType" : "User"
+  }
+} 
+2023-09-25 15:24:21,566 - INFO - Request 1 Response Code: 201 

@@ -1,0 +1,365 @@
+2023-09-28 18:30:18,356 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "8a9293b1b5f44c7e8f752dc35ee48e66",
+  "userName" : "idcsusersept281",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT281",
+    "givenName" : "IDCSUSERSEPT281"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT281@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:19:09Z",
+    "lastModified" : "2023-09-26T13:19:09Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/8a9293b1b5f44c7e8f752dc35ee48e66",
+    "resourceType" : "User"
+  }
+} 
+2023-09-28 18:30:18,356 - INFO - Request 1 Response Code: 200 
+2023-09-28 18:30:18,356 - INFO - Request 2 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "55a00eea06d04184a4559bc91985cf47",
+  "userName" : "idcsusersept282",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT282",
+    "givenName" : "IDCSUSERSEPT282"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT282@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:19:57Z",
+    "lastModified" : "2023-09-26T13:19:57Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/55a00eea06d04184a4559bc91985cf47",
+    "resourceType" : "User"
+  }
+} 
+2023-09-28 18:30:18,357 - INFO - Request 2 Response Code: 200 
+2023-09-28 18:30:18,357 - INFO - Request 3 Response: {"'access_token'"} 
+2023-09-28 18:30:18,357 - INFO - Request 4 Response: {"'access_token'"} 
+2023-09-28 18:30:18,357 - INFO - Request 5 Response: {"'access_token'"} 
+2023-09-28 18:30:18,357 - INFO - Request 6 Response: {"'access_token'"} 
+2023-09-28 18:30:18,357 - INFO - Request 7 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,357 - INFO - Request 7 Response Code: 401 
+2023-09-28 18:30:18,357 - INFO - Request 8 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "ea5220246b4f47abb0d1b801c1699846",
+  "userName" : "idcsusersept288",
+  "name" : {
+    "familyName" : "IDCSUSERSEPT288",
+    "givenName" : "IDCSUSERSEPT288"
+  },
+  "emails" : [ {
+    "value" : "IDCSUSERSEPT288@oracle.com",
+    "type" : "work"
+  } ],
+  "active" : true,
+  "groups" : [ {
+    "value" : "migtenantqa1.clinicalone-CNE",
+    "display" : "clinicalone-CNE"
+  } ],
+  "meta" : {
+    "created" : "2023-09-26T13:19:37Z",
+    "lastModified" : "2023-09-26T13:19:37Z",
+    "location" : "https://migtenantqa1-hs-sso-stg.iams.hs.ocs.oraclecloud.com:443/scimgateway/v1/migtenantqa1/Users/ea5220246b4f47abb0d1b801c1699846",
+    "resourceType" : "User"
+  }
+} 
+2023-09-28 18:30:18,357 - INFO - Request 8 Response Code: 200 
+2023-09-28 18:30:18,357 - INFO - Request 9 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,357 - INFO - Request 9 Response Code: 401 
+2023-09-28 18:30:18,358 - INFO - Request 10 Response: {"'access_token'"} 
+2023-09-28 18:30:18,358 - INFO - Request 11 Response: {"'access_token'"} 
+2023-09-28 18:30:18,358 - INFO - Request 12 Response: {"'access_token'"} 
+2023-09-28 18:30:18,358 - INFO - Request 13 Response: {"'access_token'"} 
+2023-09-28 18:30:18,358 - INFO - Request 14 Response: {"'access_token'"} 
+2023-09-28 18:30:18,358 - INFO - Request 15 Response: {"'access_token'"} 
+2023-09-28 18:30:18,359 - INFO - Request 16 Response: {"'access_token'"} 
+2023-09-28 18:30:18,359 - INFO - Request 17 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,359 - INFO - Request 17 Response Code: 401 
+2023-09-28 18:30:18,359 - INFO - Request 18 Response: {"'access_token'"} 
+2023-09-28 18:30:18,359 - INFO - Request 19 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,359 - INFO - Request 19 Response Code: 401 
+2023-09-28 18:30:18,359 - INFO - Request 20 Response: {"'access_token'"} 
+2023-09-28 18:30:18,359 - INFO - Request 21 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,359 - INFO - Request 21 Response Code: 504 
+2023-09-28 18:30:18,359 - INFO - Request 22 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,359 - INFO - Request 22 Response Code: 401 
+2023-09-28 18:30:18,359 - INFO - Request 23 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,359 - INFO - Request 23 Response Code: 401 
+2023-09-28 18:30:18,359 - INFO - Request 24 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,359 - INFO - Request 24 Response Code: 504 
+2023-09-28 18:30:18,359 - INFO - Request 25 Response: {"'access_token'"} 
+2023-09-28 18:30:18,359 - INFO - Request 26 Response: {"'access_token'"} 
+2023-09-28 18:30:18,359 - INFO - Request 27 Response: {"'access_token'"} 
+2023-09-28 18:30:18,359 - INFO - Request 28 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,359 - INFO - Request 28 Response Code: 401 
+2023-09-28 18:30:18,359 - INFO - Request 29 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,359 - INFO - Request 29 Response Code: 401 
+2023-09-28 18:30:18,359 - INFO - Request 30 Response: {"'access_token'"} 
+2023-09-28 18:30:18,359 - INFO - Request 31 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,359 - INFO - Request 31 Response Code: 504 
+2023-09-28 18:30:18,360 - INFO - Request 32 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,360 - INFO - Request 32 Response Code: 401 
+2023-09-28 18:30:18,360 - INFO - Request 33 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,360 - INFO - Request 33 Response Code: 401 
+2023-09-28 18:30:18,360 - INFO - Request 34 Response: {"'access_token'"} 
+2023-09-28 18:30:18,360 - INFO - Request 35 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,360 - INFO - Request 35 Response Code: 504 
+2023-09-28 18:30:18,360 - INFO - Request 36 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,360 - INFO - Request 36 Response Code: 504 
+2023-09-28 18:30:18,360 - INFO - Request 37 Response: {"'access_token'"} 
+2023-09-28 18:30:18,360 - INFO - Request 38 Response: {"'access_token'"} 
+2023-09-28 18:30:18,360 - INFO - Request 39 Response: {"'access_token'"} 
+2023-09-28 18:30:18,360 - INFO - Request 40 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,360 - INFO - Request 40 Response Code: 504 
+2023-09-28 18:30:18,360 - INFO - Request 41 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,360 - INFO - Request 41 Response Code: 504 
+2023-09-28 18:30:18,360 - INFO - Request 42 Response: {"'access_token'"} 
+2023-09-28 18:30:18,360 - INFO - Request 43 Response: {"'access_token'"} 
+2023-09-28 18:30:18,360 - INFO - Request 44 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,360 - INFO - Request 44 Response Code: 401 
+2023-09-28 18:30:18,360 - INFO - Request 45 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,360 - INFO - Request 45 Response Code: 401 
+2023-09-28 18:30:18,360 - INFO - Request 46 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,360 - INFO - Request 46 Response Code: 401 
+2023-09-28 18:30:18,360 - INFO - Request 47 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,361 - INFO - Request 47 Response Code: 401 
+2023-09-28 18:30:18,361 - INFO - Request 48 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,361 - INFO - Request 48 Response Code: 504 
+2023-09-28 18:30:18,361 - INFO - Request 49 Response: {"'access_token'"} 
+2023-09-28 18:30:18,361 - INFO - Request 50 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,361 - INFO - Request 50 Response Code: 504 
+2023-09-28 18:30:18,361 - INFO - Request 51 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,361 - INFO - Request 51 Response Code: 401 
+2023-09-28 18:30:18,361 - INFO - Request 52 Response: {"'access_token'"} 
+2023-09-28 18:30:18,361 - INFO - Request 53 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,361 - INFO - Request 53 Response Code: 401 
+2023-09-28 18:30:18,361 - INFO - Request 54 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,361 - INFO - Request 54 Response Code: 504 
+2023-09-28 18:30:18,361 - INFO - Request 55 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,361 - INFO - Request 55 Response Code: 401 
+2023-09-28 18:30:18,361 - INFO - Request 56 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,361 - INFO - Request 56 Response Code: 504 
+2023-09-28 18:30:18,361 - INFO - Request 57 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,361 - INFO - Request 57 Response Code: 504 
+2023-09-28 18:30:18,361 - INFO - Request 58 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,361 - INFO - Request 58 Response Code: 504 
+2023-09-28 18:30:18,361 - INFO - Request 59 Response: {"'access_token'"} 
+2023-09-28 18:30:18,361 - INFO - Request 60 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,361 - INFO - Request 60 Response Code: 504 
+2023-09-28 18:30:18,361 - INFO - Request 61 Response: {"'access_token'"} 
+2023-09-28 18:30:18,361 - INFO - Request 62 Response: {"'access_token'"} 
+2023-09-28 18:30:18,361 - INFO - Request 63 Response: {"'access_token'"} 
+2023-09-28 18:30:18,362 - INFO - Request 64 Response: {"'access_token'"} 
+2023-09-28 18:30:18,362 - INFO - Request 65 Response: {"'access_token'"} 
+2023-09-28 18:30:18,362 - INFO - Request 66 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,362 - INFO - Request 66 Response Code: 504 
+2023-09-28 18:30:18,362 - INFO - Request 67 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,362 - INFO - Request 67 Response Code: 504 
+2023-09-28 18:30:18,362 - INFO - Request 68 Response: {"'access_token'"} 
+2023-09-28 18:30:18,362 - INFO - Request 69 Response: {"'access_token'"} 
+2023-09-28 18:30:18,362 - INFO - Request 70 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,362 - INFO - Request 70 Response Code: 401 
+2023-09-28 18:30:18,362 - INFO - Request 71 Response: {"'access_token'"} 
+2023-09-28 18:30:18,362 - INFO - Request 72 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,362 - INFO - Request 72 Response Code: 401 
+2023-09-28 18:30:18,362 - INFO - Request 73 Response: {"'access_token'"} 
+2023-09-28 18:30:18,362 - INFO - Request 74 Response: {"'access_token'"} 
+2023-09-28 18:30:18,362 - INFO - Request 75 Response: {"'access_token'"} 
+2023-09-28 18:30:18,362 - INFO - Request 76 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,362 - INFO - Request 76 Response Code: 504 
+2023-09-28 18:30:18,362 - INFO - Request 77 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,362 - INFO - Request 77 Response Code: 401 
+2023-09-28 18:30:18,362 - INFO - Request 78 Response: {"'access_token'"} 
+2023-09-28 18:30:18,362 - INFO - Request 79 Response: {"'access_token'"} 
+2023-09-28 18:30:18,362 - INFO - Request 80 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,362 - INFO - Request 80 Response Code: 401 
+2023-09-28 18:30:18,362 - INFO - Request 81 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,363 - INFO - Request 81 Response Code: 401 
+2023-09-28 18:30:18,363 - INFO - Request 82 Response: {"'access_token'"} 
+2023-09-28 18:30:18,363 - INFO - Request 83 Response: {"'access_token'"} 
+2023-09-28 18:30:18,363 - INFO - Request 84 Response: {"'access_token'"} 
+2023-09-28 18:30:18,363 - INFO - Request 85 Response: {"'access_token'"} 
+2023-09-28 18:30:18,363 - INFO - Request 86 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,363 - INFO - Request 86 Response Code: 401 
+2023-09-28 18:30:18,363 - INFO - Request 87 Response: {"'access_token'"} 
+2023-09-28 18:30:18,363 - INFO - Request 88 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,363 - INFO - Request 88 Response Code: 401 
+2023-09-28 18:30:18,363 - INFO - Request 89 Response: Error writing to stream servers/oim_server1/logs/oim_server1-iamsscim.log 
+2023-09-28 18:30:18,363 - INFO - Request 89 Response Code: 401 
+2023-09-28 18:30:18,363 - INFO - Request 90 Response: {"'access_token'"} 
+2023-09-28 18:30:18,363 - INFO - Request 91 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,363 - INFO - Request 91 Response Code: 504 
+2023-09-28 18:30:18,363 - INFO - Request 92 Response: {"'access_token'"} 
+2023-09-28 18:30:18,363 - INFO - Request 93 Response: {"'access_token'"} 
+2023-09-28 18:30:18,363 - INFO - Request 94 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,363 - INFO - Request 94 Response Code: 504 
+2023-09-28 18:30:18,363 - INFO - Request 95 Response: {"'access_token'"} 
+2023-09-28 18:30:18,363 - INFO - Request 96 Response: {"'access_token'"} 
+2023-09-28 18:30:18,364 - INFO - Request 97 Response: {"'access_token'"} 
+2023-09-28 18:30:18,364 - INFO - Request 98 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,364 - INFO - Request 98 Response Code: 504 
+2023-09-28 18:30:18,364 - INFO - Request 99 Response: {"'access_token'"} 
+2023-09-28 18:30:18,364 - INFO - Request 100 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-28 18:30:18,364 - INFO - Request 100 Response Code: 504 

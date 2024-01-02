@@ -1,0 +1,1387 @@
+2023-09-26 16:25:46,826 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "49c0b86d5bea401281cd89494eff32fb",
+  "externalId" : "SCIMIDCSUSER_271sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_271",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_271",
+    "givenName" : "SCIMIDCSUSER_271"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_271@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:48:29Z",
+    "lastModified" : "2023-09-26T10:48:29Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/49c0b86d5bea401281cd89494eff32fb",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,827 - INFO - Request 1 Response Code: 201 
+2023-09-26 16:25:46,827 - INFO - Request 2 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "e4526c07b1364401bf247515b906a3b3",
+  "externalId" : "SCIMIDCSUSER_272sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_272",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_272",
+    "givenName" : "SCIMIDCSUSER_272"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_272@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:48:27Z",
+    "lastModified" : "2023-09-26T10:48:27Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/e4526c07b1364401bf247515b906a3b3",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,827 - INFO - Request 2 Response Code: 201 
+2023-09-26 16:25:46,827 - INFO - Request 3 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049226, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,828 - INFO - Request 3 Response Code: 412 
+2023-09-26 16:25:46,828 - INFO - Request 4 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "80d2d59aab51464088024ef6fee72d0c",
+  "externalId" : "SCIMIDCSUSER_274sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_274",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_274",
+    "givenName" : "SCIMIDCSUSER_274"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_274@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:48:25Z",
+    "lastModified" : "2023-09-26T10:48:25Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/80d2d59aab51464088024ef6fee72d0c",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,828 - INFO - Request 4 Response Code: 201 
+2023-09-26 16:25:46,828 - INFO - Request 5 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049224, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,828 - INFO - Request 5 Response Code: 412 
+2023-09-26 16:25:46,828 - INFO - Request 6 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049223, failed with error message IAM-3010201 : LDAP create event failed : Entity creation of entity type User failed: The parent container of the DN  does not exist in LDAP. Root Cause: javax.naming.NameNotFoundException: Error: NO_SUCH_OBJECT\nLDAP Error 32 : [LDAP: error code 32 - Entry cn=hsgbu:person:6b0a8cff91a54eb6aeb4470a5dff9655,cn=Users,ou=migtenantqa1,dc=hsgbu,dc=oracle,dc=com cannot be modified because no such entry exists in the server] [Root exception is oracle.ods.virtualization.service.VirtualizationException: oracle.ods.virtualization.engine.util.DirectoryException: LDAP Error 32 : [LDAP: error code 32 - Entry cn=hsgbu:person:6b0a8cff91a54eb6aeb4470a5dff9655,cn=Users,ou=migtenantqa1,dc=hsgbu,dc=oracle,dc=com cannot be modified because no such entry exists in the server]].",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,829 - INFO - Request 6 Response Code: 412 
+2023-09-26 16:25:46,829 - INFO - Request 7 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "95401556ede1423ab909651c2f6d966f",
+  "externalId" : "SCIMIDCSUSER_277sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_277",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_277",
+    "givenName" : "SCIMIDCSUSER_277"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_277@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:48:30Z",
+    "lastModified" : "2023-09-26T10:48:30Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/95401556ede1423ab909651c2f6d966f",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,829 - INFO - Request 7 Response Code: 201 
+2023-09-26 16:25:46,829 - INFO - Request 8 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049219, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,829 - INFO - Request 8 Response Code: 412 
+2023-09-26 16:25:46,829 - INFO - Request 9 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,829 - INFO - Request 9 Response Code: 504 
+2023-09-26 16:25:46,830 - INFO - Request 10 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "600c87922b2546df8ebcfc3bd6c6bb57",
+  "externalId" : "SCIMIDCSUSER_2710sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2710",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2710",
+    "givenName" : "SCIMIDCSUSER_2710"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2710@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:48:22Z",
+    "lastModified" : "2023-09-26T10:48:22Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/600c87922b2546df8ebcfc3bd6c6bb57",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,830 - INFO - Request 10 Response Code: 201 
+2023-09-26 16:25:46,830 - INFO - Request 11 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049222, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,830 - INFO - Request 11 Response Code: 412 
+2023-09-26 16:25:46,830 - INFO - Request 12 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "e72c68db546647a684a51f8b701e0ee2",
+  "externalId" : "SCIMIDCSUSER_2712sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2712",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2712",
+    "givenName" : "SCIMIDCSUSER_2712"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2712@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:48:28Z",
+    "lastModified" : "2023-09-26T10:48:28Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/e72c68db546647a684a51f8b701e0ee2",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,830 - INFO - Request 12 Response Code: 201 
+2023-09-26 16:25:46,830 - INFO - Request 13 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,830 - INFO - Request 13 Response Code: 504 
+2023-09-26 16:25:46,830 - INFO - Request 14 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,830 - INFO - Request 14 Response Code: 504 
+2023-09-26 16:25:46,830 - INFO - Request 15 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,831 - INFO - Request 15 Response Code: 504 
+2023-09-26 16:25:46,831 - INFO - Request 16 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,831 - INFO - Request 16 Response Code: 504 
+2023-09-26 16:25:46,831 - INFO - Request 17 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,831 - INFO - Request 17 Response Code: 504 
+2023-09-26 16:25:46,831 - INFO - Request 18 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,831 - INFO - Request 18 Response Code: 504 
+2023-09-26 16:25:46,832 - INFO - Request 19 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,832 - INFO - Request 19 Response Code: 504 
+2023-09-26 16:25:46,832 - INFO - Request 20 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "c1865bbb723f4193a6089b80c17ea9d2",
+  "externalId" : "SCIMIDCSUSER_2720sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2720",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2720",
+    "givenName" : "SCIMIDCSUSER_2720"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2720@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:49:28Z",
+    "lastModified" : "2023-09-26T10:49:28Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/c1865bbb723f4193a6089b80c17ea9d2",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,832 - INFO - Request 20 Response Code: 201 
+2023-09-26 16:25:46,832 - INFO - Request 21 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049237, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,832 - INFO - Request 21 Response Code: 412 
+2023-09-26 16:25:46,832 - INFO - Request 22 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,832 - INFO - Request 22 Response Code: 504 
+2023-09-26 16:25:46,832 - INFO - Request 23 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,833 - INFO - Request 23 Response Code: 504 
+2023-09-26 16:25:46,833 - INFO - Request 24 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,833 - INFO - Request 24 Response Code: 504 
+2023-09-26 16:25:46,833 - INFO - Request 25 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,833 - INFO - Request 25 Response Code: 504 
+2023-09-26 16:25:46,833 - INFO - Request 26 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "a84123752c9346fd83664e458c1f1adf",
+  "externalId" : "SCIMIDCSUSER_2726sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2726",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2726",
+    "givenName" : "SCIMIDCSUSER_2726"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2726@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:50:25Z",
+    "lastModified" : "2023-09-26T10:50:25Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a84123752c9346fd83664e458c1f1adf",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,833 - INFO - Request 26 Response Code: 201 
+2023-09-26 16:25:46,833 - INFO - Request 27 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,833 - INFO - Request 27 Response Code: 504 
+2023-09-26 16:25:46,834 - INFO - Request 28 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,834 - INFO - Request 28 Response Code: 504 
+2023-09-26 16:25:46,834 - INFO - Request 29 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,834 - INFO - Request 29 Response Code: 504 
+2023-09-26 16:25:46,834 - INFO - Request 30 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,834 - INFO - Request 30 Response Code: 504 
+2023-09-26 16:25:46,835 - INFO - Request 31 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,835 - INFO - Request 31 Response Code: 504 
+2023-09-26 16:25:46,835 - INFO - Request 32 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,835 - INFO - Request 32 Response Code: 504 
+2023-09-26 16:25:46,835 - INFO - Request 33 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,835 - INFO - Request 33 Response Code: 504 
+2023-09-26 16:25:46,835 - INFO - Request 34 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,836 - INFO - Request 34 Response Code: 504 
+2023-09-26 16:25:46,836 - INFO - Request 35 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,836 - INFO - Request 35 Response Code: 504 
+2023-09-26 16:25:46,836 - INFO - Request 36 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,836 - INFO - Request 36 Response Code: 504 
+2023-09-26 16:25:46,836 - INFO - Request 37 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,837 - INFO - Request 37 Response Code: 504 
+2023-09-26 16:25:46,837 - INFO - Request 38 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,837 - INFO - Request 38 Response Code: 504 
+2023-09-26 16:25:46,837 - INFO - Request 39 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,837 - INFO - Request 39 Response Code: 504 
+2023-09-26 16:25:46,837 - INFO - Request 40 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,837 - INFO - Request 40 Response Code: 504 
+2023-09-26 16:25:46,837 - INFO - Request 41 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,838 - INFO - Request 41 Response Code: 504 
+2023-09-26 16:25:46,838 - INFO - Request 42 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "813017d0662e4917a62197082b88eee3",
+  "externalId" : "SCIMIDCSUSER_2742sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2742",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2742",
+    "givenName" : "SCIMIDCSUSER_2742"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2742@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:51:30Z",
+    "lastModified" : "2023-09-26T10:51:30Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/813017d0662e4917a62197082b88eee3",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,838 - INFO - Request 42 Response Code: 201 
+2023-09-26 16:25:46,838 - INFO - Request 43 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,838 - INFO - Request 43 Response Code: 504 
+2023-09-26 16:25:46,838 - INFO - Request 44 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,838 - INFO - Request 44 Response Code: 504 
+2023-09-26 16:25:46,838 - INFO - Request 45 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,838 - INFO - Request 45 Response Code: 504 
+2023-09-26 16:25:46,838 - INFO - Request 46 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,838 - INFO - Request 46 Response Code: 504 
+2023-09-26 16:25:46,838 - INFO - Request 47 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049262, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,838 - INFO - Request 47 Response Code: 412 
+2023-09-26 16:25:46,838 - INFO - Request 48 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 16:25:46,838 - INFO - Request 48 Response Code: 504 
+2023-09-26 16:25:46,839 - INFO - Request 49 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "4ee0735161a64790917e1332265c091e",
+  "externalId" : "SCIMIDCSUSER_2749sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2749",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2749",
+    "givenName" : "SCIMIDCSUSER_2749"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2749@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:52:24Z",
+    "lastModified" : "2023-09-26T10:52:24Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/4ee0735161a64790917e1332265c091e",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,839 - INFO - Request 49 Response Code: 201 
+2023-09-26 16:25:46,839 - INFO - Request 50 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "9172da098e444b82906f6b6257e39cac",
+  "externalId" : "SCIMIDCSUSER_2750sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2750",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2750",
+    "givenName" : "SCIMIDCSUSER_2750"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2750@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:52:25Z",
+    "lastModified" : "2023-09-26T10:52:25Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/9172da098e444b82906f6b6257e39cac",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,839 - INFO - Request 50 Response Code: 201 
+2023-09-26 16:25:46,839 - INFO - Request 51 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049276, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,839 - INFO - Request 51 Response Code: 412 
+2023-09-26 16:25:46,839 - INFO - Request 52 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "f8c04780efed404fbbda312937c32f66",
+  "externalId" : "SCIMIDCSUSER_2752sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2752",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2752",
+    "givenName" : "SCIMIDCSUSER_2752"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2752@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:52:27Z",
+    "lastModified" : "2023-09-26T10:52:27Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f8c04780efed404fbbda312937c32f66",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,839 - INFO - Request 52 Response Code: 201 
+2023-09-26 16:25:46,839 - INFO - Request 53 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "cbc4557fc2804bcb802f4f245b6e8be4",
+  "externalId" : "SCIMIDCSUSER_2753sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2753",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2753",
+    "givenName" : "SCIMIDCSUSER_2753"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2753@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:52:28Z",
+    "lastModified" : "2023-09-26T10:52:28Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/cbc4557fc2804bcb802f4f245b6e8be4",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,840 - INFO - Request 53 Response Code: 201 
+2023-09-26 16:25:46,840 - INFO - Request 54 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049277, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,840 - INFO - Request 54 Response Code: 412 
+2023-09-26 16:25:46,840 - INFO - Request 55 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "1aeefe1bef6744089dce1e03d7410d53",
+  "externalId" : "SCIMIDCSUSER_2755sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2755",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2755",
+    "givenName" : "SCIMIDCSUSER_2755"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2755@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:52:29Z",
+    "lastModified" : "2023-09-26T10:52:29Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/1aeefe1bef6744089dce1e03d7410d53",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,840 - INFO - Request 55 Response Code: 201 
+2023-09-26 16:25:46,840 - INFO - Request 56 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049279, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,840 - INFO - Request 56 Response Code: 412 
+2023-09-26 16:25:46,841 - INFO - Request 57 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049282, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,841 - INFO - Request 57 Response Code: 412 
+2023-09-26 16:25:46,841 - INFO - Request 58 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049280, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,841 - INFO - Request 58 Response Code: 412 
+2023-09-26 16:25:46,841 - INFO - Request 59 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "46a99a562c0840488aa2e576b860461d",
+  "externalId" : "SCIMIDCSUSER_2759sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2759",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2759",
+    "givenName" : "SCIMIDCSUSER_2759"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2759@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:52:30Z",
+    "lastModified" : "2023-09-26T10:52:30Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/46a99a562c0840488aa2e576b860461d",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,841 - INFO - Request 59 Response Code: 201 
+2023-09-26 16:25:46,841 - INFO - Request 60 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "48f8db708b724fd688a8065c2f4da2b5",
+  "externalId" : "SCIMIDCSUSER_2760sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2760",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2760",
+    "givenName" : "SCIMIDCSUSER_2760"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2760@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:52:33Z",
+    "lastModified" : "2023-09-26T10:52:33Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/48f8db708b724fd688a8065c2f4da2b5",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,841 - INFO - Request 60 Response Code: 201 
+2023-09-26 16:25:46,841 - INFO - Request 61 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "9efbc994f7e941abac6094828c820df7",
+  "externalId" : "SCIMIDCSUSER_2761sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2761",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2761",
+    "givenName" : "SCIMIDCSUSER_2761"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2761@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:53:19Z",
+    "lastModified" : "2023-09-26T10:53:19Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/9efbc994f7e941abac6094828c820df7",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,841 - INFO - Request 61 Response Code: 201 
+2023-09-26 16:25:46,842 - INFO - Request 62 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "00f49bc72aba4c81a0702745f0d74fad",
+  "externalId" : "SCIMIDCSUSER_2762sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2762",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2762",
+    "givenName" : "SCIMIDCSUSER_2762"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2762@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:53:20Z",
+    "lastModified" : "2023-09-26T10:53:20Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/00f49bc72aba4c81a0702745f0d74fad",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,842 - INFO - Request 62 Response Code: 201 
+2023-09-26 16:25:46,842 - INFO - Request 63 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049288, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,842 - INFO - Request 63 Response Code: 412 
+2023-09-26 16:25:46,842 - INFO - Request 64 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "23bdc3b94adc4415944e35a996ea6e28",
+  "externalId" : "SCIMIDCSUSER_2764sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2764",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2764",
+    "givenName" : "SCIMIDCSUSER_2764"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2764@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:53:23Z",
+    "lastModified" : "2023-09-26T10:53:23Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/23bdc3b94adc4415944e35a996ea6e28",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,842 - INFO - Request 64 Response Code: 201 
+2023-09-26 16:25:46,842 - INFO - Request 65 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049291, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,842 - INFO - Request 65 Response Code: 412 
+2023-09-26 16:25:46,842 - INFO - Request 66 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b6e49248bde6442cbd7b5b52464984f9",
+  "externalId" : "SCIMIDCSUSER_2766sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2766",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2766",
+    "givenName" : "SCIMIDCSUSER_2766"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2766@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:53:22Z",
+    "lastModified" : "2023-09-26T10:53:22Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b6e49248bde6442cbd7b5b52464984f9",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,842 - INFO - Request 66 Response Code: 201 
+2023-09-26 16:25:46,842 - INFO - Request 67 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049289, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,842 - INFO - Request 67 Response Code: 412 
+2023-09-26 16:25:46,843 - INFO - Request 68 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049293, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,843 - INFO - Request 68 Response Code: 412 
+2023-09-26 16:25:46,843 - INFO - Request 69 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049294, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,843 - INFO - Request 69 Response Code: 412 
+2023-09-26 16:25:46,843 - INFO - Request 70 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049290, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,843 - INFO - Request 70 Response Code: 412 
+2023-09-26 16:25:46,843 - INFO - Request 71 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "d0061cf05ee54d44bee82f31f67f96b5",
+  "externalId" : "SCIMIDCSUSER_2771sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2771",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2771",
+    "givenName" : "SCIMIDCSUSER_2771"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2771@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:53:25Z",
+    "lastModified" : "2023-09-26T10:53:25Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d0061cf05ee54d44bee82f31f67f96b5",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,843 - INFO - Request 71 Response Code: 201 
+2023-09-26 16:25:46,843 - INFO - Request 72 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "ecbf4d0aae0f413985c9bcadef7c7d19",
+  "externalId" : "SCIMIDCSUSER_2772sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2772",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2772",
+    "givenName" : "SCIMIDCSUSER_2772"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2772@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:53:27Z",
+    "lastModified" : "2023-09-26T10:53:27Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/ecbf4d0aae0f413985c9bcadef7c7d19",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,844 - INFO - Request 72 Response Code: 201 
+2023-09-26 16:25:46,844 - INFO - Request 73 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "a215f70cf8d5498eb425343604b34cdd",
+  "externalId" : "SCIMIDCSUSER_2773sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2773",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2773",
+    "givenName" : "SCIMIDCSUSER_2773"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2773@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:54:09Z",
+    "lastModified" : "2023-09-26T10:54:09Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/a215f70cf8d5498eb425343604b34cdd",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,844 - INFO - Request 73 Response Code: 201 
+2023-09-26 16:25:46,844 - INFO - Request 74 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "54670234c4cc43f2961686c268eff0ee",
+  "externalId" : "SCIMIDCSUSER_2774sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2774",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2774",
+    "givenName" : "SCIMIDCSUSER_2774"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2774@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:54:11Z",
+    "lastModified" : "2023-09-26T10:54:11Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/54670234c4cc43f2961686c268eff0ee",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,844 - INFO - Request 74 Response Code: 201 
+2023-09-26 16:25:46,844 - INFO - Request 75 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049301, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,844 - INFO - Request 75 Response Code: 412 
+2023-09-26 16:25:46,844 - INFO - Request 76 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "0273de7305f2456999b21a97aac68ce5",
+  "externalId" : "SCIMIDCSUSER_2776sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2776",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2776",
+    "givenName" : "SCIMIDCSUSER_2776"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2776@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:54:13Z",
+    "lastModified" : "2023-09-26T10:54:13Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0273de7305f2456999b21a97aac68ce5",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,844 - INFO - Request 76 Response Code: 201 
+2023-09-26 16:25:46,844 - INFO - Request 77 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049304, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,845 - INFO - Request 77 Response Code: 412 
+2023-09-26 16:25:46,845 - INFO - Request 78 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049307, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,845 - INFO - Request 78 Response Code: 412 
+2023-09-26 16:25:46,845 - INFO - Request 79 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "d18e188331944474ba57105ccde78c55",
+  "externalId" : "SCIMIDCSUSER_2779sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2779",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2779",
+    "givenName" : "SCIMIDCSUSER_2779"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2779@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:54:14Z",
+    "lastModified" : "2023-09-26T10:54:14Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d18e188331944474ba57105ccde78c55",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,845 - INFO - Request 79 Response Code: 201 
+2023-09-26 16:25:46,845 - INFO - Request 80 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049305, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,845 - INFO - Request 80 Response Code: 412 
+2023-09-26 16:25:46,845 - INFO - Request 81 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "0f039c9bd28340c98a918e5341874aea",
+  "externalId" : "SCIMIDCSUSER_2781sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2781",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2781",
+    "givenName" : "SCIMIDCSUSER_2781"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2781@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:54:13Z",
+    "lastModified" : "2023-09-26T10:54:13Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0f039c9bd28340c98a918e5341874aea",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,845 - INFO - Request 81 Response Code: 201 
+2023-09-26 16:25:46,845 - INFO - Request 82 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049306, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,846 - INFO - Request 82 Response Code: 412 
+2023-09-26 16:25:46,846 - INFO - Request 83 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "fb7aa6524884470e8acc49878ae05fa3",
+  "externalId" : "SCIMIDCSUSER_2783sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2783",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2783",
+    "givenName" : "SCIMIDCSUSER_2783"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2783@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:54:16Z",
+    "lastModified" : "2023-09-26T10:54:16Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/fb7aa6524884470e8acc49878ae05fa3",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,846 - INFO - Request 83 Response Code: 201 
+2023-09-26 16:25:46,846 - INFO - Request 84 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "d6b213c17211430d8ad1afc843d7a810",
+  "externalId" : "SCIMIDCSUSER_2784sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2784",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2784",
+    "givenName" : "SCIMIDCSUSER_2784"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2784@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:54:19Z",
+    "lastModified" : "2023-09-26T10:54:19Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d6b213c17211430d8ad1afc843d7a810",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,846 - INFO - Request 84 Response Code: 201 
+2023-09-26 16:25:46,846 - INFO - Request 85 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "6487ec71c4cb45f6bda8baaa571db504",
+  "externalId" : "SCIMIDCSUSER_2785sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2785",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2785",
+    "givenName" : "SCIMIDCSUSER_2785"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2785@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:55:01Z",
+    "lastModified" : "2023-09-26T10:55:01Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/6487ec71c4cb45f6bda8baaa571db504",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,846 - INFO - Request 85 Response Code: 201 
+2023-09-26 16:25:46,846 - INFO - Request 86 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "04bb24ea3e1a4cf4ab8001bef1f11463",
+  "externalId" : "SCIMIDCSUSER_2786sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2786",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2786",
+    "givenName" : "SCIMIDCSUSER_2786"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2786@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:55:04Z",
+    "lastModified" : "2023-09-26T10:55:04Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/04bb24ea3e1a4cf4ab8001bef1f11463",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,846 - INFO - Request 86 Response Code: 201 
+2023-09-26 16:25:46,847 - INFO - Request 87 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049313, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,847 - INFO - Request 87 Response Code: 412 
+2023-09-26 16:25:46,847 - INFO - Request 88 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049316, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,847 - INFO - Request 88 Response Code: 412 
+2023-09-26 16:25:46,847 - INFO - Request 89 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049312, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,847 - INFO - Request 89 Response Code: 412 
+2023-09-26 16:25:46,847 - INFO - Request 90 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "b4b09f6f29804d1a8cadcde6dfcfceb6",
+  "externalId" : "SCIMIDCSUSER_2790sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2790",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2790",
+    "givenName" : "SCIMIDCSUSER_2790"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2790@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:55:07Z",
+    "lastModified" : "2023-09-26T10:55:07Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b4b09f6f29804d1a8cadcde6dfcfceb6",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,847 - INFO - Request 90 Response Code: 201 
+2023-09-26 16:25:46,847 - INFO - Request 91 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "90801a15d9834dd1b0cf55b389bfef1a",
+  "externalId" : "SCIMIDCSUSER_2791sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2791",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2791",
+    "givenName" : "SCIMIDCSUSER_2791"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2791@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:55:09Z",
+    "lastModified" : "2023-09-26T10:55:09Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/90801a15d9834dd1b0cf55b389bfef1a",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,847 - INFO - Request 91 Response Code: 201 
+2023-09-26 16:25:46,847 - INFO - Request 92 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049315, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,848 - INFO - Request 92 Response Code: 412 
+2023-09-26 16:25:46,848 - INFO - Request 93 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049318, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,848 - INFO - Request 93 Response Code: 412 
+2023-09-26 16:25:46,848 - INFO - Request 94 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049320, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,848 - INFO - Request 94 Response Code: 412 
+2023-09-26 16:25:46,848 - INFO - Request 95 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "0c831892966c499e825edd69972272ff",
+  "externalId" : "SCIMIDCSUSER_2795sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2795",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2795",
+    "givenName" : "SCIMIDCSUSER_2795"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2795@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:55:11Z",
+    "lastModified" : "2023-09-26T10:55:11Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/0c831892966c499e825edd69972272ff",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,848 - INFO - Request 95 Response Code: 201 
+2023-09-26 16:25:46,848 - INFO - Request 96 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049319, failed with error message null.",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,848 - INFO - Request 96 Response Code: 412 
+2023-09-26 16:25:46,848 - INFO - Request 97 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "bc3e5cc7f8de4be4aa1186c35a542454",
+  "externalId" : "SCIMIDCSUSER_2797sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2797",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2797",
+    "givenName" : "SCIMIDCSUSER_2797"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2797@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:55:41Z",
+    "lastModified" : "2023-09-26T10:55:41Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/bc3e5cc7f8de4be4aa1186c35a542454",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,848 - INFO - Request 97 Response Code: 201 
+2023-09-26 16:25:46,848 - INFO - Request 98 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "40c57048d1014054921c355930b44ecf",
+  "externalId" : "SCIMIDCSUSER_2798sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_2798",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_2798",
+    "givenName" : "SCIMIDCSUSER_2798"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_2798@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:55:43Z",
+    "lastModified" : "2023-09-26T10:55:43Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/40c57048d1014054921c355930b44ecf",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,848 - INFO - Request 98 Response Code: 201 
+2023-09-26 16:25:46,849 - INFO - Request 99 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:Error" ],
+  "errors" : [ {
+    "description" : "Orchestration process with id 4049326, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+    "code" : "412"
+  } ]
+} 
+2023-09-26 16:25:46,849 - INFO - Request 99 Response Code: 412 
+2023-09-26 16:25:46,849 - INFO - Request 100 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:User" ],
+  "id" : "8e2e63a2c3544a4fadca577c688382f3",
+  "externalId" : "SCIMIDCSUSER_27100sb73cb348e5b9ae22794edcca0e",
+  "userName" : "scimidcsuser_27100",
+  "name" : {
+    "familyName" : "SCIMIDCSUSER_27100",
+    "givenName" : "SCIMIDCSUSER_27100"
+  },
+  "emails" : [ {
+    "value" : "SCIMIDCSUSER_27100@oracle.com",
+    "type" : "work"
+  } ],
+  "userType" : "LIVE",
+  "active" : true,
+  "meta" : {
+    "created" : "2023-09-26T10:55:45Z",
+    "lastModified" : "2023-09-26T10:55:45Z",
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/8e2e63a2c3544a4fadca577c688382f3",
+    "resourceType" : "User"
+  }
+} 
+2023-09-26 16:25:46,849 - INFO - Request 100 Response Code: 201 

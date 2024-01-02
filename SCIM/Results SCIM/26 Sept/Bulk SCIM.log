@@ -1,0 +1,1072 @@
+2023-09-26 18:02:19,374 - INFO - Request 1 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049467, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,375 - INFO - Request 1 Response Code: 200 
+2023-09-26 18:02:19,375 - INFO - Request 2 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049469, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,385 - INFO - Request 2 Response Code: 200 
+2023-09-26 18:02:19,385 - INFO - Request 3 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049462, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,385 - INFO - Request 3 Response Code: 200 
+2023-09-26 18:02:19,385 - INFO - Request 4 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049466, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,385 - INFO - Request 4 Response Code: 200 
+2023-09-26 18:02:19,385 - INFO - Request 5 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049463, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,385 - INFO - Request 5 Response Code: 200 
+2023-09-26 18:02:19,385 - INFO - Request 6 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/7a78525a1d8145ebb792dc32a6d250f3",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,385 - INFO - Request 6 Response Code: 200 
+2023-09-26 18:02:19,385 - INFO - Request 7 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049468, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,385 - INFO - Request 7 Response Code: 200 
+2023-09-26 18:02:19,385 - INFO - Request 8 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049471, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,385 - INFO - Request 8 Response Code: 200 
+2023-09-26 18:02:19,385 - INFO - Request 9 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/b6631f93b0db4967ae62d8f251b98e59",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,385 - INFO - Request 9 Response Code: 200 
+2023-09-26 18:02:19,385 - INFO - Request 10 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/cc9cbf5850fc4d749082441694e9ae67",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,385 - INFO - Request 10 Response Code: 200 
+2023-09-26 18:02:19,385 - INFO - Request 11 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049464, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,385 - INFO - Request 11 Response Code: 200 
+2023-09-26 18:02:19,385 - INFO - Request 12 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049470, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,385 - INFO - Request 12 Response Code: 200 
+2023-09-26 18:02:19,386 - INFO - Request 13 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,386 - INFO - Request 13 Response Code: 504 
+2023-09-26 18:02:19,386 - INFO - Request 14 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,386 - INFO - Request 14 Response Code: 504 
+2023-09-26 18:02:19,386 - INFO - Request 15 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,386 - INFO - Request 15 Response Code: 504 
+2023-09-26 18:02:19,386 - INFO - Request 16 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,386 - INFO - Request 16 Response Code: 504 
+2023-09-26 18:02:19,386 - INFO - Request 17 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,386 - INFO - Request 17 Response Code: 504 
+2023-09-26 18:02:19,387 - INFO - Request 18 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,387 - INFO - Request 18 Response Code: 504 
+2023-09-26 18:02:19,387 - INFO - Request 19 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,387 - INFO - Request 19 Response Code: 504 
+2023-09-26 18:02:19,387 - INFO - Request 20 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,387 - INFO - Request 20 Response Code: 504 
+2023-09-26 18:02:19,387 - INFO - Request 21 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,387 - INFO - Request 21 Response Code: 504 
+2023-09-26 18:02:19,388 - INFO - Request 22 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,388 - INFO - Request 22 Response Code: 504 
+2023-09-26 18:02:19,388 - INFO - Request 23 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,388 - INFO - Request 23 Response Code: 504 
+2023-09-26 18:02:19,388 - INFO - Request 24 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,388 - INFO - Request 24 Response Code: 504 
+2023-09-26 18:02:19,388 - INFO - Request 25 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,388 - INFO - Request 25 Response Code: 504 
+2023-09-26 18:02:19,389 - INFO - Request 26 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,389 - INFO - Request 26 Response Code: 504 
+2023-09-26 18:02:19,389 - INFO - Request 27 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,389 - INFO - Request 27 Response Code: 504 
+2023-09-26 18:02:19,389 - INFO - Request 28 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,389 - INFO - Request 28 Response Code: 504 
+2023-09-26 18:02:19,389 - INFO - Request 29 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,389 - INFO - Request 29 Response Code: 504 
+2023-09-26 18:02:19,390 - INFO - Request 30 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,390 - INFO - Request 30 Response Code: 504 
+2023-09-26 18:02:19,390 - INFO - Request 31 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,390 - INFO - Request 31 Response Code: 504 
+2023-09-26 18:02:19,390 - INFO - Request 32 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,390 - INFO - Request 32 Response Code: 504 
+2023-09-26 18:02:19,390 - INFO - Request 33 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,390 - INFO - Request 33 Response Code: 504 
+2023-09-26 18:02:19,390 - INFO - Request 34 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,390 - INFO - Request 34 Response Code: 504 
+2023-09-26 18:02:19,390 - INFO - Request 35 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,390 - INFO - Request 35 Response Code: 504 
+2023-09-26 18:02:19,391 - INFO - Request 36 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,391 - INFO - Request 36 Response Code: 504 
+2023-09-26 18:02:19,391 - INFO - Request 37 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,391 - INFO - Request 37 Response Code: 504 
+2023-09-26 18:02:19,391 - INFO - Request 38 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,391 - INFO - Request 38 Response Code: 504 
+2023-09-26 18:02:19,391 - INFO - Request 39 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,392 - INFO - Request 39 Response Code: 504 
+2023-09-26 18:02:19,392 - INFO - Request 40 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,392 - INFO - Request 40 Response Code: 504 
+2023-09-26 18:02:19,392 - INFO - Request 41 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,392 - INFO - Request 41 Response Code: 504 
+2023-09-26 18:02:19,392 - INFO - Request 42 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,392 - INFO - Request 42 Response Code: 504 
+2023-09-26 18:02:19,392 - INFO - Request 43 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,392 - INFO - Request 43 Response Code: 504 
+2023-09-26 18:02:19,392 - INFO - Request 44 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,392 - INFO - Request 44 Response Code: 504 
+2023-09-26 18:02:19,393 - INFO - Request 45 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,393 - INFO - Request 45 Response Code: 504 
+2023-09-26 18:02:19,393 - INFO - Request 46 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,393 - INFO - Request 46 Response Code: 504 
+2023-09-26 18:02:19,393 - INFO - Request 47 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,393 - INFO - Request 47 Response Code: 504 
+2023-09-26 18:02:19,393 - INFO - Request 48 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,393 - INFO - Request 48 Response Code: 504 
+2023-09-26 18:02:19,393 - INFO - Request 49 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049517, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,394 - INFO - Request 49 Response Code: 200 
+2023-09-26 18:02:19,394 - INFO - Request 50 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049522, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,394 - INFO - Request 50 Response Code: 200 
+2023-09-26 18:02:19,394 - INFO - Request 51 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049516, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,394 - INFO - Request 51 Response Code: 200 
+2023-09-26 18:02:19,394 - INFO - Request 52 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049515, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,394 - INFO - Request 52 Response Code: 200 
+2023-09-26 18:02:19,394 - INFO - Request 53 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049518, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,394 - INFO - Request 53 Response Code: 200 
+2023-09-26 18:02:19,395 - INFO - Request 54 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049524, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,395 - INFO - Request 54 Response Code: 200 
+2023-09-26 18:02:19,395 - INFO - Request 55 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049523, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,395 - INFO - Request 55 Response Code: 200 
+2023-09-26 18:02:19,395 - INFO - Request 56 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/791eefdd6133480aab111870545c30fa",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,395 - INFO - Request 56 Response Code: 200 
+2023-09-26 18:02:19,395 - INFO - Request 57 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049525, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,395 - INFO - Request 57 Response Code: 200 
+2023-09-26 18:02:19,395 - INFO - Request 58 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049519, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,395 - INFO - Request 58 Response Code: 200 
+2023-09-26 18:02:19,395 - INFO - Request 59 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049526, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,395 - INFO - Request 59 Response Code: 200 
+2023-09-26 18:02:19,395 - INFO - Request 60 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049521, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,396 - INFO - Request 60 Response Code: 200 
+2023-09-26 18:02:19,396 - INFO - Request 61 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049531, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,396 - INFO - Request 61 Response Code: 200 
+2023-09-26 18:02:19,396 - INFO - Request 62 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/eb3d7d3e3af44ac395a00c1ea5288bdb",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,396 - INFO - Request 62 Response Code: 200 
+2023-09-26 18:02:19,396 - INFO - Request 63 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049533, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,396 - INFO - Request 63 Response Code: 200 
+2023-09-26 18:02:19,396 - INFO - Request 64 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049534, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,396 - INFO - Request 64 Response Code: 200 
+2023-09-26 18:02:19,396 - INFO - Request 65 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/44a8a97527584574b6e3eefdff3b4dc9",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,396 - INFO - Request 65 Response Code: 200 
+2023-09-26 18:02:19,396 - INFO - Request 66 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049530, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,396 - INFO - Request 66 Response Code: 200 
+2023-09-26 18:02:19,396 - INFO - Request 67 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/07138539617446e5bf1a20f8656c8245",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,397 - INFO - Request 67 Response Code: 200 
+2023-09-26 18:02:19,397 - INFO - Request 68 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049537, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,397 - INFO - Request 68 Response Code: 200 
+2023-09-26 18:02:19,397 - INFO - Request 69 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/831da223b0bd4927b531de201d9d76f8",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,397 - INFO - Request 69 Response Code: 200 
+2023-09-26 18:02:19,397 - INFO - Request 70 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049539, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,397 - INFO - Request 70 Response Code: 200 
+2023-09-26 18:02:19,397 - INFO - Request 71 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/d22eb7a0d80f4e058c7799c6344f7702",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,397 - INFO - Request 71 Response Code: 200 
+2023-09-26 18:02:19,397 - INFO - Request 72 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/20d1d3cd21f44ee3991812516d3a6b3f",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,397 - INFO - Request 72 Response Code: 200 
+2023-09-26 18:02:19,397 - INFO - Request 73 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,397 - INFO - Request 73 Response Code: 504 
+2023-09-26 18:02:19,398 - INFO - Request 74 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,398 - INFO - Request 74 Response Code: 504 
+2023-09-26 18:02:19,398 - INFO - Request 75 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f2a7bc13db6e4896abbd69e39bb378e7",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,398 - INFO - Request 75 Response Code: 200 
+2023-09-26 18:02:19,398 - INFO - Request 76 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,398 - INFO - Request 76 Response Code: 504 
+2023-09-26 18:02:19,398 - INFO - Request 77 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,398 - INFO - Request 77 Response Code: 504 
+2023-09-26 18:02:19,398 - INFO - Request 78 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,398 - INFO - Request 78 Response Code: 504 
+2023-09-26 18:02:19,398 - INFO - Request 79 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,399 - INFO - Request 79 Response Code: 504 
+2023-09-26 18:02:19,399 - INFO - Request 80 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/524f97ff10234e3597b5d9f53169271d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,399 - INFO - Request 80 Response Code: 200 
+2023-09-26 18:02:19,399 - INFO - Request 81 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,399 - INFO - Request 81 Response Code: 504 
+2023-09-26 18:02:19,399 - INFO - Request 82 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,399 - INFO - Request 82 Response Code: 504 
+2023-09-26 18:02:19,399 - INFO - Request 83 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/56fb36e6384b4c1cb1500c7b8120aad7",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,399 - INFO - Request 83 Response Code: 200 
+2023-09-26 18:02:19,399 - INFO - Request 84 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,399 - INFO - Request 84 Response Code: 504 
+2023-09-26 18:02:19,399 - INFO - Request 85 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,400 - INFO - Request 85 Response Code: 504 
+2023-09-26 18:02:19,400 - INFO - Request 86 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,400 - INFO - Request 86 Response Code: 504 
+2023-09-26 18:02:19,400 - INFO - Request 87 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,400 - INFO - Request 87 Response Code: 504 
+2023-09-26 18:02:19,400 - INFO - Request 88 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,400 - INFO - Request 88 Response Code: 504 
+2023-09-26 18:02:19,400 - INFO - Request 89 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,400 - INFO - Request 89 Response Code: 504 
+2023-09-26 18:02:19,400 - INFO - Request 90 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,400 - INFO - Request 90 Response Code: 504 
+2023-09-26 18:02:19,400 - INFO - Request 91 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,400 - INFO - Request 91 Response Code: 504 
+2023-09-26 18:02:19,401 - INFO - Request 92 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,401 - INFO - Request 92 Response Code: 504 
+2023-09-26 18:02:19,401 - INFO - Request 93 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,401 - INFO - Request 93 Response Code: 504 
+2023-09-26 18:02:19,401 - INFO - Request 94 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,401 - INFO - Request 94 Response Code: 504 
+2023-09-26 18:02:19,401 - INFO - Request 95 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,401 - INFO - Request 95 Response Code: 504 
+2023-09-26 18:02:19,401 - INFO - Request 96 Response: <html>
+<head><title>504 Gateway Time-out</title></head>
+<body>
+<center><h1>504 Gateway Time-out</h1></center>
+<hr><center></center>
+</body>
+</html>
+ 
+2023-09-26 18:02:19,401 - INFO - Request 96 Response Code: 504 
+2023-09-26 18:02:19,401 - INFO - Request 97 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049568, failed with error message null.",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,402 - INFO - Request 97 Response Code: 200 
+2023-09-26 18:02:19,402 - INFO - Request 98 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049570, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,402 - INFO - Request 98 Response Code: 200 
+2023-09-26 18:02:19,402 - INFO - Request 99 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "description" : "Orchestration process with id 4049569, failed with error message IAM-3051103 : The create operation on user entity failed in action stage..",
+      "code" : "412"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,402 - INFO - Request 99 Response Code: 200 
+2023-09-26 18:02:19,402 - INFO - Request 100 Response: {
+  "schemas" : [ "urn:scim:schemas:core:2.0:BulkResponse" ],
+  "Operations" : [ {
+    "location" : "https://hs-identity-api-stg.oracleindustry.com:443/scim/v1/migtenantqa1/Users/f9fbb197b045479f895a7a16acc0164d",
+    "method" : "POST",
+    "bulkId" : "qwerty",
+    "status" : {
+      "code" : "201"
+    },
+    "path" : "/Users"
+  } ]
+} 
+2023-09-26 18:02:19,402 - INFO - Request 100 Response Code: 200 
